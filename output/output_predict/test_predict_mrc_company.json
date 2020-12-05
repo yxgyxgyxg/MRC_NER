@@ -1,0 +1,5117 @@
+{"id": 0, "entities": []}
+{"id": 1, "entities": []}
+{"id": 2, "entities": []}
+{"id": 3, "entities": []}
+{"id": 4, "entities": []}
+{"id": 5, "entities": [["company", 50, 63]]}
+{"id": 6, "entities": []}
+{"id": 7, "entities": []}
+{"id": 8, "entities": [["company", 4, 12]]}
+{"id": 8, "entities": []}
+{"id": 9, "entities": []}
+{"id": 10, "entities": []}
+{"id": 11, "entities": []}
+{"id": 12, "entities": []}
+{"id": 13, "entities": []}
+{"id": 14, "entities": []}
+{"id": 15, "entities": []}
+{"id": 16, "entities": [["company", 56, 63]]}
+{"id": 17, "entities": [["company", 0, 5], ["company", 55, 62]]}
+{"id": 18, "entities": []}
+{"id": 19, "entities": []}
+{"id": 20, "entities": []}
+{"id": 21, "entities": []}
+{"id": 22, "entities": []}
+{"id": 22, "entities": []}
+{"id": 23, "entities": []}
+{"id": 23, "entities": []}
+{"id": 23, "entities": [["company", 83, 86]]}
+{"id": 23, "entities": []}
+{"id": 23, "entities": []}
+{"id": 24, "entities": []}
+{"id": 25, "entities": []}
+{"id": 26, "entities": []}
+{"id": 27, "entities": [["company", 71, 80]]}
+{"id": 28, "entities": []}
+{"id": 29, "entities": []}
+{"id": 29, "entities": [["company", 49, 52]]}
+{"id": 29, "entities": []}
+{"id": 30, "entities": []}
+{"id": 31, "entities": []}
+{"id": 32, "entities": []}
+{"id": 33, "entities": []}
+{"id": 34, "entities": [["company", 84, 96]]}
+{"id": 35, "entities": [["company", 83, 98]]}
+{"id": 36, "entities": []}
+{"id": 37, "entities": []}
+{"id": 38, "entities": [["company", 65, 68]]}
+{"id": 39, "entities": []}
+{"id": 40, "entities": []}
+{"id": 41, "entities": []}
+{"id": 42, "entities": []}
+{"id": 43, "entities": [["company", 55, 62], ["company", 86, 92]]}
+{"id": 43, "entities": []}
+{"id": 44, "entities": [["company", 41, 50], ["company", 54, 65]]}
+{"id": 45, "entities": []}
+{"id": 46, "entities": []}
+{"id": 47, "entities": [["company", 82, 85]]}
+{"id": 47, "entities": [["company", 67, 72]]}
+{"id": 47, "entities": []}
+{"id": 47, "entities": []}
+{"id": 48, "entities": []}
+{"id": 49, "entities": []}
+{"id": 50, "entities": []}
+{"id": 51, "entities": [["company", 2, 26], ["company", 62, 68], ["company", 80, 81]]}
+{"id": 51, "entities": []}
+{"id": 52, "entities": []}
+{"id": 53, "entities": []}
+{"id": 54, "entities": [["company", 10, 11]]}
+{"id": 55, "entities": []}
+{"id": 56, "entities": []}
+{"id": 57, "entities": [["company", 75, 78]]}
+{"id": 57, "entities": []}
+{"id": 57, "entities": [["company", 26, 27]]}
+{"id": 58, "entities": [["company", 43, 46], ["company", 55, 58]]}
+{"id": 59, "entities": []}
+{"id": 60, "entities": [["company", 69, 78], ["company", 80, 86]]}
+{"id": 61, "entities": [["company", 0, 17], ["company", 50, 67]]}
+{"id": 62, "entities": []}
+{"id": 62, "entities": [["company", 52, 61]]}
+{"id": 62, "entities": []}
+{"id": 62, "entities": [["company", 0, 8]]}
+{"id": 63, "entities": []}
+{"id": 64, "entities": []}
+{"id": 65, "entities": [["company", 0, 3]]}
+{"id": 66, "entities": []}
+{"id": 67, "entities": []}
+{"id": 68, "entities": []}
+{"id": 69, "entities": []}
+{"id": 70, "entities": [["company", 8, 17], ["company", 62, 71]]}
+{"id": 71, "entities": []}
+{"id": 72, "entities": [["company", 58, 63]]}
+{"id": 73, "entities": []}
+{"id": 74, "entities": []}
+{"id": 75, "entities": []}
+{"id": 76, "entities": [["company", 0, 12], ["company", 16, 28], ["company", 59, 69]]}
+{"id": 77, "entities": []}
+{"id": 77, "entities": []}
+{"id": 77, "entities": [["company", 47, 48], ["company", 63, 66], ["company", 75, 78]]}
+{"id": 77, "entities": []}
+{"id": 78, "entities": []}
+{"id": 79, "entities": []}
+{"id": 80, "entities": []}
+{"id": 81, "entities": [["company", 13, 19]]}
+{"id": 82, "entities": []}
+{"id": 83, "entities": []}
+{"id": 84, "entities": []}
+{"id": 85, "entities": [["company", 0, 1]]}
+{"id": 86, "entities": []}
+{"id": 87, "entities": []}
+{"id": 87, "entities": [["company", 38, 41], ["company", 44, 47]]}
+{"id": 88, "entities": []}
+{"id": 89, "entities": []}
+{"id": 90, "entities": [["company", 0, 4]]}
+{"id": 91, "entities": []}
+{"id": 92, "entities": []}
+{"id": 93, "entities": []}
+{"id": 94, "entities": [["company", 64, 71]]}
+{"id": 95, "entities": []}
+{"id": 96, "entities": []}
+{"id": 96, "entities": []}
+{"id": 96, "entities": [["company", 11, 14], ["company", 76, 79]]}
+{"id": 97, "entities": []}
+{"id": 98, "entities": [["company", 67, 81]]}
+{"id": 99, "entities": []}
+{"id": 100, "entities": []}
+{"id": 101, "entities": [["company", 27, 36]]}
+{"id": 102, "entities": [["company", 2, 3]]}
+{"id": 103, "entities": []}
+{"id": 104, "entities": []}
+{"id": 105, "entities": []}
+{"id": 105, "entities": [["company", 96, 101]]}
+{"id": 105, "entities": []}
+{"id": 106, "entities": []}
+{"id": 107, "entities": []}
+{"id": 108, "entities": []}
+{"id": 109, "entities": [["company", 69, 74]]}
+{"id": 110, "entities": []}
+{"id": 111, "entities": [["company", 6, 9], ["company", 66, 77]]}
+{"id": 112, "entities": []}
+{"id": 113, "entities": [["company", 17, 19]]}
+{"id": 114, "entities": []}
+{"id": 115, "entities": []}
+{"id": 116, "entities": []}
+{"id": 117, "entities": []}
+{"id": 118, "entities": []}
+{"id": 119, "entities": [["company", 21, 30], ["company", 53, 56], ["company", 72, 85]]}
+{"id": 120, "entities": []}
+{"id": 121, "entities": []}
+{"id": 122, "entities": [["company", 46, 53]]}
+{"id": 123, "entities": [["company", 0, 3], ["company", 8, 22]]}
+{"id": 124, "entities": []}
+{"id": 125, "entities": [["company", 87, 92]]}
+{"id": 125, "entities": []}
+{"id": 126, "entities": [["company", 0, 11]]}
+{"id": 127, "entities": [["company", 0, 3], ["company", 52, 63]]}
+{"id": 128, "entities": []}
+{"id": 129, "entities": []}
+{"id": 130, "entities": []}
+{"id": 131, "entities": [["company", 23, 31], ["company", 86, 95]]}
+{"id": 132, "entities": [["company", 67, 72]]}
+{"id": 133, "entities": []}
+{"id": 134, "entities": [["company", 0, 3], ["company", 6, 12], ["company", 14, 19], ["company", 32, 33]]}
+{"id": 134, "entities": [["company", 0, 1], ["company", 90, 93], ["company", 102, 105]]}
+{"id": 134, "entities": [["company", 6, 13]]}
+{"id": 135, "entities": []}
+{"id": 136, "entities": []}
+{"id": 137, "entities": [["company", 57, 74]]}
+{"id": 138, "entities": []}
+{"id": 139, "entities": []}
+{"id": 140, "entities": []}
+{"id": 141, "entities": []}
+{"id": 141, "entities": []}
+{"id": 142, "entities": [["company", 0, 12], ["company", 51, 63]]}
+{"id": 143, "entities": []}
+{"id": 144, "entities": []}
+{"id": 145, "entities": []}
+{"id": 146, "entities": []}
+{"id": 147, "entities": []}
+{"id": 148, "entities": []}
+{"id": 148, "entities": [["company", 24, 25], ["company", 41, 43]]}
+{"id": 148, "entities": [["company", 47, 56]]}
+{"id": 149, "entities": []}
+{"id": 150, "entities": []}
+{"id": 151, "entities": [["company", 46, 59]]}
+{"id": 152, "entities": []}
+{"id": 153, "entities": []}
+{"id": 154, "entities": [["company", 70, 75]]}
+{"id": 155, "entities": []}
+{"id": 156, "entities": []}
+{"id": 157, "entities": [["company", 65, 68]]}
+{"id": 158, "entities": []}
+{"id": 158, "entities": []}
+{"id": 159, "entities": []}
+{"id": 160, "entities": []}
+{"id": 161, "entities": []}
+{"id": 162, "entities": []}
+{"id": 162, "entities": [["company", 62, 63], ["company", 91, 97]]}
+{"id": 162, "entities": []}
+{"id": 162, "entities": []}
+{"id": 163, "entities": []}
+{"id": 164, "entities": []}
+{"id": 165, "entities": [["company", 55, 71]]}
+{"id": 166, "entities": []}
+{"id": 167, "entities": [["company", 3, 5], ["company", 14, 16], ["company", 47, 58]]}
+{"id": 167, "entities": []}
+{"id": 167, "entities": [["company", 86, 89]]}
+{"id": 167, "entities": [["company", 71, 74], ["company", 82, 83]]}
+{"id": 167, "entities": []}
+{"id": 167, "entities": [["company", 78, 81], ["company", 83, 86], ["company", 88, 90]]}
+{"id": 167, "entities": []}
+{"id": 167, "entities": [["company", 67, 71]]}
+{"id": 167, "entities": []}
+{"id": 167, "entities": []}
+{"id": 167, "entities": [["company", 11, 14], ["company", 16, 19]]}
+{"id": 168, "entities": []}
+{"id": 169, "entities": []}
+{"id": 170, "entities": []}
+{"id": 171, "entities": [["company", 0, 13]]}
+{"id": 172, "entities": []}
+{"id": 173, "entities": [["company", 32, 35]]}
+{"id": 173, "entities": []}
+{"id": 174, "entities": []}
+{"id": 175, "entities": [["company", 0, 1]]}
+{"id": 175, "entities": [["company", 9, 10]]}
+{"id": 175, "entities": []}
+{"id": 176, "entities": []}
+{"id": 177, "entities": []}
+{"id": 178, "entities": []}
+{"id": 179, "entities": []}
+{"id": 180, "entities": [["company", 0, 2]]}
+{"id": 180, "entities": []}
+{"id": 180, "entities": []}
+{"id": 181, "entities": []}
+{"id": 182, "entities": []}
+{"id": 183, "entities": [["company", 29, 30]]}
+{"id": 184, "entities": []}
+{"id": 185, "entities": []}
+{"id": 186, "entities": []}
+{"id": 187, "entities": [["company", 62, 74]]}
+{"id": 188, "entities": []}
+{"id": 189, "entities": []}
+{"id": 190, "entities": []}
+{"id": 191, "entities": []}
+{"id": 192, "entities": [["company", 57, 59], ["company", 61, 62]]}
+{"id": 193, "entities": []}
+{"id": 194, "entities": []}
+{"id": 195, "entities": [["company", 72, 74], ["company", 80, 83]]}
+{"id": 195, "entities": [["company", 1, 4]]}
+{"id": 196, "entities": [["company", 18, 28]]}
+{"id": 197, "entities": []}
+{"id": 198, "entities": [["company", 0, 11], ["company", 15, 27], ["company", 31, 41]]}
+{"id": 199, "entities": []}
+{"id": 199, "entities": []}
+{"id": 200, "entities": []}
+{"id": 201, "entities": []}
+{"id": 202, "entities": []}
+{"id": 203, "entities": []}
+{"id": 203, "entities": []}
+{"id": 204, "entities": []}
+{"id": 205, "entities": []}
+{"id": 206, "entities": []}
+{"id": 207, "entities": []}
+{"id": 208, "entities": []}
+{"id": 208, "entities": [["company", 0, 1]]}
+{"id": 208, "entities": []}
+{"id": 209, "entities": []}
+{"id": 210, "entities": []}
+{"id": 211, "entities": []}
+{"id": 212, "entities": []}
+{"id": 213, "entities": [["company", 81, 90]]}
+{"id": 214, "entities": []}
+{"id": 215, "entities": [["company", 0, 7], ["company", 44, 48]]}
+{"id": 216, "entities": []}
+{"id": 217, "entities": []}
+{"id": 218, "entities": []}
+{"id": 219, "entities": []}
+{"id": 220, "entities": []}
+{"id": 221, "entities": [["company", 51, 60]]}
+{"id": 222, "entities": [["company", 60, 74]]}
+{"id": 223, "entities": [["company", 58, 72]]}
+{"id": 224, "entities": [["company", 2, 3]]}
+{"id": 225, "entities": [["company", 19, 22], ["company", 52, 65]]}
+{"id": 226, "entities": []}
+{"id": 227, "entities": []}
+{"id": 228, "entities": []}
+{"id": 229, "entities": [["company", 0, 1]]}
+{"id": 230, "entities": [["company", 61, 74]]}
+{"id": 231, "entities": []}
+{"id": 232, "entities": []}
+{"id": 233, "entities": []}
+{"id": 234, "entities": []}
+{"id": 235, "entities": []}
+{"id": 236, "entities": []}
+{"id": 237, "entities": [["company", 11, 17], ["company", 63, 65]]}
+{"id": 237, "entities": [["company", 6, 8]]}
+{"id": 238, "entities": []}
+{"id": 239, "entities": [["company", 47, 54]]}
+{"id": 240, "entities": [["company", 41, 44]]}
+{"id": 240, "entities": [["company", 60, 63]]}
+{"id": 241, "entities": []}
+{"id": 242, "entities": [["company", 96, 97]]}
+{"id": 242, "entities": [["company", 0, 1]]}
+{"id": 243, "entities": []}
+{"id": 244, "entities": [["company", 0, 19], ["company", 68, 81]]}
+{"id": 245, "entities": [["company", 5, 6], ["company", 13, 18], ["company", 25, 26], ["company", 94, 95], ["company", 100, 101]]}
+{"id": 245, "entities": []}
+{"id": 246, "entities": [["company", 5, 23], ["company", 27, 34]]}
+{"id": 247, "entities": [["company", 21, 22]]}
+{"id": 248, "entities": []}
+{"id": 249, "entities": [["company", 42, 47]]}
+{"id": 249, "entities": []}
+{"id": 250, "entities": []}
+{"id": 251, "entities": [["company", 78, 87]]}
+{"id": 251, "entities": []}
+{"id": 252, "entities": []}
+{"id": 253, "entities": []}
+{"id": 254, "entities": []}
+{"id": 255, "entities": []}
+{"id": 256, "entities": []}
+{"id": 257, "entities": [["company", 14, 18]]}
+{"id": 258, "entities": []}
+{"id": 259, "entities": []}
+{"id": 260, "entities": []}
+{"id": 261, "entities": []}
+{"id": 262, "entities": [["company", 39, 44]]}
+{"id": 263, "entities": [["company", 11, 13]]}
+{"id": 263, "entities": []}
+{"id": 264, "entities": [["company", 43, 46]]}
+{"id": 265, "entities": []}
+{"id": 266, "entities": []}
+{"id": 267, "entities": []}
+{"id": 268, "entities": []}
+{"id": 269, "entities": []}
+{"id": 269, "entities": []}
+{"id": 270, "entities": []}
+{"id": 271, "entities": []}
+{"id": 272, "entities": []}
+{"id": 273, "entities": []}
+{"id": 274, "entities": []}
+{"id": 275, "entities": [["company", 60, 61]]}
+{"id": 275, "entities": []}
+{"id": 276, "entities": []}
+{"id": 277, "entities": []}
+{"id": 277, "entities": []}
+{"id": 278, "entities": []}
+{"id": 278, "entities": []}
+{"id": 278, "entities": [["company", 11, 14]]}
+{"id": 278, "entities": []}
+{"id": 279, "entities": []}
+{"id": 279, "entities": [["company", 47, 50], ["company", 69, 71]]}
+{"id": 280, "entities": []}
+{"id": 280, "entities": []}
+{"id": 281, "entities": [["company", 0, 3], ["company", 5, 8]]}
+{"id": 282, "entities": []}
+{"id": 283, "entities": []}
+{"id": 284, "entities": []}
+{"id": 285, "entities": [["company", 26, 27], ["company", 29, 30], ["company", 32, 33], ["company", 35, 36], ["company", 38, 39]]}
+{"id": 285, "entities": [["company", 2, 5]]}
+{"id": 286, "entities": [["company", 45, 46]]}
+{"id": 286, "entities": [["company", 0, 15], ["company", 25, 34]]}
+{"id": 286, "entities": []}
+{"id": 287, "entities": []}
+{"id": 288, "entities": [["company", 13, 24]]}
+{"id": 289, "entities": []}
+{"id": 290, "entities": [["company", 91, 94]]}
+{"id": 290, "entities": [["company", 8, 12], ["company", 23, 28]]}
+{"id": 290, "entities": [["company", 21, 28], ["company", 99, 101]]}
+{"id": 290, "entities": [["company", 4, 6], ["company", 8, 10], ["company", 12, 17]]}
+{"id": 291, "entities": []}
+{"id": 292, "entities": []}
+{"id": 293, "entities": []}
+{"id": 294, "entities": []}
+{"id": 295, "entities": []}
+{"id": 296, "entities": [["company", 52, 59]]}
+{"id": 296, "entities": []}
+{"id": 297, "entities": [["company", 56, 70]]}
+{"id": 298, "entities": []}
+{"id": 299, "entities": []}
+{"id": 299, "entities": []}
+{"id": 300, "entities": []}
+{"id": 301, "entities": [["company", 0, 1]]}
+{"id": 302, "entities": [["company", 68, 80]]}
+{"id": 303, "entities": [["company", 43, 48]]}
+{"id": 304, "entities": []}
+{"id": 305, "entities": [["company", 81, 86]]}
+{"id": 306, "entities": []}
+{"id": 307, "entities": []}
+{"id": 308, "entities": []}
+{"id": 309, "entities": []}
+{"id": 310, "entities": [["company", 48, 49]]}
+{"id": 311, "entities": []}
+{"id": 311, "entities": [["company", 0, 7]]}
+{"id": 312, "entities": [["company", 0, 7], ["company", 41, 45], ["company", 47, 54]]}
+{"id": 313, "entities": []}
+{"id": 314, "entities": []}
+{"id": 315, "entities": []}
+{"id": 316, "entities": []}
+{"id": 317, "entities": [["company", 0, 2]]}
+{"id": 317, "entities": []}
+{"id": 317, "entities": []}
+{"id": 317, "entities": [["company", 5, 12]]}
+{"id": 317, "entities": []}
+{"id": 317, "entities": []}
+{"id": 318, "entities": []}
+{"id": 319, "entities": []}
+{"id": 320, "entities": [["company", 9, 16]]}
+{"id": 320, "entities": [["company", 37, 40]]}
+{"id": 321, "entities": []}
+{"id": 322, "entities": [["company", 66, 71]]}
+{"id": 323, "entities": []}
+{"id": 324, "entities": [["company", 62, 63]]}
+{"id": 325, "entities": []}
+{"id": 325, "entities": []}
+{"id": 325, "entities": [["company", 89, 99]]}
+{"id": 325, "entities": []}
+{"id": 326, "entities": []}
+{"id": 327, "entities": [["company", 59, 72]]}
+{"id": 328, "entities": [["company", 28, 29]]}
+{"id": 329, "entities": [["company", 53, 54]]}
+{"id": 329, "entities": [["company", 5, 10]]}
+{"id": 330, "entities": [["company", 15, 26]]}
+{"id": 331, "entities": [["company", 35, 38], ["company", 40, 50]]}
+{"id": 331, "entities": [["company", 82, 85]]}
+{"id": 331, "entities": []}
+{"id": 332, "entities": [["company", 84, 87]]}
+{"id": 332, "entities": [["company", 0, 1]]}
+{"id": 333, "entities": []}
+{"id": 334, "entities": []}
+{"id": 335, "entities": [["company", 0, 4]]}
+{"id": 335, "entities": []}
+{"id": 336, "entities": []}
+{"id": 336, "entities": []}
+{"id": 337, "entities": [["company", 43, 60]]}
+{"id": 337, "entities": []}
+{"id": 337, "entities": [["company", 0, 3]]}
+{"id": 337, "entities": []}
+{"id": 338, "entities": []}
+{"id": 339, "entities": []}
+{"id": 340, "entities": []}
+{"id": 341, "entities": []}
+{"id": 342, "entities": []}
+{"id": 343, "entities": []}
+{"id": 344, "entities": [["company", 100, 104]]}
+{"id": 344, "entities": [["company", 3, 5]]}
+{"id": 345, "entities": []}
+{"id": 345, "entities": []}
+{"id": 346, "entities": []}
+{"id": 347, "entities": []}
+{"id": 348, "entities": [["company", 94, 95]]}
+{"id": 349, "entities": [["company", 33, 36], ["company", 70, 73]]}
+{"id": 349, "entities": [["company", 82, 89]]}
+{"id": 349, "entities": [["company", 43, 46]]}
+{"id": 350, "entities": []}
+{"id": 351, "entities": [["company", 88, 95]]}
+{"id": 351, "entities": []}
+{"id": 352, "entities": [["company", 61, 68]]}
+{"id": 353, "entities": [["company", 10, 14]]}
+{"id": 354, "entities": []}
+{"id": 355, "entities": []}
+{"id": 356, "entities": []}
+{"id": 357, "entities": []}
+{"id": 358, "entities": []}
+{"id": 359, "entities": []}
+{"id": 360, "entities": []}
+{"id": 361, "entities": []}
+{"id": 362, "entities": []}
+{"id": 363, "entities": []}
+{"id": 364, "entities": []}
+{"id": 365, "entities": [["company", 6, 9]]}
+{"id": 366, "entities": []}
+{"id": 367, "entities": []}
+{"id": 368, "entities": [["company", 74, 79]]}
+{"id": 369, "entities": []}
+{"id": 369, "entities": [["company", 47, 50], ["company", 64, 67]]}
+{"id": 369, "entities": []}
+{"id": 369, "entities": [["company", 46, 49], ["company", 56, 59], ["company", 74, 77], ["company", 84, 87], ["company", 92, 97]]}
+{"id": 369, "entities": [["company", 103, 106]]}
+{"id": 369, "entities": []}
+{"id": 370, "entities": [["company", 60, 71]]}
+{"id": 371, "entities": []}
+{"id": 372, "entities": []}
+{"id": 373, "entities": []}
+{"id": 374, "entities": []}
+{"id": 375, "entities": []}
+{"id": 376, "entities": []}
+{"id": 377, "entities": []}
+{"id": 378, "entities": [["company", 41, 42]]}
+{"id": 379, "entities": []}
+{"id": 380, "entities": []}
+{"id": 381, "entities": [["company", 80, 83]]}
+{"id": 382, "entities": []}
+{"id": 382, "entities": []}
+{"id": 382, "entities": [["company", 75, 80]]}
+{"id": 382, "entities": []}
+{"id": 382, "entities": [["company", 0, 1]]}
+{"id": 382, "entities": []}
+{"id": 382, "entities": []}
+{"id": 382, "entities": [["company", 10, 13], ["company", 15, 24]]}
+{"id": 382, "entities": [["company", 0, 1], ["company", 4, 10]]}
+{"id": 383, "entities": [["company", 46, 48]]}
+{"id": 383, "entities": [["company", 0, 17], ["company", 27, 30], ["company", 46, 49]]}
+{"id": 383, "entities": []}
+{"id": 384, "entities": [["company", 1, 10], ["company", 45, 48]]}
+{"id": 385, "entities": []}
+{"id": 386, "entities": []}
+{"id": 387, "entities": []}
+{"id": 387, "entities": []}
+{"id": 388, "entities": []}
+{"id": 389, "entities": []}
+{"id": 389, "entities": []}
+{"id": 389, "entities": []}
+{"id": 390, "entities": []}
+{"id": 391, "entities": []}
+{"id": 392, "entities": [["company", 15, 19]]}
+{"id": 393, "entities": [["company", 62, 73]]}
+{"id": 394, "entities": [["company", 0, 7]]}
+{"id": 395, "entities": []}
+{"id": 395, "entities": []}
+{"id": 396, "entities": []}
+{"id": 397, "entities": [["company", 20, 25]]}
+{"id": 398, "entities": []}
+{"id": 398, "entities": []}
+{"id": 399, "entities": [["company", 18, 21]]}
+{"id": 399, "entities": []}
+{"id": 399, "entities": []}
+{"id": 399, "entities": [["company", 2, 5], ["company", 19, 20]]}
+{"id": 399, "entities": []}
+{"id": 399, "entities": [["company", 104, 105]]}
+{"id": 399, "entities": [["company", 0, 3]]}
+{"id": 400, "entities": [["company", 39, 44]]}
+{"id": 401, "entities": [["company", 50, 51]]}
+{"id": 401, "entities": [["company", 0, 1]]}
+{"id": 401, "entities": [["company", 58, 61], ["company", 69, 70]]}
+{"id": 402, "entities": []}
+{"id": 403, "entities": []}
+{"id": 404, "entities": []}
+{"id": 405, "entities": []}
+{"id": 406, "entities": []}
+{"id": 406, "entities": [["company", 0, 7]]}
+{"id": 407, "entities": []}
+{"id": 408, "entities": []}
+{"id": 409, "entities": [["company", 52, 59]]}
+{"id": 410, "entities": []}
+{"id": 410, "entities": []}
+{"id": 411, "entities": []}
+{"id": 412, "entities": []}
+{"id": 413, "entities": []}
+{"id": 413, "entities": []}
+{"id": 414, "entities": []}
+{"id": 415, "entities": []}
+{"id": 416, "entities": []}
+{"id": 417, "entities": [["company", 102, 109]]}
+{"id": 418, "entities": [["company", 0, 4], ["company", 66, 70]]}
+{"id": 419, "entities": [["company", 7, 12]]}
+{"id": 420, "entities": []}
+{"id": 420, "entities": []}
+{"id": 421, "entities": [["company", 60, 67]]}
+{"id": 422, "entities": []}
+{"id": 423, "entities": []}
+{"id": 424, "entities": [["company", 53, 66]]}
+{"id": 425, "entities": []}
+{"id": 426, "entities": []}
+{"id": 427, "entities": []}
+{"id": 428, "entities": []}
+{"id": 429, "entities": []}
+{"id": 429, "entities": []}
+{"id": 430, "entities": []}
+{"id": 431, "entities": [["company", 14, 27], ["company", 61, 74]]}
+{"id": 432, "entities": [["company", 92, 104]]}
+{"id": 432, "entities": [["company", 43, 44]]}
+{"id": 433, "entities": []}
+{"id": 434, "entities": []}
+{"id": 435, "entities": []}
+{"id": 436, "entities": []}
+{"id": 437, "entities": []}
+{"id": 437, "entities": [["company", 1, 4], ["company", 78, 82]]}
+{"id": 438, "entities": []}
+{"id": 439, "entities": [["company", 70, 74]]}
+{"id": 440, "entities": [["company", 31, 33], ["company", 35, 36]]}
+{"id": 440, "entities": [["company", 2, 23]]}
+{"id": 440, "entities": []}
+{"id": 440, "entities": [["company", 49, 52]]}
+{"id": 441, "entities": []}
+{"id": 441, "entities": []}
+{"id": 442, "entities": []}
+{"id": 443, "entities": [["company", 0, 8], ["company", 65, 71]]}
+{"id": 444, "entities": []}
+{"id": 445, "entities": [["company", 68, 79]]}
+{"id": 446, "entities": []}
+{"id": 447, "entities": []}
+{"id": 447, "entities": []}
+{"id": 448, "entities": []}
+{"id": 449, "entities": [["company", 0, 9], ["company", 64, 73]]}
+{"id": 450, "entities": []}
+{"id": 451, "entities": [["company", 9, 12]]}
+{"id": 452, "entities": []}
+{"id": 453, "entities": []}
+{"id": 454, "entities": []}
+{"id": 455, "entities": []}
+{"id": 456, "entities": []}
+{"id": 457, "entities": []}
+{"id": 458, "entities": [["company", 9, 16]]}
+{"id": 459, "entities": []}
+{"id": 460, "entities": []}
+{"id": 460, "entities": []}
+{"id": 461, "entities": []}
+{"id": 462, "entities": [["company", 73, 76]]}
+{"id": 463, "entities": []}
+{"id": 463, "entities": []}
+{"id": 464, "entities": []}
+{"id": 465, "entities": []}
+{"id": 466, "entities": []}
+{"id": 467, "entities": []}
+{"id": 468, "entities": []}
+{"id": 469, "entities": []}
+{"id": 470, "entities": []}
+{"id": 471, "entities": []}
+{"id": 472, "entities": []}
+{"id": 473, "entities": []}
+{"id": 473, "entities": []}
+{"id": 474, "entities": []}
+{"id": 474, "entities": []}
+{"id": 475, "entities": []}
+{"id": 476, "entities": [["company", 49, 54]]}
+{"id": 477, "entities": []}
+{"id": 478, "entities": []}
+{"id": 479, "entities": []}
+{"id": 480, "entities": [["company", 0, 17], ["company", 68, 85]]}
+{"id": 481, "entities": []}
+{"id": 481, "entities": []}
+{"id": 482, "entities": []}
+{"id": 482, "entities": []}
+{"id": 483, "entities": []}
+{"id": 484, "entities": []}
+{"id": 485, "entities": []}
+{"id": 486, "entities": [["company", 67, 74]]}
+{"id": 487, "entities": [["company", 90, 93]]}
+{"id": 487, "entities": []}
+{"id": 488, "entities": [["company", 0, 16]]}
+{"id": 489, "entities": []}
+{"id": 490, "entities": []}
+{"id": 491, "entities": []}
+{"id": 492, "entities": []}
+{"id": 493, "entities": [["company", 0, 7], ["company", 12, 17], ["company", 70, 79]]}
+{"id": 494, "entities": []}
+{"id": 494, "entities": []}
+{"id": 495, "entities": [["company", 6, 11], ["company", 64, 76]]}
+{"id": 496, "entities": []}
+{"id": 497, "entities": []}
+{"id": 498, "entities": [["company", 11, 15], ["company", 62, 65]]}
+{"id": 499, "entities": []}
+{"id": 500, "entities": []}
+{"id": 500, "entities": []}
+{"id": 500, "entities": []}
+{"id": 501, "entities": []}
+{"id": 501, "entities": []}
+{"id": 501, "entities": []}
+{"id": 502, "entities": [["company", 0, 13]]}
+{"id": 503, "entities": []}
+{"id": 503, "entities": [["company", 8, 10]]}
+{"id": 503, "entities": []}
+{"id": 504, "entities": [["company", 54, 57]]}
+{"id": 504, "entities": [["company", 0, 3], ["company", 53, 56]]}
+{"id": 504, "entities": []}
+{"id": 505, "entities": []}
+{"id": 506, "entities": [["company", 74, 86]]}
+{"id": 507, "entities": []}
+{"id": 508, "entities": []}
+{"id": 509, "entities": []}
+{"id": 510, "entities": []}
+{"id": 511, "entities": []}
+{"id": 512, "entities": []}
+{"id": 513, "entities": []}
+{"id": 514, "entities": [["company", 68, 86]]}
+{"id": 515, "entities": [["company", 53, 56], ["company", 71, 74]]}
+{"id": 516, "entities": []}
+{"id": 517, "entities": []}
+{"id": 518, "entities": [["company", 73, 84]]}
+{"id": 519, "entities": []}
+{"id": 520, "entities": [["company", 72, 84]]}
+{"id": 521, "entities": [["company", 64, 71]]}
+{"id": 522, "entities": [["company", 10, 16]]}
+{"id": 523, "entities": []}
+{"id": 524, "entities": []}
+{"id": 525, "entities": [["company", 40, 44]]}
+{"id": 526, "entities": []}
+{"id": 527, "entities": [["company", 0, 2]]}
+{"id": 527, "entities": [["company", 13, 18]]}
+{"id": 528, "entities": []}
+{"id": 528, "entities": []}
+{"id": 529, "entities": [["company", 0, 3]]}
+{"id": 530, "entities": []}
+{"id": 531, "entities": [["company", 68, 73]]}
+{"id": 532, "entities": []}
+{"id": 533, "entities": []}
+{"id": 534, "entities": []}
+{"id": 535, "entities": [["company", 43, 53], ["company", 61, 71]]}
+{"id": 536, "entities": []}
+{"id": 537, "entities": []}
+{"id": 538, "entities": []}
+{"id": 539, "entities": []}
+{"id": 540, "entities": []}
+{"id": 541, "entities": []}
+{"id": 542, "entities": [["company", 32, 42], ["company", 49, 56], ["company", 74, 81]]}
+{"id": 543, "entities": []}
+{"id": 544, "entities": []}
+{"id": 545, "entities": [["company", 31, 33]]}
+{"id": 546, "entities": [["company", 44, 47]]}
+{"id": 546, "entities": []}
+{"id": 547, "entities": []}
+{"id": 548, "entities": [["company", 67, 75]]}
+{"id": 549, "entities": []}
+{"id": 550, "entities": []}
+{"id": 551, "entities": []}
+{"id": 552, "entities": []}
+{"id": 553, "entities": [["company", 14, 20]]}
+{"id": 553, "entities": []}
+{"id": 554, "entities": []}
+{"id": 554, "entities": []}
+{"id": 555, "entities": []}
+{"id": 556, "entities": []}
+{"id": 556, "entities": []}
+{"id": 557, "entities": []}
+{"id": 558, "entities": [["company", 60, 72]]}
+{"id": 559, "entities": []}
+{"id": 559, "entities": []}
+{"id": 560, "entities": []}
+{"id": 561, "entities": [["company", 70, 80]]}
+{"id": 562, "entities": [["company", 0, 3]]}
+{"id": 563, "entities": [["company", 56, 64]]}
+{"id": 564, "entities": []}
+{"id": 564, "entities": []}
+{"id": 565, "entities": []}
+{"id": 566, "entities": []}
+{"id": 566, "entities": []}
+{"id": 567, "entities": []}
+{"id": 568, "entities": []}
+{"id": 569, "entities": []}
+{"id": 570, "entities": []}
+{"id": 571, "entities": [["company", 0, 2]]}
+{"id": 571, "entities": []}
+{"id": 571, "entities": []}
+{"id": 571, "entities": []}
+{"id": 572, "entities": []}
+{"id": 573, "entities": []}
+{"id": 574, "entities": []}
+{"id": 575, "entities": []}
+{"id": 576, "entities": []}
+{"id": 577, "entities": [["company", 34, 60], ["company", 47, 60], ["company", 71, 84]]}
+{"id": 578, "entities": []}
+{"id": 579, "entities": [["company", 54, 56]]}
+{"id": 580, "entities": []}
+{"id": 581, "entities": []}
+{"id": 582, "entities": [["company", 0, 2]]}
+{"id": 583, "entities": []}
+{"id": 584, "entities": []}
+{"id": 584, "entities": []}
+{"id": 585, "entities": []}
+{"id": 586, "entities": []}
+{"id": 587, "entities": []}
+{"id": 588, "entities": []}
+{"id": 589, "entities": []}
+{"id": 590, "entities": []}
+{"id": 590, "entities": [["company", 0, 13]]}
+{"id": 591, "entities": []}
+{"id": 592, "entities": []}
+{"id": 593, "entities": []}
+{"id": 594, "entities": []}
+{"id": 595, "entities": []}
+{"id": 596, "entities": []}
+{"id": 597, "entities": []}
+{"id": 598, "entities": []}
+{"id": 599, "entities": [["company", 38, 39]]}
+{"id": 600, "entities": []}
+{"id": 601, "entities": []}
+{"id": 602, "entities": [["company", 8, 11]]}
+{"id": 602, "entities": [["company", 27, 45]]}
+{"id": 602, "entities": []}
+{"id": 603, "entities": []}
+{"id": 604, "entities": []}
+{"id": 605, "entities": []}
+{"id": 606, "entities": []}
+{"id": 607, "entities": []}
+{"id": 608, "entities": [["company", 6, 18], ["company", 57, 58]]}
+{"id": 609, "entities": [["company", 60, 62], ["company", 88, 89]]}
+{"id": 610, "entities": [["company", 13, 20], ["company", 22, 27], ["company", 57, 62], ["company", 67, 72]]}
+{"id": 611, "entities": []}
+{"id": 612, "entities": []}
+{"id": 613, "entities": []}
+{"id": 614, "entities": []}
+{"id": 615, "entities": []}
+{"id": 616, "entities": [["company", 60, 63]]}
+{"id": 617, "entities": []}
+{"id": 618, "entities": [["company", 71, 83]]}
+{"id": 619, "entities": [["company", 66, 77]]}
+{"id": 620, "entities": []}
+{"id": 621, "entities": []}
+{"id": 622, "entities": []}
+{"id": 623, "entities": []}
+{"id": 624, "entities": []}
+{"id": 625, "entities": []}
+{"id": 626, "entities": []}
+{"id": 627, "entities": [["company", 0, 4], ["company", 15, 18]]}
+{"id": 628, "entities": [["company", 38, 40], ["company", 80, 83]]}
+{"id": 628, "entities": []}
+{"id": 629, "entities": []}
+{"id": 630, "entities": [["company", 0, 1], ["company", 4, 5], ["company", 21, 22]]}
+{"id": 631, "entities": []}
+{"id": 631, "entities": []}
+{"id": 631, "entities": []}
+{"id": 632, "entities": []}
+{"id": 633, "entities": [["company", 1, 7], ["company", 20, 26], ["company", 66, 77]]}
+{"id": 634, "entities": []}
+{"id": 634, "entities": []}
+{"id": 634, "entities": []}
+{"id": 635, "entities": [["company", 62, 76]]}
+{"id": 636, "entities": []}
+{"id": 636, "entities": []}
+{"id": 636, "entities": [["company", 55, 62]]}
+{"id": 636, "entities": []}
+{"id": 636, "entities": []}
+{"id": 637, "entities": [["company", 35, 38], ["company", 55, 57], ["company", 74, 77]]}
+{"id": 637, "entities": [["company", 12, 15]]}
+{"id": 638, "entities": [["company", 77, 84]]}
+{"id": 639, "entities": []}
+{"id": 639, "entities": []}
+{"id": 640, "entities": [["company", 104, 105]]}
+{"id": 640, "entities": [["company", 18, 19]]}
+{"id": 641, "entities": []}
+{"id": 642, "entities": []}
+{"id": 643, "entities": []}
+{"id": 644, "entities": []}
+{"id": 645, "entities": []}
+{"id": 646, "entities": [["company", 14, 16], ["company", 18, 23], ["company", 28, 32]]}
+{"id": 647, "entities": []}
+{"id": 648, "entities": []}
+{"id": 649, "entities": []}
+{"id": 649, "entities": []}
+{"id": 650, "entities": []}
+{"id": 651, "entities": []}
+{"id": 652, "entities": []}
+{"id": 653, "entities": []}
+{"id": 654, "entities": [["company", 75, 89]]}
+{"id": 655, "entities": [["company", 55, 72]]}
+{"id": 656, "entities": []}
+{"id": 657, "entities": []}
+{"id": 657, "entities": []}
+{"id": 658, "entities": []}
+{"id": 659, "entities": []}
+{"id": 660, "entities": []}
+{"id": 660, "entities": []}
+{"id": 660, "entities": [["company", 10, 11], ["company", 66, 68]]}
+{"id": 660, "entities": []}
+{"id": 661, "entities": []}
+{"id": 662, "entities": [["company", 38, 43]]}
+{"id": 662, "entities": []}
+{"id": 663, "entities": []}
+{"id": 664, "entities": []}
+{"id": 665, "entities": [["company", 8, 11]]}
+{"id": 666, "entities": [["company", 53, 62]]}
+{"id": 667, "entities": [["company", 5, 6]]}
+{"id": 668, "entities": []}
+{"id": 668, "entities": []}
+{"id": 669, "entities": []}
+{"id": 670, "entities": []}
+{"id": 671, "entities": []}
+{"id": 672, "entities": []}
+{"id": 673, "entities": []}
+{"id": 674, "entities": []}
+{"id": 675, "entities": []}
+{"id": 676, "entities": [["company", 50, 58], ["company", 60, 69], ["company", 88, 92]]}
+{"id": 676, "entities": []}
+{"id": 677, "entities": []}
+{"id": 678, "entities": []}
+{"id": 679, "entities": []}
+{"id": 680, "entities": []}
+{"id": 681, "entities": []}
+{"id": 682, "entities": []}
+{"id": 683, "entities": []}
+{"id": 684, "entities": []}
+{"id": 685, "entities": []}
+{"id": 685, "entities": [["company", 0, 2]]}
+{"id": 685, "entities": [["company", 0, 3]]}
+{"id": 686, "entities": []}
+{"id": 686, "entities": []}
+{"id": 686, "entities": []}
+{"id": 686, "entities": []}
+{"id": 686, "entities": []}
+{"id": 686, "entities": []}
+{"id": 686, "entities": []}
+{"id": 687, "entities": []}
+{"id": 688, "entities": []}
+{"id": 689, "entities": [["company", 41, 42], ["company", 64, 65], ["company", 74, 75]]}
+{"id": 689, "entities": []}
+{"id": 690, "entities": []}
+{"id": 691, "entities": []}
+{"id": 692, "entities": [["company", 90, 91]]}
+{"id": 692, "entities": []}
+{"id": 693, "entities": []}
+{"id": 694, "entities": [["company", 90, 94]]}
+{"id": 695, "entities": [["company", 15, 16]]}
+{"id": 695, "entities": []}
+{"id": 696, "entities": [["company", 68, 80]]}
+{"id": 697, "entities": [["company", 0, 5]]}
+{"id": 698, "entities": [["company", 29, 30]]}
+{"id": 698, "entities": [["company", 0, 1]]}
+{"id": 698, "entities": []}
+{"id": 699, "entities": []}
+{"id": 700, "entities": []}
+{"id": 701, "entities": [["company", 27, 29]]}
+{"id": 701, "entities": []}
+{"id": 702, "entities": []}
+{"id": 703, "entities": []}
+{"id": 704, "entities": []}
+{"id": 705, "entities": [["company", 54, 66]]}
+{"id": 706, "entities": [["company", 31, 44]]}
+{"id": 707, "entities": [["company", 10, 22]]}
+{"id": 707, "entities": []}
+{"id": 708, "entities": []}
+{"id": 709, "entities": []}
+{"id": 709, "entities": []}
+{"id": 710, "entities": []}
+{"id": 710, "entities": []}
+{"id": 711, "entities": []}
+{"id": 712, "entities": []}
+{"id": 713, "entities": []}
+{"id": 714, "entities": []}
+{"id": 715, "entities": [["company", 0, 12], ["company", 32, 44], ["company", 48, 53], ["company", 57, 69]]}
+{"id": 716, "entities": []}
+{"id": 717, "entities": [["company", 57, 64]]}
+{"id": 718, "entities": [["company", 56, 72]]}
+{"id": 719, "entities": []}
+{"id": 720, "entities": [["company", 70, 84]]}
+{"id": 721, "entities": []}
+{"id": 722, "entities": []}
+{"id": 723, "entities": []}
+{"id": 724, "entities": []}
+{"id": 725, "entities": []}
+{"id": 726, "entities": []}
+{"id": 727, "entities": []}
+{"id": 728, "entities": []}
+{"id": 729, "entities": []}
+{"id": 730, "entities": []}
+{"id": 731, "entities": []}
+{"id": 731, "entities": []}
+{"id": 732, "entities": []}
+{"id": 733, "entities": [["company", 20, 23]]}
+{"id": 733, "entities": []}
+{"id": 733, "entities": []}
+{"id": 734, "entities": []}
+{"id": 735, "entities": [["company", 6, 7]]}
+{"id": 735, "entities": []}
+{"id": 736, "entities": []}
+{"id": 736, "entities": []}
+{"id": 736, "entities": []}
+{"id": 737, "entities": []}
+{"id": 738, "entities": []}
+{"id": 739, "entities": []}
+{"id": 740, "entities": [["company", 59, 60]]}
+{"id": 741, "entities": []}
+{"id": 741, "entities": []}
+{"id": 742, "entities": []}
+{"id": 742, "entities": []}
+{"id": 742, "entities": [["company", 21, 22], ["company", 26, 29]]}
+{"id": 742, "entities": [["company", 0, 3], ["company", 10, 15]]}
+{"id": 742, "entities": [["company", 8, 16], ["company", 80, 91]]}
+{"id": 743, "entities": [["company", 13, 16], ["company", 58, 67]]}
+{"id": 744, "entities": [["company", 25, 39]]}
+{"id": 745, "entities": []}
+{"id": 746, "entities": [["company", 98, 99]]}
+{"id": 746, "entities": [["company", 15, 16], ["company", 31, 35]]}
+{"id": 747, "entities": []}
+{"id": 748, "entities": []}
+{"id": 749, "entities": [["company", 92, 97]]}
+{"id": 749, "entities": []}
+{"id": 750, "entities": [["company", 0, 12], ["company", 57, 69]]}
+{"id": 751, "entities": []}
+{"id": 752, "entities": []}
+{"id": 753, "entities": []}
+{"id": 754, "entities": []}
+{"id": 755, "entities": []}
+{"id": 756, "entities": []}
+{"id": 757, "entities": [["company", 49, 63]]}
+{"id": 758, "entities": []}
+{"id": 759, "entities": []}
+{"id": 760, "entities": [["company", 74, 83]]}
+{"id": 761, "entities": [["company", 50, 52], ["company", 71, 73]]}
+{"id": 761, "entities": []}
+{"id": 762, "entities": [["company", 97, 106]]}
+{"id": 762, "entities": []}
+{"id": 762, "entities": []}
+{"id": 762, "entities": [["company", 3, 6], ["company", 28, 40]]}
+{"id": 763, "entities": [["company", 54, 61]]}
+{"id": 764, "entities": []}
+{"id": 765, "entities": []}
+{"id": 766, "entities": [["company", 75, 80]]}
+{"id": 767, "entities": []}
+{"id": 768, "entities": []}
+{"id": 769, "entities": []}
+{"id": 769, "entities": []}
+{"id": 770, "entities": []}
+{"id": 770, "entities": [["company", 0, 11], ["company", 22, 28]]}
+{"id": 771, "entities": [["company", 68, 71]]}
+{"id": 772, "entities": [["company", 0, 12], ["company", 59, 62]]}
+{"id": 773, "entities": [["company", 5, 6], ["company", 49, 50]]}
+{"id": 773, "entities": [["company", 88, 91]]}
+{"id": 773, "entities": []}
+{"id": 774, "entities": [["company", 26, 32]]}
+{"id": 775, "entities": []}
+{"id": 775, "entities": []}
+{"id": 775, "entities": [["company", 4, 7], ["company", 32, 35], ["company", 40, 52]]}
+{"id": 776, "entities": []}
+{"id": 777, "entities": []}
+{"id": 778, "entities": []}
+{"id": 778, "entities": []}
+{"id": 779, "entities": []}
+{"id": 780, "entities": [["company", 63, 68]]}
+{"id": 781, "entities": []}
+{"id": 781, "entities": []}
+{"id": 781, "entities": []}
+{"id": 782, "entities": []}
+{"id": 783, "entities": []}
+{"id": 784, "entities": []}
+{"id": 785, "entities": []}
+{"id": 786, "entities": []}
+{"id": 787, "entities": []}
+{"id": 788, "entities": []}
+{"id": 789, "entities": []}
+{"id": 790, "entities": [["company", 70, 75]]}
+{"id": 791, "entities": []}
+{"id": 791, "entities": []}
+{"id": 792, "entities": [["company", 63, 66]]}
+{"id": 792, "entities": []}
+{"id": 793, "entities": []}
+{"id": 794, "entities": []}
+{"id": 795, "entities": []}
+{"id": 796, "entities": []}
+{"id": 797, "entities": [["company", 0, 4]]}
+{"id": 798, "entities": [["company", 58, 63]]}
+{"id": 799, "entities": []}
+{"id": 800, "entities": []}
+{"id": 801, "entities": [["company", 42, 43]]}
+{"id": 802, "entities": []}
+{"id": 802, "entities": [["company", 55, 58], ["company", 60, 63], ["company", 65, 68], ["company", 90, 91]]}
+{"id": 802, "entities": [["company", 5, 15]]}
+{"id": 803, "entities": []}
+{"id": 804, "entities": [["company", 0, 3], ["company", 5, 8], ["company", 10, 13], ["company", 15, 17]]}
+{"id": 805, "entities": []}
+{"id": 806, "entities": []}
+{"id": 807, "entities": []}
+{"id": 808, "entities": []}
+{"id": 809, "entities": []}
+{"id": 810, "entities": []}
+{"id": 811, "entities": []}
+{"id": 811, "entities": [["company", 0, 2]]}
+{"id": 812, "entities": [["company", 15, 28], ["company", 70, 83]]}
+{"id": 813, "entities": []}
+{"id": 814, "entities": []}
+{"id": 815, "entities": []}
+{"id": 816, "entities": []}
+{"id": 817, "entities": []}
+{"id": 818, "entities": []}
+{"id": 819, "entities": []}
+{"id": 819, "entities": []}
+{"id": 820, "entities": []}
+{"id": 821, "entities": []}
+{"id": 822, "entities": []}
+{"id": 823, "entities": []}
+{"id": 824, "entities": []}
+{"id": 825, "entities": []}
+{"id": 826, "entities": [["company", 10, 17]]}
+{"id": 827, "entities": []}
+{"id": 828, "entities": [["company", 12, 25]]}
+{"id": 829, "entities": [["company", 74, 87], ["company", 91, 101]]}
+{"id": 830, "entities": []}
+{"id": 831, "entities": [["company", 3, 6], ["company", 26, 29]]}
+{"id": 832, "entities": [["company", 0, 4], ["company", 44, 53], ["company", 68, 72]]}
+{"id": 833, "entities": []}
+{"id": 834, "entities": []}
+{"id": 835, "entities": []}
+{"id": 836, "entities": []}
+{"id": 837, "entities": [["company", 49, 50], ["company", 52, 56], ["company", 77, 81]]}
+{"id": 838, "entities": []}
+{"id": 839, "entities": []}
+{"id": 840, "entities": []}
+{"id": 840, "entities": []}
+{"id": 841, "entities": [["company", 0, 5], ["company", 7, 12], ["company", 14, 20]]}
+{"id": 842, "entities": [["company", 65, 74]]}
+{"id": 843, "entities": []}
+{"id": 844, "entities": []}
+{"id": 845, "entities": []}
+{"id": 846, "entities": []}
+{"id": 846, "entities": [["company", 0, 1]]}
+{"id": 846, "entities": []}
+{"id": 846, "entities": []}
+{"id": 847, "entities": []}
+{"id": 848, "entities": []}
+{"id": 849, "entities": []}
+{"id": 850, "entities": []}
+{"id": 850, "entities": [["company", 38, 43]]}
+{"id": 851, "entities": [["company", 56, 65]]}
+{"id": 852, "entities": [["company", 6, 15]]}
+{"id": 852, "entities": []}
+{"id": 853, "entities": [["company", 60, 73]]}
+{"id": 854, "entities": []}
+{"id": 855, "entities": [["company", 2, 3], ["company", 28, 32], ["company", 82, 88]]}
+{"id": 855, "entities": [["company", 27, 28]]}
+{"id": 856, "entities": []}
+{"id": 857, "entities": [["company", 3, 4]]}
+{"id": 858, "entities": []}
+{"id": 859, "entities": []}
+{"id": 859, "entities": [["company", 20, 22]]}
+{"id": 859, "entities": []}
+{"id": 860, "entities": []}
+{"id": 861, "entities": []}
+{"id": 862, "entities": []}
+{"id": 863, "entities": []}
+{"id": 863, "entities": []}
+{"id": 863, "entities": []}
+{"id": 864, "entities": [["company", 12, 15]]}
+{"id": 865, "entities": []}
+{"id": 865, "entities": []}
+{"id": 866, "entities": [["company", 57, 62]]}
+{"id": 867, "entities": []}
+{"id": 868, "entities": []}
+{"id": 869, "entities": [["company", 38, 43]]}
+{"id": 869, "entities": []}
+{"id": 870, "entities": []}
+{"id": 870, "entities": [["company", 0, 16]]}
+{"id": 871, "entities": []}
+{"id": 872, "entities": []}
+{"id": 873, "entities": []}
+{"id": 874, "entities": []}
+{"id": 875, "entities": []}
+{"id": 876, "entities": []}
+{"id": 877, "entities": []}
+{"id": 877, "entities": []}
+{"id": 878, "entities": []}
+{"id": 879, "entities": []}
+{"id": 880, "entities": [["company", 52, 66]]}
+{"id": 881, "entities": []}
+{"id": 882, "entities": [["company", 0, 3], ["company", 73, 76]]}
+{"id": 883, "entities": []}
+{"id": 884, "entities": []}
+{"id": 885, "entities": [["company", 62, 63]]}
+{"id": 885, "entities": []}
+{"id": 886, "entities": []}
+{"id": 887, "entities": []}
+{"id": 888, "entities": []}
+{"id": 889, "entities": []}
+{"id": 890, "entities": []}
+{"id": 891, "entities": [["company", 0, 13]]}
+{"id": 892, "entities": []}
+{"id": 893, "entities": []}
+{"id": 894, "entities": [["company", 44, 45]]}
+{"id": 895, "entities": []}
+{"id": 896, "entities": []}
+{"id": 897, "entities": []}
+{"id": 898, "entities": []}
+{"id": 899, "entities": []}
+{"id": 899, "entities": []}
+{"id": 899, "entities": []}
+{"id": 900, "entities": [["company", 0, 3], ["company", 81, 84]]}
+{"id": 901, "entities": [["company", 36, 39], ["company", 58, 59], ["company", 69, 76]]}
+{"id": 901, "entities": [["company", 35, 40], ["company", 60, 63]]}
+{"id": 901, "entities": []}
+{"id": 902, "entities": []}
+{"id": 903, "entities": []}
+{"id": 904, "entities": []}
+{"id": 905, "entities": [["company", 50, 56]]}
+{"id": 906, "entities": []}
+{"id": 907, "entities": [["company", 0, 7], ["company", 14, 21], ["company", 25, 35], ["company", 40, 54], ["company", 61, 76]]}
+{"id": 908, "entities": []}
+{"id": 909, "entities": []}
+{"id": 910, "entities": []}
+{"id": 911, "entities": [["company", 22, 23], ["company", 42, 47]]}
+{"id": 911, "entities": []}
+{"id": 912, "entities": []}
+{"id": 913, "entities": [["company", 54, 63]]}
+{"id": 914, "entities": []}
+{"id": 914, "entities": []}
+{"id": 914, "entities": []}
+{"id": 914, "entities": [["company", 0, 1]]}
+{"id": 915, "entities": [["company", 49, 52]]}
+{"id": 916, "entities": [["company", 72, 89]]}
+{"id": 917, "entities": [["company", 19, 30]]}
+{"id": 917, "entities": []}
+{"id": 918, "entities": []}
+{"id": 919, "entities": []}
+{"id": 920, "entities": []}
+{"id": 921, "entities": []}
+{"id": 921, "entities": [["company", 0, 3]]}
+{"id": 922, "entities": []}
+{"id": 922, "entities": []}
+{"id": 922, "entities": []}
+{"id": 923, "entities": []}
+{"id": 924, "entities": []}
+{"id": 924, "entities": []}
+{"id": 925, "entities": []}
+{"id": 926, "entities": []}
+{"id": 927, "entities": [["company", 66, 69]]}
+{"id": 928, "entities": []}
+{"id": 929, "entities": []}
+{"id": 930, "entities": [["company", 2, 11]]}
+{"id": 931, "entities": []}
+{"id": 932, "entities": []}
+{"id": 933, "entities": []}
+{"id": 934, "entities": [["company", 63, 71]]}
+{"id": 935, "entities": [["company", 47, 54], ["company", 61, 70]]}
+{"id": 936, "entities": [["company", 66, 71]]}
+{"id": 937, "entities": [["company", 59, 68]]}
+{"id": 937, "entities": []}
+{"id": 938, "entities": [["company", 0, 8], ["company", 78, 80]]}
+{"id": 938, "entities": [["company", 0, 1], ["company", 3, 8], ["company", 46, 49]]}
+{"id": 938, "entities": []}
+{"id": 939, "entities": [["company", 95, 100]]}
+{"id": 939, "entities": []}
+{"id": 940, "entities": []}
+{"id": 941, "entities": []}
+{"id": 942, "entities": []}
+{"id": 943, "entities": []}
+{"id": 944, "entities": [["company", 0, 5], ["company", 83, 90]]}
+{"id": 945, "entities": [["company", 28, 34]]}
+{"id": 946, "entities": []}
+{"id": 947, "entities": []}
+{"id": 948, "entities": []}
+{"id": 949, "entities": []}
+{"id": 949, "entities": []}
+{"id": 949, "entities": []}
+{"id": 950, "entities": []}
+{"id": 951, "entities": []}
+{"id": 952, "entities": [["company", 52, 66]]}
+{"id": 953, "entities": [["company", 66, 76]]}
+{"id": 954, "entities": [["company", 48, 59]]}
+{"id": 955, "entities": []}
+{"id": 956, "entities": []}
+{"id": 957, "entities": []}
+{"id": 958, "entities": [["company", 6, 9]]}
+{"id": 958, "entities": [["company", 41, 44], ["company", 46, 50], ["company", 52, 56], ["company", 61, 66]]}
+{"id": 959, "entities": []}
+{"id": 960, "entities": [["company", 73, 82], ["company", 88, 93]]}
+{"id": 961, "entities": []}
+{"id": 961, "entities": [["company", 24, 27], ["company", 36, 37], ["company", 46, 49], ["company", 58, 61], ["company", 71, 74]]}
+{"id": 962, "entities": []}
+{"id": 963, "entities": []}
+{"id": 964, "entities": [["company", 17, 18]]}
+{"id": 965, "entities": [["company", 60, 65]]}
+{"id": 966, "entities": []}
+{"id": 967, "entities": [["company", 75, 76]]}
+{"id": 968, "entities": [["company", 60, 72]]}
+{"id": 969, "entities": [["company", 44, 45]]}
+{"id": 969, "entities": []}
+{"id": 970, "entities": []}
+{"id": 971, "entities": [["company", 7, 8], ["company", 10, 13]]}
+{"id": 972, "entities": []}
+{"id": 973, "entities": [["company", 2, 4]]}
+{"id": 974, "entities": []}
+{"id": 975, "entities": [["company", 17, 22]]}
+{"id": 976, "entities": [["company", 60, 64]]}
+{"id": 977, "entities": [["company", 0, 11], ["company", 58, 63]]}
+{"id": 978, "entities": [["company", 31, 34]]}
+{"id": 978, "entities": []}
+{"id": 979, "entities": [["company", 65, 72]]}
+{"id": 980, "entities": [["company", 75, 81]]}
+{"id": 981, "entities": []}
+{"id": 982, "entities": []}
+{"id": 983, "entities": [["company", 57, 73]]}
+{"id": 984, "entities": []}
+{"id": 985, "entities": []}
+{"id": 986, "entities": []}
+{"id": 986, "entities": [["company", 17, 18], ["company", 20, 21], ["company", 24, 25]]}
+{"id": 987, "entities": []}
+{"id": 987, "entities": []}
+{"id": 987, "entities": []}
+{"id": 987, "entities": []}
+{"id": 988, "entities": []}
+{"id": 989, "entities": []}
+{"id": 989, "entities": []}
+{"id": 990, "entities": [["company", 0, 1], ["company", 51, 52], ["company", 68, 69]]}
+{"id": 991, "entities": []}
+{"id": 992, "entities": [["company", 0, 2], ["company", 54, 69], ["company", 71, 87]]}
+{"id": 993, "entities": [["company", 43, 52]]}
+{"id": 994, "entities": []}
+{"id": 995, "entities": []}
+{"id": 996, "entities": []}
+{"id": 997, "entities": []}
+{"id": 998, "entities": []}
+{"id": 999, "entities": [["company", 52, 55]]}
+{"id": 1000, "entities": []}
+{"id": 1001, "entities": [["company", 59, 80]]}
+{"id": 1002, "entities": []}
+{"id": 1003, "entities": []}
+{"id": 1004, "entities": []}
+{"id": 1005, "entities": []}
+{"id": 1006, "entities": []}
+{"id": 1007, "entities": [["company", 92, 95]]}
+{"id": 1008, "entities": []}
+{"id": 1009, "entities": [["company", 39, 40], ["company", 49, 52]]}
+{"id": 1010, "entities": []}
+{"id": 1011, "entities": []}
+{"id": 1011, "entities": []}
+{"id": 1012, "entities": []}
+{"id": 1013, "entities": [["company", 42, 45]]}
+{"id": 1014, "entities": []}
+{"id": 1015, "entities": []}
+{"id": 1016, "entities": []}
+{"id": 1017, "entities": [["company", 36, 38], ["company", 67, 70]]}
+{"id": 1017, "entities": []}
+{"id": 1018, "entities": []}
+{"id": 1019, "entities": []}
+{"id": 1020, "entities": []}
+{"id": 1021, "entities": []}
+{"id": 1022, "entities": [["company", 61, 67]]}
+{"id": 1023, "entities": []}
+{"id": 1024, "entities": []}
+{"id": 1025, "entities": [["company", 0, 5], ["company", 75, 80]]}
+{"id": 1026, "entities": []}
+{"id": 1027, "entities": []}
+{"id": 1028, "entities": []}
+{"id": 1028, "entities": []}
+{"id": 1029, "entities": [["company", 56, 59]]}
+{"id": 1030, "entities": [["company", 17, 30], ["company", 56, 67], ["company", 70, 71]]}
+{"id": 1030, "entities": [["company", 0, 2]]}
+{"id": 1030, "entities": []}
+{"id": 1031, "entities": [["company", 29, 30]]}
+{"id": 1032, "entities": [["company", 27, 29], ["company", 87, 94]]}
+{"id": 1033, "entities": []}
+{"id": 1034, "entities": []}
+{"id": 1035, "entities": [["company", 49, 51]]}
+{"id": 1036, "entities": [["company", 0, 3], ["company", 89, 92]]}
+{"id": 1036, "entities": []}
+{"id": 1037, "entities": [["company", 59, 60], ["company", 71, 74]]}
+{"id": 1037, "entities": []}
+{"id": 1038, "entities": []}
+{"id": 1039, "entities": []}
+{"id": 1039, "entities": []}
+{"id": 1040, "entities": []}
+{"id": 1041, "entities": [["company", 56, 62], ["company", 66, 71]]}
+{"id": 1042, "entities": []}
+{"id": 1043, "entities": []}
+{"id": 1043, "entities": [["company", 0, 3], ["company", 15, 18], ["company", 38, 41], ["company", 43, 46], ["company", 48, 51], ["company", 59, 62], ["company", 64, 66], ["company", 68, 71]]}
+{"id": 1044, "entities": [["company", 77, 78]]}
+{"id": 1045, "entities": []}
+{"id": 1046, "entities": []}
+{"id": 1046, "entities": [["company", 0, 7], ["company", 42, 45], ["company", 62, 63], ["company", 81, 82]]}
+{"id": 1046, "entities": []}
+{"id": 1047, "entities": [["company", 69, 75]]}
+{"id": 1048, "entities": []}
+{"id": 1049, "entities": [["company", 1, 6], ["company", 41, 43]]}
+{"id": 1049, "entities": [["company", 2, 3], ["company", 12, 13], ["company", 26, 27], ["company", 83, 86], ["company", 92, 96]]}
+{"id": 1050, "entities": []}
+{"id": 1051, "entities": [["company", 0, 3]]}
+{"id": 1052, "entities": [["company", 64, 75]]}
+{"id": 1053, "entities": []}
+{"id": 1053, "entities": []}
+{"id": 1054, "entities": []}
+{"id": 1055, "entities": []}
+{"id": 1056, "entities": [["company", 67, 75]]}
+{"id": 1057, "entities": []}
+{"id": 1058, "entities": [["company", 30, 34]]}
+{"id": 1059, "entities": [["company", 83, 86]]}
+{"id": 1059, "entities": []}
+{"id": 1060, "entities": []}
+{"id": 1061, "entities": []}
+{"id": 1062, "entities": []}
+{"id": 1063, "entities": []}
+{"id": 1064, "entities": []}
+{"id": 1065, "entities": [["company", 66, 76]]}
+{"id": 1066, "entities": []}
+{"id": 1067, "entities": []}
+{"id": 1068, "entities": [["company", 64, 66]]}
+{"id": 1069, "entities": []}
+{"id": 1069, "entities": [["company", 25, 27]]}
+{"id": 1070, "entities": []}
+{"id": 1071, "entities": []}
+{"id": 1072, "entities": []}
+{"id": 1073, "entities": [["company", 69, 84]]}
+{"id": 1074, "entities": []}
+{"id": 1075, "entities": [["company", 0, 1], ["company", 79, 84]]}
+{"id": 1076, "entities": [["company", 0, 3], ["company", 102, 109]]}
+{"id": 1077, "entities": []}
+{"id": 1078, "entities": []}
+{"id": 1079, "entities": [["company", 58, 72]]}
+{"id": 1080, "entities": []}
+{"id": 1081, "entities": []}
+{"id": 1082, "entities": []}
+{"id": 1083, "entities": []}
+{"id": 1084, "entities": []}
+{"id": 1084, "entities": []}
+{"id": 1085, "entities": []}
+{"id": 1086, "entities": []}
+{"id": 1087, "entities": []}
+{"id": 1088, "entities": [["company", 0, 3], ["company", 12, 18], ["company", 68, 71]]}
+{"id": 1089, "entities": []}
+{"id": 1090, "entities": []}
+{"id": 1091, "entities": []}
+{"id": 1092, "entities": []}
+{"id": 1092, "entities": []}
+{"id": 1092, "entities": []}
+{"id": 1093, "entities": []}
+{"id": 1094, "entities": []}
+{"id": 1094, "entities": []}
+{"id": 1094, "entities": []}
+{"id": 1094, "entities": []}
+{"id": 1095, "entities": [["company", 26, 35], ["company", 55, 68], ["company", 65, 68]]}
+{"id": 1096, "entities": [["company", 66, 72]]}
+{"id": 1097, "entities": []}
+{"id": 1098, "entities": []}
+{"id": 1099, "entities": []}
+{"id": 1100, "entities": []}
+{"id": 1101, "entities": []}
+{"id": 1101, "entities": []}
+{"id": 1101, "entities": []}
+{"id": 1102, "entities": []}
+{"id": 1103, "entities": []}
+{"id": 1104, "entities": []}
+{"id": 1105, "entities": []}
+{"id": 1105, "entities": []}
+{"id": 1105, "entities": []}
+{"id": 1106, "entities": [["company", 38, 41]]}
+{"id": 1107, "entities": []}
+{"id": 1108, "entities": []}
+{"id": 1108, "entities": []}
+{"id": 1109, "entities": []}
+{"id": 1110, "entities": [["company", 38, 41], ["company", 49, 52], ["company", 69, 70]]}
+{"id": 1110, "entities": []}
+{"id": 1111, "entities": [["company", 40, 43], ["company", 45, 63]]}
+{"id": 1112, "entities": []}
+{"id": 1113, "entities": []}
+{"id": 1114, "entities": [["company", 62, 70]]}
+{"id": 1115, "entities": []}
+{"id": 1116, "entities": [["company", 37, 40], ["company", 63, 68]]}
+{"id": 1117, "entities": []}
+{"id": 1118, "entities": []}
+{"id": 1119, "entities": []}
+{"id": 1120, "entities": [["company", 0, 3]]}
+{"id": 1121, "entities": []}
+{"id": 1121, "entities": []}
+{"id": 1122, "entities": [["company", 62, 64]]}
+{"id": 1123, "entities": []}
+{"id": 1123, "entities": []}
+{"id": 1124, "entities": []}
+{"id": 1125, "entities": []}
+{"id": 1126, "entities": [["company", 51, 52]]}
+{"id": 1126, "entities": []}
+{"id": 1126, "entities": []}
+{"id": 1126, "entities": []}
+{"id": 1126, "entities": [["company", 14, 20], ["company", 97, 98]]}
+{"id": 1126, "entities": []}
+{"id": 1127, "entities": []}
+{"id": 1128, "entities": [["company", 57, 62]]}
+{"id": 1128, "entities": [["company", 20, 23], ["company", 57, 61]]}
+{"id": 1129, "entities": []}
+{"id": 1130, "entities": []}
+{"id": 1131, "entities": []}
+{"id": 1132, "entities": []}
+{"id": 1133, "entities": []}
+{"id": 1134, "entities": []}
+{"id": 1135, "entities": [["company", 56, 66]]}
+{"id": 1135, "entities": []}
+{"id": 1136, "entities": [["company", 73, 76]]}
+{"id": 1137, "entities": [["company", 0, 3], ["company", 5, 8], ["company", 10, 12]]}
+{"id": 1138, "entities": []}
+{"id": 1139, "entities": [["company", 22, 23]]}
+{"id": 1139, "entities": []}
+{"id": 1139, "entities": []}
+{"id": 1139, "entities": []}
+{"id": 1140, "entities": []}
+{"id": 1140, "entities": [["company", 20, 24]]}
+{"id": 1140, "entities": [["company", 27, 29]]}
+{"id": 1140, "entities": [["company", 0, 2]]}
+{"id": 1141, "entities": [["company", 47, 50], ["company", 54, 60]]}
+{"id": 1142, "entities": []}
+{"id": 1143, "entities": []}
+{"id": 1144, "entities": []}
+{"id": 1145, "entities": []}
+{"id": 1145, "entities": []}
+{"id": 1146, "entities": []}
+{"id": 1146, "entities": []}
+{"id": 1146, "entities": []}
+{"id": 1147, "entities": [["company", 18, 19], ["company", 21, 22]]}
+{"id": 1148, "entities": [["company", 28, 31]]}
+{"id": 1148, "entities": [["company", 32, 35], ["company", 60, 63]]}
+{"id": 1148, "entities": [["company", 0, 2]]}
+{"id": 1149, "entities": []}
+{"id": 1150, "entities": [["company", 76, 81]]}
+{"id": 1151, "entities": []}
+{"id": 1152, "entities": [["company", 67, 80]]}
+{"id": 1153, "entities": []}
+{"id": 1154, "entities": []}
+{"id": 1155, "entities": []}
+{"id": 1156, "entities": [["company", 63, 66]]}
+{"id": 1157, "entities": [["company", 14, 17], ["company", 29, 32]]}
+{"id": 1158, "entities": []}
+{"id": 1158, "entities": []}
+{"id": 1158, "entities": [["company", 39, 40]]}
+{"id": 1159, "entities": []}
+{"id": 1160, "entities": [["company", 51, 71]]}
+{"id": 1161, "entities": []}
+{"id": 1162, "entities": []}
+{"id": 1163, "entities": []}
+{"id": 1164, "entities": []}
+{"id": 1165, "entities": []}
+{"id": 1166, "entities": []}
+{"id": 1167, "entities": []}
+{"id": 1168, "entities": []}
+{"id": 1169, "entities": []}
+{"id": 1170, "entities": [["company", 42, 45]]}
+{"id": 1170, "entities": []}
+{"id": 1170, "entities": []}
+{"id": 1171, "entities": []}
+{"id": 1172, "entities": []}
+{"id": 1172, "entities": [["company", 61, 64]]}
+{"id": 1172, "entities": []}
+{"id": 1172, "entities": []}
+{"id": 1172, "entities": []}
+{"id": 1173, "entities": []}
+{"id": 1173, "entities": [["company", 27, 32]]}
+{"id": 1173, "entities": [["company", 81, 86]]}
+{"id": 1173, "entities": []}
+{"id": 1173, "entities": [["company", 19, 21], ["company", 41, 43], ["company", 45, 47]]}
+{"id": 1174, "entities": []}
+{"id": 1174, "entities": [["company", 81, 82], ["company", 91, 94], ["company", 103, 106]]}
+{"id": 1174, "entities": [["company", 85, 86]]}
+{"id": 1174, "entities": [["company", 24, 27]]}
+{"id": 1175, "entities": [["company", 11, 14], ["company", 63, 70]]}
+{"id": 1175, "entities": [["company", 21, 26]]}
+{"id": 1176, "entities": []}
+{"id": 1177, "entities": []}
+{"id": 1178, "entities": []}
+{"id": 1179, "entities": [["company", 54, 65]]}
+{"id": 1180, "entities": [["company", 0, 3], ["company", 12, 15], ["company", 22, 25], ["company", 34, 37], ["company", 45, 48], ["company", 56, 59]]}
+{"id": 1181, "entities": [["company", 94, 110]]}
+{"id": 1181, "entities": []}
+{"id": 1182, "entities": []}
+{"id": 1183, "entities": []}
+{"id": 1184, "entities": []}
+{"id": 1185, "entities": []}
+{"id": 1186, "entities": []}
+{"id": 1187, "entities": [["company", 0, 3], ["company", 8, 17], ["company", 37, 40], ["company", 71, 81]]}
+{"id": 1188, "entities": []}
+{"id": 1189, "entities": []}
+{"id": 1190, "entities": []}
+{"id": 1190, "entities": []}
+{"id": 1191, "entities": [["company", 84, 92]]}
+{"id": 1192, "entities": [["company", 27, 32], ["company", 42, 45], ["company", 70, 73], ["company", 77, 80]]}
+{"id": 1192, "entities": []}
+{"id": 1192, "entities": []}
+{"id": 1193, "entities": []}
+{"id": 1194, "entities": []}
+{"id": 1195, "entities": []}
+{"id": 1196, "entities": [["company", 0, 3], ["company", 8, 11], ["company", 57, 60]]}
+{"id": 1196, "entities": []}
+{"id": 1197, "entities": []}
+{"id": 1198, "entities": []}
+{"id": 1198, "entities": [["company", 30, 39]]}
+{"id": 1199, "entities": []}
+{"id": 1200, "entities": []}
+{"id": 1201, "entities": []}
+{"id": 1202, "entities": []}
+{"id": 1203, "entities": []}
+{"id": 1204, "entities": []}
+{"id": 1205, "entities": []}
+{"id": 1206, "entities": [["company", 55, 66]]}
+{"id": 1207, "entities": []}
+{"id": 1207, "entities": []}
+{"id": 1207, "entities": []}
+{"id": 1208, "entities": []}
+{"id": 1209, "entities": []}
+{"id": 1210, "entities": []}
+{"id": 1211, "entities": []}
+{"id": 1212, "entities": []}
+{"id": 1212, "entities": []}
+{"id": 1212, "entities": [["company", 51, 54]]}
+{"id": 1213, "entities": []}
+{"id": 1214, "entities": []}
+{"id": 1215, "entities": []}
+{"id": 1216, "entities": []}
+{"id": 1217, "entities": []}
+{"id": 1218, "entities": [["company", 0, 3]]}
+{"id": 1219, "entities": []}
+{"id": 1220, "entities": []}
+{"id": 1221, "entities": []}
+{"id": 1221, "entities": []}
+{"id": 1222, "entities": []}
+{"id": 1223, "entities": []}
+{"id": 1224, "entities": []}
+{"id": 1224, "entities": []}
+{"id": 1224, "entities": [["company", 81, 82]]}
+{"id": 1224, "entities": []}
+{"id": 1225, "entities": []}
+{"id": 1226, "entities": []}
+{"id": 1226, "entities": []}
+{"id": 1227, "entities": []}
+{"id": 1228, "entities": []}
+{"id": 1229, "entities": []}
+{"id": 1230, "entities": []}
+{"id": 1231, "entities": []}
+{"id": 1231, "entities": []}
+{"id": 1232, "entities": []}
+{"id": 1233, "entities": []}
+{"id": 1234, "entities": []}
+{"id": 1235, "entities": [["company", 23, 31]]}
+{"id": 1235, "entities": []}
+{"id": 1236, "entities": []}
+{"id": 1237, "entities": []}
+{"id": 1238, "entities": []}
+{"id": 1239, "entities": []}
+{"id": 1240, "entities": []}
+{"id": 1241, "entities": []}
+{"id": 1242, "entities": []}
+{"id": 1242, "entities": []}
+{"id": 1243, "entities": []}
+{"id": 1244, "entities": []}
+{"id": 1245, "entities": [["company", 50, 51]]}
+{"id": 1245, "entities": []}
+{"id": 1245, "entities": []}
+{"id": 1245, "entities": [["company", 23, 24], ["company", 27, 28]]}
+{"id": 1246, "entities": []}
+{"id": 1246, "entities": []}
+{"id": 1247, "entities": [["company", 0, 3], ["company", 36, 43]]}
+{"id": 1247, "entities": [["company", 11, 15], ["company", 86, 87]]}
+{"id": 1248, "entities": []}
+{"id": 1249, "entities": [["company", 65, 68]]}
+{"id": 1250, "entities": []}
+{"id": 1251, "entities": [["company", 0, 3]]}
+{"id": 1251, "entities": []}
+{"id": 1252, "entities": [["company", 43, 46], ["company", 60, 63]]}
+{"id": 1253, "entities": []}
+{"id": 1254, "entities": []}
+{"id": 1255, "entities": []}
+{"id": 1255, "entities": []}
+{"id": 1255, "entities": [["company", 54, 57], ["company", 68, 69]]}
+{"id": 1255, "entities": [["company", 33, 34], ["company", 49, 50]]}
+{"id": 1256, "entities": []}
+{"id": 1257, "entities": [["company", 17, 20], ["company", 44, 47]]}
+{"id": 1258, "entities": []}
+{"id": 1258, "entities": [["company", 28, 31], ["company", 44, 45]]}
+{"id": 1259, "entities": []}
+{"id": 1260, "entities": []}
+{"id": 1261, "entities": []}
+{"id": 1262, "entities": []}
+{"id": 1263, "entities": [["company", 6, 11]]}
+{"id": 1263, "entities": []}
+{"id": 1264, "entities": []}
+{"id": 1265, "entities": [["company", 53, 58]]}
+{"id": 1266, "entities": []}
+{"id": 1267, "entities": [["company", 20, 31], ["company", 42, 50]]}
+{"id": 1268, "entities": []}
+{"id": 1268, "entities": [["company", 1, 5], ["company", 8, 12], ["company", 21, 25]]}
+{"id": 1269, "entities": []}
+{"id": 1270, "entities": []}
+{"id": 1271, "entities": []}
+{"id": 1272, "entities": []}
+{"id": 1273, "entities": [["company", 75, 76]]}
+{"id": 1274, "entities": [["company", 10, 11]]}
+{"id": 1274, "entities": []}
+{"id": 1275, "entities": [["company", 62, 74]]}
+{"id": 1276, "entities": []}
+{"id": 1277, "entities": [["company", 50, 53], ["company", 58, 59]]}
+{"id": 1277, "entities": [["company", 39, 42]]}
+{"id": 1277, "entities": [["company", 8, 11], ["company", 22, 25]]}
+{"id": 1277, "entities": []}
+{"id": 1278, "entities": [["company", 84, 87]]}
+{"id": 1278, "entities": [["company", 39, 42], ["company", 44, 47], ["company", 49, 52], ["company", 66, 69], ["company", 103, 106]]}
+{"id": 1279, "entities": []}
+{"id": 1280, "entities": [["company", 22, 24]]}
+{"id": 1281, "entities": [["company", 0, 5], ["company", 25, 36]]}
+{"id": 1282, "entities": []}
+{"id": 1283, "entities": []}
+{"id": 1284, "entities": [["company", 0, 6]]}
+{"id": 1285, "entities": []}
+{"id": 1286, "entities": []}
+{"id": 1287, "entities": []}
+{"id": 1288, "entities": [["company", 21, 38], ["company", 31, 38]]}
+{"id": 1289, "entities": []}
+{"id": 1290, "entities": [["company", 8, 10]]}
+{"id": 1291, "entities": []}
+{"id": 1291, "entities": []}
+{"id": 1292, "entities": [["company", 25, 30]]}
+{"id": 1293, "entities": []}
+{"id": 1294, "entities": []}
+{"id": 1295, "entities": []}
+{"id": 1296, "entities": [["company", 27, 28]]}
+{"id": 1297, "entities": [["company", 0, 3], ["company", 81, 84]]}
+{"id": 1298, "entities": [["company", 68, 75]]}
+{"id": 1299, "entities": []}
+{"id": 1300, "entities": [["company", 7, 10], ["company", 23, 28]]}
+{"id": 1300, "entities": [["company", 29, 30]]}
+{"id": 1301, "entities": []}
+{"id": 1302, "entities": []}
+{"id": 1303, "entities": []}
+{"id": 1304, "entities": []}
+{"id": 1305, "entities": []}
+{"id": 1306, "entities": []}
+{"id": 1307, "entities": []}
+{"id": 1308, "entities": []}
+{"id": 1309, "entities": []}
+{"id": 1310, "entities": []}
+{"id": 1311, "entities": [["company", 45, 52]]}
+{"id": 1311, "entities": [["company", 29, 32], ["company", 42, 45], ["company", 56, 59], ["company", 68, 73]]}
+{"id": 1311, "entities": [["company", 0, 3]]}
+{"id": 1312, "entities": []}
+{"id": 1312, "entities": [["company", 2, 5]]}
+{"id": 1312, "entities": []}
+{"id": 1313, "entities": [["company", 50, 56]]}
+{"id": 1314, "entities": [["company", 72, 77]]}
+{"id": 1314, "entities": []}
+{"id": 1315, "entities": []}
+{"id": 1316, "entities": []}
+{"id": 1317, "entities": []}
+{"id": 1318, "entities": []}
+{"id": 1319, "entities": []}
+{"id": 1320, "entities": []}
+{"id": 1321, "entities": []}
+{"id": 1322, "entities": []}
+{"id": 1323, "entities": []}
+{"id": 1324, "entities": []}
+{"id": 1325, "entities": []}
+{"id": 1326, "entities": []}
+{"id": 1327, "entities": [["company", 39, 40]]}
+{"id": 1328, "entities": [["company", 30, 43]]}
+{"id": 1329, "entities": [["company", 37, 38]]}
+{"id": 1330, "entities": [["company", 54, 65]]}
+{"id": 1331, "entities": [["company", 62, 65]]}
+{"id": 1332, "entities": []}
+{"id": 1333, "entities": [["company", 48, 51]]}
+{"id": 1333, "entities": []}
+{"id": 1334, "entities": [["company", 68, 77]]}
+{"id": 1335, "entities": []}
+{"id": 1336, "entities": []}
+{"id": 1337, "entities": []}
+{"id": 1338, "entities": [["company", 66, 77]]}
+{"id": 1339, "entities": []}
+{"id": 1340, "entities": [["company", 0, 2]]}
+{"id": 1341, "entities": [["company", 77, 87]]}
+{"id": 1342, "entities": []}
+{"id": 1343, "entities": [["company", 43, 44], ["company", 66, 67]]}
+{"id": 1344, "entities": []}
+{"id": 1344, "entities": []}
+{"id": 1345, "entities": []}
+{"id": 1346, "entities": []}
+{"id": 1347, "entities": [["company", 56, 66]]}
+{"id": 1348, "entities": []}
+{"id": 1349, "entities": [["company", 10, 13]]}
+{"id": 1350, "entities": []}
+{"id": 1351, "entities": [["company", 52, 55], ["company", 64, 75]]}
+{"id": 1352, "entities": []}
+{"id": 1353, "entities": []}
+{"id": 1354, "entities": []}
+{"id": 1355, "entities": []}
+{"id": 1355, "entities": []}
+{"id": 1356, "entities": []}
+{"id": 1357, "entities": []}
+{"id": 1358, "entities": []}
+{"id": 1359, "entities": []}
+{"id": 1360, "entities": []}
+{"id": 1361, "entities": []}
+{"id": 1362, "entities": [["company", 9, 16], ["company", 85, 92]]}
+{"id": 1363, "entities": []}
+{"id": 1364, "entities": [["company", 29, 33]]}
+{"id": 1365, "entities": []}
+{"id": 1366, "entities": []}
+{"id": 1367, "entities": []}
+{"id": 1368, "entities": []}
+{"id": 1369, "entities": []}
+{"id": 1370, "entities": [["company", 51, 56]]}
+{"id": 1371, "entities": []}
+{"id": 1372, "entities": []}
+{"id": 1373, "entities": [["company", 65, 77]]}
+{"id": 1374, "entities": []}
+{"id": 1375, "entities": []}
+{"id": 1376, "entities": [["company", 0, 1], ["company", 62, 71]]}
+{"id": 1377, "entities": []}
+{"id": 1378, "entities": []}
+{"id": 1379, "entities": []}
+{"id": 1380, "entities": []}
+{"id": 1381, "entities": []}
+{"id": 1382, "entities": []}
+{"id": 1383, "entities": []}
+{"id": 1384, "entities": []}
+{"id": 1384, "entities": [["company", 56, 57]]}
+{"id": 1384, "entities": []}
+{"id": 1385, "entities": []}
+{"id": 1386, "entities": []}
+{"id": 1387, "entities": []}
+{"id": 1388, "entities": []}
+{"id": 1389, "entities": []}
+{"id": 1390, "entities": []}
+{"id": 1391, "entities": [["company", 45, 58]]}
+{"id": 1392, "entities": []}
+{"id": 1393, "entities": [["company", 0, 1]]}
+{"id": 1394, "entities": []}
+{"id": 1395, "entities": [["company", 92, 97]]}
+{"id": 1395, "entities": []}
+{"id": 1396, "entities": []}
+{"id": 1397, "entities": []}
+{"id": 1397, "entities": []}
+{"id": 1397, "entities": []}
+{"id": 1397, "entities": []}
+{"id": 1397, "entities": []}
+{"id": 1398, "entities": [["company", 12, 20]]}
+{"id": 1399, "entities": []}
+{"id": 1399, "entities": []}
+{"id": 1400, "entities": [["company", 1, 13]]}
+{"id": 1400, "entities": []}
+{"id": 1401, "entities": []}
+{"id": 1402, "entities": []}
+{"id": 1403, "entities": [["company", 76, 91]]}
+{"id": 1404, "entities": []}
+{"id": 1405, "entities": [["company", 69, 81]]}
+{"id": 1406, "entities": [["company", 29, 30]]}
+{"id": 1407, "entities": []}
+{"id": 1408, "entities": [["company", 12, 15]]}
+{"id": 1409, "entities": []}
+{"id": 1410, "entities": [["company", 76, 84]]}
+{"id": 1410, "entities": [["company", 30, 33]]}
+{"id": 1411, "entities": []}
+{"id": 1412, "entities": []}
+{"id": 1413, "entities": [["company", 40, 49], ["company", 51, 61]]}
+{"id": 1414, "entities": []}
+{"id": 1415, "entities": []}
+{"id": 1416, "entities": []}
+{"id": 1417, "entities": [["company", 63, 76]]}
+{"id": 1418, "entities": [["company", 32, 33], ["company", 95, 97]]}
+{"id": 1418, "entities": []}
+{"id": 1419, "entities": []}
+{"id": 1419, "entities": [["company", 66, 69], ["company", 71, 74]]}
+{"id": 1419, "entities": []}
+{"id": 1420, "entities": [["company", 89, 93]]}
+{"id": 1420, "entities": []}
+{"id": 1421, "entities": [["company", 8, 17]]}
+{"id": 1422, "entities": [["company", 27, 30]]}
+{"id": 1423, "entities": []}
+{"id": 1424, "entities": []}
+{"id": 1425, "entities": []}
+{"id": 1426, "entities": []}
+{"id": 1426, "entities": []}
+{"id": 1427, "entities": []}
+{"id": 1428, "entities": []}
+{"id": 1429, "entities": [["company", 0, 2]]}
+{"id": 1430, "entities": []}
+{"id": 1431, "entities": []}
+{"id": 1432, "entities": [["company", 0, 3]]}
+{"id": 1433, "entities": [["company", 87, 90]]}
+{"id": 1434, "entities": [["company", 0, 3]]}
+{"id": 1435, "entities": [["company", 49, 55]]}
+{"id": 1436, "entities": []}
+{"id": 1436, "entities": []}
+{"id": 1437, "entities": [["company", 66, 73]]}
+{"id": 1438, "entities": []}
+{"id": 1439, "entities": []}
+{"id": 1440, "entities": []}
+{"id": 1441, "entities": []}
+{"id": 1442, "entities": []}
+{"id": 1443, "entities": [["company", 57, 70]]}
+{"id": 1444, "entities": []}
+{"id": 1445, "entities": [["company", 34, 35], ["company", 76, 77]]}
+{"id": 1445, "entities": []}
+{"id": 1445, "entities": []}
+{"id": 1445, "entities": []}
+{"id": 1445, "entities": []}
+{"id": 1446, "entities": [["company", 0, 6]]}
+{"id": 1447, "entities": []}
+{"id": 1447, "entities": [["company", 0, 3]]}
+{"id": 1448, "entities": []}
+{"id": 1449, "entities": []}
+{"id": 1450, "entities": []}
+{"id": 1451, "entities": []}
+{"id": 1452, "entities": []}
+{"id": 1453, "entities": []}
+{"id": 1453, "entities": []}
+{"id": 1454, "entities": []}
+{"id": 1455, "entities": [["company", 103, 105]]}
+{"id": 1456, "entities": [["company", 13, 16], ["company", 23, 26]]}
+{"id": 1457, "entities": [["company", 18, 20], ["company", 22, 30]]}
+{"id": 1458, "entities": []}
+{"id": 1459, "entities": []}
+{"id": 1460, "entities": []}
+{"id": 1461, "entities": []}
+{"id": 1461, "entities": []}
+{"id": 1462, "entities": [["company", 0, 9], ["company", 72, 83]]}
+{"id": 1463, "entities": []}
+{"id": 1463, "entities": []}
+{"id": 1464, "entities": []}
+{"id": 1465, "entities": []}
+{"id": 1466, "entities": []}
+{"id": 1467, "entities": []}
+{"id": 1468, "entities": []}
+{"id": 1469, "entities": []}
+{"id": 1470, "entities": []}
+{"id": 1471, "entities": []}
+{"id": 1472, "entities": []}
+{"id": 1473, "entities": [["company", 7, 10]]}
+{"id": 1474, "entities": [["company", 62, 68]]}
+{"id": 1475, "entities": []}
+{"id": 1476, "entities": []}
+{"id": 1477, "entities": []}
+{"id": 1478, "entities": []}
+{"id": 1479, "entities": []}
+{"id": 1480, "entities": []}
+{"id": 1481, "entities": [["company", 1, 4], ["company", 13, 16]]}
+{"id": 1482, "entities": [["company", 0, 1]]}
+{"id": 1483, "entities": [["company", 82, 106]]}
+{"id": 1483, "entities": []}
+{"id": 1483, "entities": []}
+{"id": 1484, "entities": [["company", 15, 16]]}
+{"id": 1485, "entities": []}
+{"id": 1486, "entities": []}
+{"id": 1487, "entities": [["company", 54, 57]]}
+{"id": 1488, "entities": []}
+{"id": 1489, "entities": []}
+{"id": 1490, "entities": []}
+{"id": 1491, "entities": []}
+{"id": 1492, "entities": []}
+{"id": 1493, "entities": []}
+{"id": 1494, "entities": [["company", 13, 16], ["company", 18, 22]]}
+{"id": 1495, "entities": [["company", 55, 69]]}
+{"id": 1496, "entities": []}
+{"id": 1497, "entities": [["company", 91, 96], ["company", 98, 101]]}
+{"id": 1497, "entities": []}
+{"id": 1497, "entities": []}
+{"id": 1498, "entities": []}
+{"id": 1498, "entities": []}
+{"id": 1498, "entities": []}
+{"id": 1498, "entities": []}
+{"id": 1499, "entities": []}
+{"id": 1500, "entities": []}
+{"id": 1501, "entities": [["company", 8, 9]]}
+{"id": 1502, "entities": [["company", 10, 15]]}
+{"id": 1503, "entities": []}
+{"id": 1504, "entities": []}
+{"id": 1505, "entities": [["company", 69, 77]]}
+{"id": 1506, "entities": []}
+{"id": 1507, "entities": []}
+{"id": 1507, "entities": []}
+{"id": 1507, "entities": []}
+{"id": 1508, "entities": []}
+{"id": 1509, "entities": [["company", 66, 67]]}
+{"id": 1509, "entities": []}
+{"id": 1510, "entities": [["company", 60, 63]]}
+{"id": 1511, "entities": [["company", 27, 28]]}
+{"id": 1511, "entities": []}
+{"id": 1512, "entities": [["company", 0, 9]]}
+{"id": 1513, "entities": []}
+{"id": 1513, "entities": []}
+{"id": 1514, "entities": []}
+{"id": 1515, "entities": [["company", 15, 22]]}
+{"id": 1516, "entities": []}
+{"id": 1517, "entities": []}
+{"id": 1517, "entities": []}
+{"id": 1518, "entities": []}
+{"id": 1519, "entities": []}
+{"id": 1520, "entities": []}
+{"id": 1521, "entities": []}
+{"id": 1522, "entities": [["company", 4, 19]]}
+{"id": 1523, "entities": []}
+{"id": 1524, "entities": [["company", 67, 76]]}
+{"id": 1525, "entities": []}
+{"id": 1526, "entities": [["company", 0, 3]]}
+{"id": 1526, "entities": []}
+{"id": 1527, "entities": []}
+{"id": 1528, "entities": []}
+{"id": 1528, "entities": []}
+{"id": 1529, "entities": []}
+{"id": 1530, "entities": []}
+{"id": 1531, "entities": []}
+{"id": 1532, "entities": []}
+{"id": 1533, "entities": []}
+{"id": 1534, "entities": [["company", 28, 31]]}
+{"id": 1535, "entities": []}
+{"id": 1536, "entities": []}
+{"id": 1536, "entities": []}
+{"id": 1537, "entities": []}
+{"id": 1538, "entities": []}
+{"id": 1538, "entities": []}
+{"id": 1539, "entities": [["company", 13, 16]]}
+{"id": 1540, "entities": [["company", 18, 21]]}
+{"id": 1541, "entities": []}
+{"id": 1542, "entities": [["company", 42, 45], ["company", 63, 66]]}
+{"id": 1543, "entities": [["company", 39, 45]]}
+{"id": 1544, "entities": []}
+{"id": 1545, "entities": []}
+{"id": 1546, "entities": []}
+{"id": 1547, "entities": []}
+{"id": 1548, "entities": []}
+{"id": 1549, "entities": []}
+{"id": 1549, "entities": []}
+{"id": 1550, "entities": [["company", 25, 28], ["company", 91, 94], ["company", 97, 100]]}
+{"id": 1550, "entities": []}
+{"id": 1550, "entities": []}
+{"id": 1551, "entities": []}
+{"id": 1552, "entities": []}
+{"id": 1553, "entities": []}
+{"id": 1554, "entities": [["company", 54, 70]]}
+{"id": 1555, "entities": []}
+{"id": 1556, "entities": []}
+{"id": 1557, "entities": []}
+{"id": 1558, "entities": []}
+{"id": 1559, "entities": [["company", 92, 94]]}
+{"id": 1560, "entities": []}
+{"id": 1561, "entities": []}
+{"id": 1562, "entities": []}
+{"id": 1563, "entities": []}
+{"id": 1564, "entities": []}
+{"id": 1565, "entities": [["company", 69, 83]]}
+{"id": 1566, "entities": [["company", 0, 9], ["company", 77, 86]]}
+{"id": 1567, "entities": []}
+{"id": 1568, "entities": []}
+{"id": 1569, "entities": []}
+{"id": 1570, "entities": []}
+{"id": 1571, "entities": [["company", 0, 20], ["company", 13, 20], ["company", 57, 69], ["company", 74, 83]]}
+{"id": 1572, "entities": []}
+{"id": 1573, "entities": [["company", 57, 64]]}
+{"id": 1574, "entities": []}
+{"id": 1575, "entities": [["company", 28, 33], ["company", 72, 77]]}
+{"id": 1576, "entities": [["company", 69, 79], ["company", 85, 97]]}
+{"id": 1577, "entities": [["company", 57, 65]]}
+{"id": 1578, "entities": []}
+{"id": 1579, "entities": []}
+{"id": 1580, "entities": []}
+{"id": 1581, "entities": []}
+{"id": 1581, "entities": [["company", 12, 18], ["company", 84, 87], ["company", 97, 98]]}
+{"id": 1581, "entities": [["company", 0, 7]]}
+{"id": 1581, "entities": []}
+{"id": 1582, "entities": []}
+{"id": 1583, "entities": [["company", 49, 52], ["company", 57, 60]]}
+{"id": 1584, "entities": []}
+{"id": 1585, "entities": []}
+{"id": 1586, "entities": []}
+{"id": 1587, "entities": []}
+{"id": 1588, "entities": []}
+{"id": 1589, "entities": []}
+{"id": 1590, "entities": [["company", 0, 11]]}
+{"id": 1591, "entities": []}
+{"id": 1592, "entities": [["company", 69, 74]]}
+{"id": 1593, "entities": []}
+{"id": 1594, "entities": []}
+{"id": 1595, "entities": []}
+{"id": 1596, "entities": []}
+{"id": 1597, "entities": []}
+{"id": 1598, "entities": []}
+{"id": 1599, "entities": []}
+{"id": 1599, "entities": []}
+{"id": 1600, "entities": []}
+{"id": 1600, "entities": []}
+{"id": 1600, "entities": [["company", 51, 52]]}
+{"id": 1601, "entities": []}
+{"id": 1601, "entities": [["company", 35, 36], ["company", 52, 53], ["company", 55, 56]]}
+{"id": 1601, "entities": [["company", 104, 107]]}
+{"id": 1601, "entities": []}
+{"id": 1602, "entities": []}
+{"id": 1603, "entities": []}
+{"id": 1604, "entities": []}
+{"id": 1605, "entities": []}
+{"id": 1605, "entities": [["company", 0, 10]]}
+{"id": 1606, "entities": []}
+{"id": 1607, "entities": []}
+{"id": 1608, "entities": [["company", 23, 24]]}
+{"id": 1608, "entities": []}
+{"id": 1608, "entities": []}
+{"id": 1609, "entities": [["company", 79, 88]]}
+{"id": 1610, "entities": []}
+{"id": 1611, "entities": []}
+{"id": 1611, "entities": []}
+{"id": 1612, "entities": [["company", 58, 61]]}
+{"id": 1613, "entities": [["company", 62, 67]]}
+{"id": 1614, "entities": []}
+{"id": 1615, "entities": []}
+{"id": 1616, "entities": []}
+{"id": 1617, "entities": []}
+{"id": 1618, "entities": [["company", 41, 49]]}
+{"id": 1618, "entities": [["company", 8, 9], ["company", 19, 23]]}
+{"id": 1618, "entities": []}
+{"id": 1619, "entities": [["company", 0, 7], ["company", 67, 83]]}
+{"id": 1620, "entities": []}
+{"id": 1621, "entities": []}
+{"id": 1622, "entities": [["company", 16, 18], ["company", 27, 30], ["company", 72, 74]]}
+{"id": 1623, "entities": []}
+{"id": 1624, "entities": [["company", 28, 31]]}
+{"id": 1624, "entities": []}
+{"id": 1625, "entities": [["company", 61, 66], ["company", 68, 71], ["company", 73, 76], ["company", 91, 93]]}
+{"id": 1625, "entities": []}
+{"id": 1626, "entities": []}
+{"id": 1626, "entities": []}
+{"id": 1627, "entities": []}
+{"id": 1628, "entities": []}
+{"id": 1629, "entities": []}
+{"id": 1630, "entities": []}
+{"id": 1631, "entities": []}
+{"id": 1631, "entities": []}
+{"id": 1632, "entities": []}
+{"id": 1633, "entities": []}
+{"id": 1634, "entities": []}
+{"id": 1635, "entities": [["company", 61, 68]]}
+{"id": 1636, "entities": []}
+{"id": 1637, "entities": []}
+{"id": 1638, "entities": [["company", 49, 56]]}
+{"id": 1639, "entities": [["company", 71, 82]]}
+{"id": 1640, "entities": []}
+{"id": 1641, "entities": [["company", 0, 11], ["company", 64, 69]]}
+{"id": 1641, "entities": []}
+{"id": 1642, "entities": [["company", 0, 3], ["company", 53, 67]]}
+{"id": 1643, "entities": []}
+{"id": 1644, "entities": []}
+{"id": 1645, "entities": []}
+{"id": 1646, "entities": []}
+{"id": 1647, "entities": [["company", 85, 87]]}
+{"id": 1648, "entities": []}
+{"id": 1649, "entities": []}
+{"id": 1650, "entities": []}
+{"id": 1651, "entities": []}
+{"id": 1651, "entities": []}
+{"id": 1652, "entities": [["company", 0, 10]]}
+{"id": 1653, "entities": []}
+{"id": 1654, "entities": []}
+{"id": 1655, "entities": []}
+{"id": 1656, "entities": [["company", 76, 79]]}
+{"id": 1656, "entities": [["company", 8, 13]]}
+{"id": 1657, "entities": []}
+{"id": 1658, "entities": []}
+{"id": 1659, "entities": [["company", 63, 70]]}
+{"id": 1660, "entities": []}
+{"id": 1661, "entities": []}
+{"id": 1662, "entities": []}
+{"id": 1662, "entities": [["company", 59, 62]]}
+{"id": 1663, "entities": [["company", 73, 88]]}
+{"id": 1664, "entities": []}
+{"id": 1665, "entities": []}
+{"id": 1666, "entities": [["company", 32, 34], ["company", 86, 87]]}
+{"id": 1666, "entities": []}
+{"id": 1667, "entities": [["company", 0, 9], ["company", 68, 70]]}
+{"id": 1668, "entities": []}
+{"id": 1669, "entities": [["company", 46, 58]]}
+{"id": 1670, "entities": []}
+{"id": 1671, "entities": []}
+{"id": 1671, "entities": [["company", 76, 77]]}
+{"id": 1672, "entities": []}
+{"id": 1673, "entities": [["company", 66, 68], ["company", 70, 72]]}
+{"id": 1673, "entities": []}
+{"id": 1673, "entities": [["company", 0, 1]]}
+{"id": 1673, "entities": []}
+{"id": 1673, "entities": []}
+{"id": 1674, "entities": []}
+{"id": 1675, "entities": []}
+{"id": 1676, "entities": [["company", 1, 2]]}
+{"id": 1677, "entities": []}
+{"id": 1678, "entities": [["company", 89, 92]]}
+{"id": 1679, "entities": [["company", 0, 3], ["company", 72, 75]]}
+{"id": 1680, "entities": []}
+{"id": 1681, "entities": []}
+{"id": 1682, "entities": []}
+{"id": 1683, "entities": [["company", 0, 2]]}
+{"id": 1684, "entities": [["company", 62, 77]]}
+{"id": 1685, "entities": []}
+{"id": 1686, "entities": []}
+{"id": 1687, "entities": []}
+{"id": 1688, "entities": []}
+{"id": 1689, "entities": [["company", 19, 22]]}
+{"id": 1690, "entities": []}
+{"id": 1691, "entities": []}
+{"id": 1692, "entities": [["company", 37, 38]]}
+{"id": 1692, "entities": [["company", 0, 1], ["company", 3, 4]]}
+{"id": 1692, "entities": []}
+{"id": 1692, "entities": []}
+{"id": 1693, "entities": []}
+{"id": 1694, "entities": []}
+{"id": 1695, "entities": []}
+{"id": 1696, "entities": []}
+{"id": 1697, "entities": []}
+{"id": 1698, "entities": []}
+{"id": 1699, "entities": []}
+{"id": 1700, "entities": [["company", 13, 16]]}
+{"id": 1700, "entities": []}
+{"id": 1700, "entities": []}
+{"id": 1701, "entities": []}
+{"id": 1701, "entities": []}
+{"id": 1701, "entities": [["company", 1, 4], ["company", 22, 23]]}
+{"id": 1701, "entities": []}
+{"id": 1701, "entities": []}
+{"id": 1701, "entities": [["company", 58, 63], ["company", 106, 109]]}
+{"id": 1701, "entities": []}
+{"id": 1702, "entities": []}
+{"id": 1702, "entities": []}
+{"id": 1703, "entities": []}
+{"id": 1704, "entities": []}
+{"id": 1704, "entities": []}
+{"id": 1705, "entities": []}
+{"id": 1706, "entities": []}
+{"id": 1707, "entities": []}
+{"id": 1708, "entities": []}
+{"id": 1709, "entities": []}
+{"id": 1710, "entities": []}
+{"id": 1711, "entities": [["company", 2, 5], ["company", 22, 25], ["company", 48, 51]]}
+{"id": 1711, "entities": []}
+{"id": 1712, "entities": []}
+{"id": 1713, "entities": [["company", 48, 53]]}
+{"id": 1714, "entities": []}
+{"id": 1715, "entities": [["company", 0, 1]]}
+{"id": 1715, "entities": []}
+{"id": 1716, "entities": []}
+{"id": 1717, "entities": [["company", 13, 40], ["company", 63, 72]]}
+{"id": 1718, "entities": []}
+{"id": 1718, "entities": [["company", 67, 70], ["company", 88, 89]]}
+{"id": 1718, "entities": [["company", 46, 51]]}
+{"id": 1719, "entities": []}
+{"id": 1720, "entities": []}
+{"id": 1721, "entities": []}
+{"id": 1722, "entities": [["company", 48, 61]]}
+{"id": 1723, "entities": [["company", 61, 74]]}
+{"id": 1724, "entities": []}
+{"id": 1725, "entities": []}
+{"id": 1725, "entities": []}
+{"id": 1725, "entities": []}
+{"id": 1726, "entities": [["company", 0, 3], ["company", 44, 47]]}
+{"id": 1727, "entities": []}
+{"id": 1728, "entities": [["company", 0, 1]]}
+{"id": 1728, "entities": [["company", 12, 13]]}
+{"id": 1728, "entities": [["company", 20, 23], ["company", 32, 44]]}
+{"id": 1729, "entities": [["company", 58, 67]]}
+{"id": 1730, "entities": []}
+{"id": 1731, "entities": []}
+{"id": 1732, "entities": []}
+{"id": 1733, "entities": []}
+{"id": 1734, "entities": []}
+{"id": 1735, "entities": [["company", 68, 73]]}
+{"id": 1736, "entities": []}
+{"id": 1737, "entities": []}
+{"id": 1737, "entities": []}
+{"id": 1737, "entities": [["company", 0, 3], ["company", 45, 48], ["company", 61, 63], ["company", 77, 78]]}
+{"id": 1737, "entities": [["company", 8, 11]]}
+{"id": 1737, "entities": [["company", 21, 24]]}
+{"id": 1738, "entities": []}
+{"id": 1738, "entities": [["company", 8, 11], ["company", 34, 44]]}
+{"id": 1739, "entities": []}
+{"id": 1740, "entities": [["company", 79, 82]]}
+{"id": 1741, "entities": []}
+{"id": 1742, "entities": []}
+{"id": 1743, "entities": []}
+{"id": 1744, "entities": []}
+{"id": 1745, "entities": [["company", 4, 17], ["company", 25, 31], ["company", 66, 79]]}
+{"id": 1746, "entities": []}
+{"id": 1746, "entities": [["company", 103, 105], ["company", 107, 109]]}
+{"id": 1747, "entities": [["company", 69, 72], ["company", 74, 77]]}
+{"id": 1748, "entities": [["company", 0, 7], ["company", 72, 79]]}
+{"id": 1749, "entities": [["company", 71, 85]]}
+{"id": 1750, "entities": []}
+{"id": 1751, "entities": []}
+{"id": 1752, "entities": [["company", 65, 73]]}
+{"id": 1753, "entities": []}
+{"id": 1753, "entities": []}
+{"id": 1754, "entities": []}
+{"id": 1755, "entities": []}
+{"id": 1755, "entities": [["company", 0, 17], ["company", 86, 91]]}
+{"id": 1755, "entities": [["company", 15, 18]]}
+{"id": 1756, "entities": []}
+{"id": 1757, "entities": []}
+{"id": 1757, "entities": []}
+{"id": 1758, "entities": [["company", 2, 3], ["company", 5, 6], ["company", 8, 9], ["company", 11, 12], ["company", 17, 19]]}
+{"id": 1759, "entities": []}
+{"id": 1760, "entities": []}
+{"id": 1761, "entities": []}
+{"id": 1762, "entities": []}
+{"id": 1763, "entities": []}
+{"id": 1764, "entities": []}
+{"id": 1765, "entities": []}
+{"id": 1766, "entities": []}
+{"id": 1767, "entities": []}
+{"id": 1767, "entities": [["company", 37, 40], ["company", 48, 53]]}
+{"id": 1767, "entities": []}
+{"id": 1767, "entities": [["company", 1, 6], ["company", 24, 27]]}
+{"id": 1768, "entities": []}
+{"id": 1769, "entities": [["company", 0, 5], ["company", 78, 81]]}
+{"id": 1770, "entities": []}
+{"id": 1771, "entities": []}
+{"id": 1772, "entities": [["company", 73, 76]]}
+{"id": 1772, "entities": []}
+{"id": 1773, "entities": []}
+{"id": 1773, "entities": []}
+{"id": 1774, "entities": []}
+{"id": 1775, "entities": []}
+{"id": 1776, "entities": [["company", 71, 74]]}
+{"id": 1777, "entities": []}
+{"id": 1778, "entities": [["company", 41, 42]]}
+{"id": 1779, "entities": []}
+{"id": 1780, "entities": [["company", 71, 76]]}
+{"id": 1781, "entities": []}
+{"id": 1782, "entities": []}
+{"id": 1783, "entities": []}
+{"id": 1783, "entities": [["company", 0, 9]]}
+{"id": 1784, "entities": []}
+{"id": 1785, "entities": [["company", 57, 60]]}
+{"id": 1786, "entities": [["company", 0, 3], ["company", 95, 109]]}
+{"id": 1787, "entities": []}
+{"id": 1788, "entities": []}
+{"id": 1789, "entities": []}
+{"id": 1790, "entities": []}
+{"id": 1791, "entities": [["company", 0, 5], ["company", 7, 14], ["company", 64, 69], ["company", 71, 78]]}
+{"id": 1792, "entities": [["company", 67, 78]]}
+{"id": 1793, "entities": []}
+{"id": 1794, "entities": []}
+{"id": 1795, "entities": []}
+{"id": 1796, "entities": []}
+{"id": 1797, "entities": [["company", 9, 12]]}
+{"id": 1798, "entities": []}
+{"id": 1798, "entities": []}
+{"id": 1799, "entities": []}
+{"id": 1799, "entities": [["company", 18, 19], ["company", 21, 22], ["company", 24, 25]]}
+{"id": 1800, "entities": []}
+{"id": 1801, "entities": []}
+{"id": 1802, "entities": [["company", 0, 13], ["company", 17, 28], ["company", 32, 46], ["company", 51, 66]]}
+{"id": 1803, "entities": [["company", 12, 15], ["company", 45, 50], ["company", 52, 53]]}
+{"id": 1804, "entities": []}
+{"id": 1805, "entities": [["company", 0, 1]]}
+{"id": 1806, "entities": []}
+{"id": 1807, "entities": []}
+{"id": 1808, "entities": []}
+{"id": 1809, "entities": []}
+{"id": 1809, "entities": []}
+{"id": 1810, "entities": [["company", 35, 38]]}
+{"id": 1810, "entities": []}
+{"id": 1811, "entities": []}
+{"id": 1812, "entities": [["company", 66, 73]]}
+{"id": 1813, "entities": [["company", 10, 21]]}
+{"id": 1814, "entities": [["company", 70, 77]]}
+{"id": 1815, "entities": []}
+{"id": 1816, "entities": []}
+{"id": 1817, "entities": []}
+{"id": 1818, "entities": [["company", 74, 83]]}
+{"id": 1819, "entities": []}
+{"id": 1820, "entities": []}
+{"id": 1821, "entities": []}
+{"id": 1822, "entities": []}
+{"id": 1823, "entities": []}
+{"id": 1824, "entities": []}
+{"id": 1825, "entities": []}
+{"id": 1826, "entities": [["company", 54, 58]]}
+{"id": 1827, "entities": [["company", 0, 7], ["company", 87, 90]]}
+{"id": 1827, "entities": [["company", 0, 1]]}
+{"id": 1827, "entities": []}
+{"id": 1828, "entities": []}
+{"id": 1829, "entities": []}
+{"id": 1830, "entities": []}
+{"id": 1831, "entities": []}
+{"id": 1832, "entities": []}
+{"id": 1833, "entities": []}
+{"id": 1834, "entities": []}
+{"id": 1835, "entities": [["company", 64, 75]]}
+{"id": 1836, "entities": []}
+{"id": 1837, "entities": [["company", 51, 54], ["company", 55, 60]]}
+{"id": 1838, "entities": []}
+{"id": 1838, "entities": []}
+{"id": 1839, "entities": []}
+{"id": 1839, "entities": []}
+{"id": 1840, "entities": [["company", 51, 52]]}
+{"id": 1840, "entities": [["company", 49, 63]]}
+{"id": 1841, "entities": []}
+{"id": 1842, "entities": [["company", 67, 72]]}
+{"id": 1843, "entities": []}
+{"id": 1844, "entities": []}
+{"id": 1845, "entities": []}
+{"id": 1846, "entities": [["company", 66, 69]]}
+{"id": 1847, "entities": []}
+{"id": 1848, "entities": []}
+{"id": 1849, "entities": [["company", 5, 8]]}
+{"id": 1850, "entities": []}
+{"id": 1851, "entities": []}
+{"id": 1852, "entities": []}
+{"id": 1852, "entities": [["company", 10, 17]]}
+{"id": 1853, "entities": []}
+{"id": 1854, "entities": []}
+{"id": 1855, "entities": []}
+{"id": 1856, "entities": []}
+{"id": 1857, "entities": []}
+{"id": 1857, "entities": []}
+{"id": 1857, "entities": [["company", 49, 58]]}
+{"id": 1858, "entities": []}
+{"id": 1859, "entities": [["company", 60, 75]]}
+{"id": 1860, "entities": [["company", 8, 11]]}
+{"id": 1860, "entities": []}
+{"id": 1861, "entities": []}
+{"id": 1861, "entities": []}
+{"id": 1862, "entities": [["company", 68, 71]]}
+{"id": 1863, "entities": []}
+{"id": 1864, "entities": [["company", 69, 76]]}
+{"id": 1865, "entities": []}
+{"id": 1866, "entities": [["company", 62, 73]]}
+{"id": 1867, "entities": []}
+{"id": 1868, "entities": [["company", 72, 83]]}
+{"id": 1869, "entities": []}
+{"id": 1870, "entities": []}
+{"id": 1871, "entities": []}
+{"id": 1872, "entities": []}
+{"id": 1873, "entities": []}
+{"id": 1874, "entities": []}
+{"id": 1875, "entities": []}
+{"id": 1876, "entities": [["company", 0, 11], ["company", 59, 70]]}
+{"id": 1877, "entities": []}
+{"id": 1878, "entities": []}
+{"id": 1879, "entities": []}
+{"id": 1880, "entities": []}
+{"id": 1880, "entities": []}
+{"id": 1881, "entities": []}
+{"id": 1882, "entities": [["company", 0, 13], ["company", 28, 33], ["company", 45, 50], ["company", 71, 83]]}
+{"id": 1883, "entities": []}
+{"id": 1884, "entities": [["company", 37, 40], ["company", 63, 67]]}
+{"id": 1884, "entities": []}
+{"id": 1885, "entities": []}
+{"id": 1886, "entities": []}
+{"id": 1887, "entities": [["company", 24, 29], ["company", 31, 35], ["company", 37, 42], ["company", 44, 49], ["company", 58, 63]]}
+{"id": 1888, "entities": []}
+{"id": 1889, "entities": []}
+{"id": 1890, "entities": []}
+{"id": 1891, "entities": []}
+{"id": 1891, "entities": []}
+{"id": 1891, "entities": []}
+{"id": 1892, "entities": []}
+{"id": 1893, "entities": [["company", 0, 11], ["company", 69, 80]]}
+{"id": 1894, "entities": [["company", 0, 1]]}
+{"id": 1895, "entities": [["company", 0, 3], ["company", 55, 58]]}
+{"id": 1896, "entities": [["company", 0, 6]]}
+{"id": 1897, "entities": []}
+{"id": 1898, "entities": []}
+{"id": 1899, "entities": []}
+{"id": 1900, "entities": [["company", 97, 100]]}
+{"id": 1900, "entities": []}
+{"id": 1901, "entities": []}
+{"id": 1902, "entities": [["company", 0, 6], ["company", 43, 59]]}
+{"id": 1903, "entities": [["company", 6, 18], ["company", 58, 64]]}
+{"id": 1904, "entities": []}
+{"id": 1905, "entities": []}
+{"id": 1906, "entities": []}
+{"id": 1907, "entities": [["company", 0, 1], ["company", 14, 17], ["company", 26, 29], ["company", 38, 39], ["company", 41, 43], ["company", 59, 61]]}
+{"id": 1907, "entities": []}
+{"id": 1908, "entities": []}
+{"id": 1909, "entities": [["company", 42, 47]]}
+{"id": 1910, "entities": [["company", 69, 78]]}
+{"id": 1911, "entities": [["company", 54, 69]]}
+{"id": 1912, "entities": []}
+{"id": 1913, "entities": []}
+{"id": 1914, "entities": []}
+{"id": 1914, "entities": []}
+{"id": 1915, "entities": []}
+{"id": 1916, "entities": []}
+{"id": 1917, "entities": []}
+{"id": 1918, "entities": []}
+{"id": 1919, "entities": [["company", 51, 57]]}
+{"id": 1920, "entities": []}
+{"id": 1920, "entities": [["company", 32, 35], ["company", 38, 41]]}
+{"id": 1921, "entities": [["company", 44, 51], ["company", 53, 60], ["company", 74, 86]]}
+{"id": 1922, "entities": []}
+{"id": 1923, "entities": []}
+{"id": 1923, "entities": []}
+{"id": 1924, "entities": [["company", 56, 59]]}
+{"id": 1924, "entities": []}
+{"id": 1925, "entities": [["company", 34, 36], ["company", 47, 50]]}
+{"id": 1926, "entities": []}
+{"id": 1927, "entities": []}
+{"id": 1928, "entities": [["company", 26, 35]]}
+{"id": 1929, "entities": [["company", 37, 40], ["company", 73, 77]]}
+{"id": 1930, "entities": []}
+{"id": 1930, "entities": []}
+{"id": 1931, "entities": [["company", 0, 1]]}
+{"id": 1931, "entities": []}
+{"id": 1932, "entities": []}
+{"id": 1933, "entities": []}
+{"id": 1934, "entities": []}
+{"id": 1935, "entities": [["company", 0, 3]]}
+{"id": 1936, "entities": [["company", 1, 4], ["company", 11, 16], ["company", 22, 26], ["company", 67, 72]]}
+{"id": 1937, "entities": []}
+{"id": 1938, "entities": []}
+{"id": 1939, "entities": []}
+{"id": 1940, "entities": []}
+{"id": 1941, "entities": []}
+{"id": 1942, "entities": []}
+{"id": 1943, "entities": []}
+{"id": 1944, "entities": []}
+{"id": 1945, "entities": [["company", 64, 71], ["company", 79, 87]]}
+{"id": 1946, "entities": [["company", 32, 50]]}
+{"id": 1947, "entities": [["company", 50, 53]]}
+{"id": 1947, "entities": [["company", 0, 3]]}
+{"id": 1948, "entities": [["company", 49, 59]]}
+{"id": 1949, "entities": []}
+{"id": 1949, "entities": [["company", 0, 11]]}
+{"id": 1950, "entities": []}
+{"id": 1951, "entities": [["company", 57, 67]]}
+{"id": 1952, "entities": [["company", 0, 1]]}
+{"id": 1953, "entities": []}
+{"id": 1954, "entities": []}
+{"id": 1955, "entities": [["company", 92, 95], ["company", 97, 100]]}
+{"id": 1956, "entities": []}
+{"id": 1957, "entities": []}
+{"id": 1957, "entities": []}
+{"id": 1958, "entities": [["company", 40, 43]]}
+{"id": 1959, "entities": []}
+{"id": 1960, "entities": []}
+{"id": 1961, "entities": []}
+{"id": 1962, "entities": []}
+{"id": 1962, "entities": []}
+{"id": 1963, "entities": [["company", 44, 53]]}
+{"id": 1964, "entities": []}
+{"id": 1965, "entities": [["company", 41, 44], ["company", 65, 66], ["company", 82, 87]]}
+{"id": 1965, "entities": [["company", 25, 30]]}
+{"id": 1965, "entities": []}
+{"id": 1966, "entities": []}
+{"id": 1967, "entities": []}
+{"id": 1968, "entities": []}
+{"id": 1969, "entities": [["company", 21, 22], ["company", 76, 77]]}
+{"id": 1969, "entities": [["company", 25, 38], ["company", 46, 55]]}
+{"id": 1969, "entities": []}
+{"id": 1970, "entities": []}
+{"id": 1971, "entities": []}
+{"id": 1972, "entities": []}
+{"id": 1973, "entities": []}
+{"id": 1974, "entities": []}
+{"id": 1975, "entities": [["company", 9, 17]]}
+{"id": 1975, "entities": []}
+{"id": 1976, "entities": []}
+{"id": 1977, "entities": []}
+{"id": 1978, "entities": [["company", 36, 37], ["company", 82, 83], ["company", 85, 89]]}
+{"id": 1978, "entities": []}
+{"id": 1978, "entities": []}
+{"id": 1978, "entities": []}
+{"id": 1978, "entities": []}
+{"id": 1978, "entities": [["company", 27, 30]]}
+{"id": 1979, "entities": [["company", 39, 46]]}
+{"id": 1979, "entities": [["company", 74, 75], ["company", 81, 84]]}
+{"id": 1979, "entities": []}
+{"id": 1979, "entities": []}
+{"id": 1980, "entities": []}
+{"id": 1981, "entities": [["company", 48, 53]]}
+{"id": 1982, "entities": [["company", 63, 77]]}
+{"id": 1983, "entities": [["company", 46, 49]]}
+{"id": 1983, "entities": []}
+{"id": 1984, "entities": []}
+{"id": 1985, "entities": []}
+{"id": 1985, "entities": []}
+{"id": 1986, "entities": []}
+{"id": 1987, "entities": []}
+{"id": 1987, "entities": [["company", 13, 14], ["company", 34, 43]]}
+{"id": 1988, "entities": []}
+{"id": 1989, "entities": [["company", 45, 46], ["company", 66, 67]]}
+{"id": 1989, "entities": []}
+{"id": 1989, "entities": [["company", 51, 52]]}
+{"id": 1990, "entities": [["company", 67, 70]]}
+{"id": 1990, "entities": []}
+{"id": 1991, "entities": []}
+{"id": 1992, "entities": []}
+{"id": 1993, "entities": []}
+{"id": 1994, "entities": []}
+{"id": 1995, "entities": []}
+{"id": 1995, "entities": []}
+{"id": 1995, "entities": []}
+{"id": 1996, "entities": []}
+{"id": 1997, "entities": [["company", 1, 2], ["company", 4, 7], ["company", 19, 22], ["company", 24, 27], ["company", 29, 32], ["company", 34, 37]]}
+{"id": 1998, "entities": [["company", 49, 77], ["company", 65, 77]]}
+{"id": 1999, "entities": []}
+{"id": 2000, "entities": [["company", 15, 22]]}
+{"id": 2001, "entities": []}
+{"id": 2002, "entities": []}
+{"id": 2003, "entities": []}
+{"id": 2003, "entities": []}
+{"id": 2003, "entities": []}
+{"id": 2003, "entities": [["company", 21, 26], ["company", 40, 41]]}
+{"id": 2004, "entities": []}
+{"id": 2005, "entities": [["company", 84, 95]]}
+{"id": 2006, "entities": [["company", 16, 17]]}
+{"id": 2006, "entities": []}
+{"id": 2007, "entities": [["company", 1, 8]]}
+{"id": 2007, "entities": [["company", 44, 47]]}
+{"id": 2008, "entities": [["company", 45, 46]]}
+{"id": 2009, "entities": []}
+{"id": 2010, "entities": [["company", 64, 67]]}
+{"id": 2011, "entities": []}
+{"id": 2012, "entities": [["company", 61, 63]]}
+{"id": 2013, "entities": []}
+{"id": 2013, "entities": [["company", 83, 85]]}
+{"id": 2013, "entities": [["company", 51, 52]]}
+{"id": 2014, "entities": []}
+{"id": 2015, "entities": [["company", 96, 99]]}
+{"id": 2015, "entities": [["company", 4, 7], ["company", 26, 29]]}
+{"id": 2016, "entities": []}
+{"id": 2017, "entities": [["company", 71, 76]]}
+{"id": 2018, "entities": []}
+{"id": 2019, "entities": []}
+{"id": 2020, "entities": []}
+{"id": 2021, "entities": []}
+{"id": 2022, "entities": []}
+{"id": 2022, "entities": [["company", 86, 87]]}
+{"id": 2022, "entities": [["company", 2, 3], ["company", 80, 83]]}
+{"id": 2023, "entities": []}
+{"id": 2023, "entities": []}
+{"id": 2023, "entities": [["company", 83, 93]]}
+{"id": 2023, "entities": []}
+{"id": 2024, "entities": []}
+{"id": 2025, "entities": []}
+{"id": 2026, "entities": [["company", 12, 17]]}
+{"id": 2027, "entities": [["company", 67, 82]]}
+{"id": 2028, "entities": []}
+{"id": 2029, "entities": []}
+{"id": 2030, "entities": [["company", 69, 72]]}
+{"id": 2031, "entities": []}
+{"id": 2032, "entities": [["company", 43, 46], ["company", 48, 53], ["company", 75, 79], ["company", 96, 99], ["company", 101, 102]]}
+{"id": 2032, "entities": [["company", 12, 15]]}
+{"id": 2033, "entities": [["company", 43, 44]]}
+{"id": 2034, "entities": [["company", 0, 5]]}
+{"id": 2035, "entities": [["company", 92, 103]]}
+{"id": 2035, "entities": [["company", 68, 71]]}
+{"id": 2036, "entities": [["company", 52, 73]]}
+{"id": 2037, "entities": []}
+{"id": 2038, "entities": []}
+{"id": 2039, "entities": []}
+{"id": 2040, "entities": []}
+{"id": 2041, "entities": []}
+{"id": 2042, "entities": []}
+{"id": 2043, "entities": []}
+{"id": 2044, "entities": []}
+{"id": 2045, "entities": [["company", 41, 42], ["company", 75, 88]]}
+{"id": 2046, "entities": []}
+{"id": 2047, "entities": []}
+{"id": 2048, "entities": []}
+{"id": 2049, "entities": []}
+{"id": 2050, "entities": [["company", 0, 5], ["company", 85, 92]]}
+{"id": 2051, "entities": []}
+{"id": 2052, "entities": []}
+{"id": 2053, "entities": [["company", 0, 15], ["company", 47, 62]]}
+{"id": 2054, "entities": []}
+{"id": 2055, "entities": [["company", 42, 51]]}
+{"id": 2055, "entities": [["company", 51, 60]]}
+{"id": 2056, "entities": []}
+{"id": 2057, "entities": []}
+{"id": 2058, "entities": []}
+{"id": 2059, "entities": []}
+{"id": 2060, "entities": []}
+{"id": 2060, "entities": []}
+{"id": 2061, "entities": [["company", 11, 15], ["company", 24, 34], ["company", 43, 51], ["company", 57, 61]]}
+{"id": 2062, "entities": []}
+{"id": 2063, "entities": []}
+{"id": 2064, "entities": []}
+{"id": 2065, "entities": []}
+{"id": 2066, "entities": [["company", 29, 38]]}
+{"id": 2067, "entities": []}
+{"id": 2068, "entities": [["company", 14, 17]]}
+{"id": 2069, "entities": [["company", 0, 3], ["company", 15, 16]]}
+{"id": 2070, "entities": []}
+{"id": 2071, "entities": []}
+{"id": 2072, "entities": [["company", 4, 7]]}
+{"id": 2073, "entities": [["company", 45, 69]]}
+{"id": 2074, "entities": []}
+{"id": 2075, "entities": [["company", 1, 4]]}
+{"id": 2075, "entities": []}
+{"id": 2075, "entities": [["company", 14, 17], ["company", 19, 22]]}
+{"id": 2076, "entities": [["company", 68, 71]]}
+{"id": 2076, "entities": []}
+{"id": 2077, "entities": []}
+{"id": 2077, "entities": []}
+{"id": 2078, "entities": []}
+{"id": 2079, "entities": []}
+{"id": 2080, "entities": []}
+{"id": 2081, "entities": []}
+{"id": 2082, "entities": [["company", 72, 83]]}
+{"id": 2083, "entities": []}
+{"id": 2083, "entities": []}
+{"id": 2084, "entities": []}
+{"id": 2085, "entities": []}
+{"id": 2086, "entities": [["company", 63, 73]]}
+{"id": 2087, "entities": [["company", 0, 5], ["company", 13, 18], ["company", 56, 67]]}
+{"id": 2088, "entities": []}
+{"id": 2089, "entities": [["company", 0, 1]]}
+{"id": 2090, "entities": []}
+{"id": 2091, "entities": []}
+{"id": 2092, "entities": []}
+{"id": 2093, "entities": [["company", 69, 82]]}
+{"id": 2094, "entities": []}
+{"id": 2095, "entities": []}
+{"id": 2096, "entities": [["company", 0, 2]]}
+{"id": 2097, "entities": []}
+{"id": 2098, "entities": [["company", 39, 46]]}
+{"id": 2099, "entities": []}
+{"id": 2100, "entities": []}
+{"id": 2100, "entities": []}
+{"id": 2100, "entities": []}
+{"id": 2101, "entities": [["company", 0, 3]]}
+{"id": 2102, "entities": [["company", 10, 23], ["company", 41, 52]]}
+{"id": 2103, "entities": [["company", 69, 76]]}
+{"id": 2103, "entities": []}
+{"id": 2103, "entities": [["company", 0, 3]]}
+{"id": 2103, "entities": []}
+{"id": 2103, "entities": []}
+{"id": 2104, "entities": []}
+{"id": 2104, "entities": []}
+{"id": 2105, "entities": []}
+{"id": 2106, "entities": []}
+{"id": 2107, "entities": [["company", 17, 22], ["company", 81, 86]]}
+{"id": 2108, "entities": [["company", 2, 5]]}
+{"id": 2108, "entities": [["company", 1, 9]]}
+{"id": 2109, "entities": []}
+{"id": 2110, "entities": []}
+{"id": 2110, "entities": [["company", 51, 61]]}
+{"id": 2111, "entities": [["company", 41, 44], ["company", 50, 53]]}
+{"id": 2111, "entities": [["company", 19, 22]]}
+{"id": 2112, "entities": []}
+{"id": 2113, "entities": []}
+{"id": 2114, "entities": []}
+{"id": 2115, "entities": []}
+{"id": 2116, "entities": [["company", 26, 31]]}
+{"id": 2117, "entities": []}
+{"id": 2118, "entities": [["company", 65, 76]]}
+{"id": 2119, "entities": []}
+{"id": 2120, "entities": []}
+{"id": 2120, "entities": []}
+{"id": 2121, "entities": []}
+{"id": 2122, "entities": []}
+{"id": 2123, "entities": []}
+{"id": 2124, "entities": [["company", 77, 90]]}
+{"id": 2125, "entities": []}
+{"id": 2125, "entities": []}
+{"id": 2126, "entities": []}
+{"id": 2126, "entities": []}
+{"id": 2127, "entities": [["company", 49, 50], ["company", 52, 53], ["company", 55, 56]]}
+{"id": 2128, "entities": [["company", 48, 49], ["company", 51, 52], ["company", 54, 55]]}
+{"id": 2128, "entities": [["company", 59, 63]]}
+{"id": 2128, "entities": []}
+{"id": 2129, "entities": []}
+{"id": 2130, "entities": []}
+{"id": 2130, "entities": []}
+{"id": 2130, "entities": [["company", 0, 9]]}
+{"id": 2130, "entities": [["company", 38, 47]]}
+{"id": 2131, "entities": []}
+{"id": 2132, "entities": [["company", 8, 11], ["company", 29, 32]]}
+{"id": 2132, "entities": [["company", 48, 49]]}
+{"id": 2133, "entities": []}
+{"id": 2134, "entities": []}
+{"id": 2134, "entities": []}
+{"id": 2134, "entities": [["company", 5, 12], ["company", 15, 34]]}
+{"id": 2135, "entities": []}
+{"id": 2136, "entities": []}
+{"id": 2137, "entities": []}
+{"id": 2138, "entities": [["company", 25, 34], ["company", 67, 78]]}
+{"id": 2139, "entities": []}
+{"id": 2140, "entities": []}
+{"id": 2141, "entities": [["company", 11, 19], ["company", 21, 24]]}
+{"id": 2142, "entities": []}
+{"id": 2143, "entities": [["company", 34, 36]]}
+{"id": 2144, "entities": []}
+{"id": 2144, "entities": []}
+{"id": 2145, "entities": []}
+{"id": 2146, "entities": []}
+{"id": 2147, "entities": []}
+{"id": 2148, "entities": [["company", 67, 71]]}
+{"id": 2149, "entities": [["company", 59, 72]]}
+{"id": 2150, "entities": []}
+{"id": 2151, "entities": []}
+{"id": 2152, "entities": []}
+{"id": 2153, "entities": []}
+{"id": 2154, "entities": []}
+{"id": 2155, "entities": []}
+{"id": 2155, "entities": []}
+{"id": 2156, "entities": []}
+{"id": 2157, "entities": [["company", 77, 83]]}
+{"id": 2157, "entities": []}
+{"id": 2157, "entities": [["company", 74, 77], ["company", 79, 81], ["company", 93, 97]]}
+{"id": 2157, "entities": []}
+{"id": 2157, "entities": []}
+{"id": 2157, "entities": []}
+{"id": 2158, "entities": [["company", 80, 85]]}
+{"id": 2159, "entities": [["company", 78, 92]]}
+{"id": 2160, "entities": []}
+{"id": 2161, "entities": []}
+{"id": 2162, "entities": []}
+{"id": 2163, "entities": [["company", 35, 42]]}
+{"id": 2164, "entities": []}
+{"id": 2165, "entities": [["company", 3, 6]]}
+{"id": 2166, "entities": []}
+{"id": 2167, "entities": []}
+{"id": 2168, "entities": []}
+{"id": 2169, "entities": [["company", 13, 16], ["company", 23, 38]]}
+{"id": 2170, "entities": [["company", 57, 62]]}
+{"id": 2171, "entities": []}
+{"id": 2172, "entities": [["company", 44, 54]]}
+{"id": 2173, "entities": []}
+{"id": 2174, "entities": []}
+{"id": 2175, "entities": []}
+{"id": 2176, "entities": []}
+{"id": 2177, "entities": []}
+{"id": 2178, "entities": []}
+{"id": 2179, "entities": []}
+{"id": 2180, "entities": [["company", 69, 74]]}
+{"id": 2181, "entities": [["company", 33, 42]]}
+{"id": 2182, "entities": [["company", 0, 15], ["company", 69, 84]]}
+{"id": 2183, "entities": [["company", 10, 13]]}
+{"id": 2184, "entities": [["company", 0, 10]]}
+{"id": 2185, "entities": []}
+{"id": 2186, "entities": [["company", 51, 60]]}
+{"id": 2187, "entities": []}
+{"id": 2188, "entities": []}
+{"id": 2189, "entities": []}
+{"id": 2190, "entities": []}
+{"id": 2191, "entities": []}
+{"id": 2192, "entities": [["company", 0, 7]]}
+{"id": 2192, "entities": [["company", 0, 5]]}
+{"id": 2193, "entities": []}
+{"id": 2194, "entities": []}
+{"id": 2195, "entities": []}
+{"id": 2196, "entities": []}
+{"id": 2197, "entities": []}
+{"id": 2198, "entities": [["company", 10, 11]]}
+{"id": 2198, "entities": []}
+{"id": 2199, "entities": []}
+{"id": 2199, "entities": []}
+{"id": 2200, "entities": []}
+{"id": 2201, "entities": []}
+{"id": 2202, "entities": [["company", 64, 67]]}
+{"id": 2202, "entities": []}
+{"id": 2203, "entities": []}
+{"id": 2204, "entities": [["company", 41, 44]]}
+{"id": 2205, "entities": []}
+{"id": 2206, "entities": []}
+{"id": 2207, "entities": []}
+{"id": 2208, "entities": []}
+{"id": 2209, "entities": []}
+{"id": 2210, "entities": [["company", 61, 65]]}
+{"id": 2211, "entities": []}
+{"id": 2212, "entities": []}
+{"id": 2213, "entities": [["company", 65, 73]]}
+{"id": 2214, "entities": []}
+{"id": 2215, "entities": [["company", 51, 64]]}
+{"id": 2216, "entities": [["company", 1, 4], ["company", 8, 11], ["company", 15, 18], ["company", 80, 87]]}
+{"id": 2216, "entities": [["company", 20, 27]]}
+{"id": 2217, "entities": [["company", 18, 21]]}
+{"id": 2217, "entities": []}
+{"id": 2218, "entities": []}
+{"id": 2219, "entities": [["company", 71, 81]]}
+{"id": 2220, "entities": []}
+{"id": 2221, "entities": []}
+{"id": 2222, "entities": []}
+{"id": 2223, "entities": []}
+{"id": 2224, "entities": []}
+{"id": 2225, "entities": []}
+{"id": 2226, "entities": [["company", 0, 1]]}
+{"id": 2227, "entities": [["company", 35, 36]]}
+{"id": 2228, "entities": [["company", 20, 30]]}
+{"id": 2229, "entities": []}
+{"id": 2230, "entities": []}
+{"id": 2231, "entities": []}
+{"id": 2232, "entities": [["company", 17, 19], ["company", 53, 56]]}
+{"id": 2233, "entities": []}
+{"id": 2234, "entities": []}
+{"id": 2235, "entities": [["company", 53, 60], ["company", 62, 66]]}
+{"id": 2236, "entities": []}
+{"id": 2237, "entities": []}
+{"id": 2237, "entities": []}
+{"id": 2237, "entities": []}
+{"id": 2237, "entities": []}
+{"id": 2238, "entities": []}
+{"id": 2239, "entities": []}
+{"id": 2240, "entities": []}
+{"id": 2241, "entities": [["company", 6, 14], ["company", 22, 28], ["company", 38, 46], ["company", 54, 60]]}
+{"id": 2242, "entities": [["company", 70, 71], ["company", 81, 82], ["company", 101, 102]]}
+{"id": 2242, "entities": [["company", 73, 75]]}
+{"id": 2243, "entities": []}
+{"id": 2244, "entities": []}
+{"id": 2245, "entities": []}
+{"id": 2245, "entities": []}
+{"id": 2245, "entities": [["company", 19, 24]]}
+{"id": 2245, "entities": [["company", 13, 16]]}
+{"id": 2246, "entities": []}
+{"id": 2247, "entities": []}
+{"id": 2247, "entities": [["company", 0, 1]]}
+{"id": 2247, "entities": []}
+{"id": 2247, "entities": [["company", 1, 2]]}
+{"id": 2248, "entities": [["company", 15, 17]]}
+{"id": 2248, "entities": [["company", 53, 60]]}
+{"id": 2249, "entities": []}
+{"id": 2250, "entities": []}
+{"id": 2251, "entities": []}
+{"id": 2252, "entities": [["company", 71, 83]]}
+{"id": 2253, "entities": []}
+{"id": 2254, "entities": []}
+{"id": 2255, "entities": []}
+{"id": 2256, "entities": []}
+{"id": 2257, "entities": []}
+{"id": 2257, "entities": []}
+{"id": 2257, "entities": [["company", 53, 63]]}
+{"id": 2257, "entities": [["company", 33, 36]]}
+{"id": 2258, "entities": []}
+{"id": 2259, "entities": []}
+{"id": 2260, "entities": [["company", 42, 47]]}
+{"id": 2260, "entities": []}
+{"id": 2260, "entities": []}
+{"id": 2260, "entities": []}
+{"id": 2260, "entities": []}
+{"id": 2260, "entities": []}
+{"id": 2261, "entities": [["company", 3, 9], ["company", 10, 13]]}
+{"id": 2261, "entities": []}
+{"id": 2262, "entities": []}
+{"id": 2263, "entities": [["company", 52, 58], ["company", 65, 79]]}
+{"id": 2264, "entities": []}
+{"id": 2265, "entities": [["company", 74, 79]]}
+{"id": 2266, "entities": []}
+{"id": 2267, "entities": [["company", 10, 14], ["company", 82, 86]]}
+{"id": 2268, "entities": []}
+{"id": 2269, "entities": []}
+{"id": 2270, "entities": []}
+{"id": 2271, "entities": []}
+{"id": 2271, "entities": []}
+{"id": 2272, "entities": []}
+{"id": 2273, "entities": []}
+{"id": 2273, "entities": [["company", 56, 59]]}
+{"id": 2273, "entities": [["company", 90, 91]]}
+{"id": 2274, "entities": []}
+{"id": 2275, "entities": []}
+{"id": 2276, "entities": []}
+{"id": 2277, "entities": []}
+{"id": 2278, "entities": [["company", 32, 33], ["company", 41, 42]]}
+{"id": 2278, "entities": [["company", 52, 56]]}
+{"id": 2279, "entities": []}
+{"id": 2280, "entities": []}
+{"id": 2281, "entities": []}
+{"id": 2282, "entities": []}
+{"id": 2283, "entities": []}
+{"id": 2284, "entities": []}
+{"id": 2284, "entities": []}
+{"id": 2285, "entities": [["company", 98, 101]]}
+{"id": 2285, "entities": [["company", 83, 84]]}
+{"id": 2285, "entities": []}
+{"id": 2286, "entities": []}
+{"id": 2287, "entities": []}
+{"id": 2288, "entities": []}
+{"id": 2289, "entities": [["company", 94, 95]]}
+{"id": 2289, "entities": [["company", 16, 18], ["company", 29, 30]]}
+{"id": 2289, "entities": []}
+{"id": 2290, "entities": [["company", 77, 80]]}
+{"id": 2291, "entities": [["company", 68, 75]]}
+{"id": 2292, "entities": [["company", 8, 11]]}
+{"id": 2293, "entities": []}
+{"id": 2294, "entities": [["company", 0, 3]]}
+{"id": 2295, "entities": []}
+{"id": 2296, "entities": []}
+{"id": 2296, "entities": []}
+{"id": 2297, "entities": [["company", 82, 91], ["company", 96, 107]]}
+{"id": 2298, "entities": [["company", 7, 10]]}
+{"id": 2299, "entities": []}
+{"id": 2300, "entities": []}
+{"id": 2300, "entities": []}
+{"id": 2300, "entities": []}
+{"id": 2300, "entities": [["company", 8, 10], ["company", 91, 94]]}
+{"id": 2300, "entities": []}
+{"id": 2301, "entities": []}
+{"id": 2302, "entities": []}
+{"id": 2303, "entities": []}
+{"id": 2304, "entities": []}
+{"id": 2305, "entities": []}
+{"id": 2306, "entities": [["company", 47, 52], ["company", 66, 67]]}
+{"id": 2306, "entities": [["company", 0, 7]]}
+{"id": 2306, "entities": []}
+{"id": 2306, "entities": []}
+{"id": 2306, "entities": []}
+{"id": 2306, "entities": [["company", 75, 76]]}
+{"id": 2306, "entities": [["company", 0, 2]]}
+{"id": 2306, "entities": []}
+{"id": 2307, "entities": []}
+{"id": 2307, "entities": []}
+{"id": 2308, "entities": []}
+{"id": 2309, "entities": [["company", 55, 68]]}
+{"id": 2310, "entities": [["company", 0, 8]]}
+{"id": 2310, "entities": [["company", 47, 49], ["company", 51, 52]]}
+{"id": 2310, "entities": []}
+{"id": 2310, "entities": [["company", 30, 33], ["company", 83, 87]]}
+{"id": 2310, "entities": [["company", 75, 87]]}
+{"id": 2310, "entities": [["company", 83, 93]]}
+{"id": 2310, "entities": []}
+{"id": 2311, "entities": [["company", 7, 8], ["company", 23, 24]]}
+{"id": 2312, "entities": []}
+{"id": 2313, "entities": []}
+{"id": 2314, "entities": []}
+{"id": 2315, "entities": []}
+{"id": 2316, "entities": [["company", 97, 98]]}
+{"id": 2316, "entities": [["company", 18, 19], ["company", 67, 69]]}
+{"id": 2316, "entities": [["company", 29, 32]]}
+{"id": 2317, "entities": []}
+{"id": 2318, "entities": [["company", 0, 3], ["company", 62, 65]]}
+{"id": 2319, "entities": []}
+{"id": 2320, "entities": []}
+{"id": 2321, "entities": []}
+{"id": 2322, "entities": [["company", 71, 85]]}
+{"id": 2323, "entities": []}
+{"id": 2324, "entities": []}
+{"id": 2325, "entities": []}
+{"id": 2325, "entities": []}
+{"id": 2326, "entities": []}
+{"id": 2326, "entities": []}
+{"id": 2327, "entities": []}
+{"id": 2328, "entities": [["company", 81, 88]]}
+{"id": 2329, "entities": []}
+{"id": 2330, "entities": []}
+{"id": 2331, "entities": []}
+{"id": 2332, "entities": []}
+{"id": 2332, "entities": [["company", 53, 55]]}
+{"id": 2333, "entities": [["company", 5, 6], ["company", 8, 9], ["company", 11, 12], ["company", 22, 23], ["company", 25, 26]]}
+{"id": 2334, "entities": []}
+{"id": 2334, "entities": []}
+{"id": 2335, "entities": []}
+{"id": 2336, "entities": []}
+{"id": 2337, "entities": []}
+{"id": 2337, "entities": []}
+{"id": 2338, "entities": []}
+{"id": 2339, "entities": [["company", 40, 42]]}
+{"id": 2339, "entities": [["company", 1, 7]]}
+{"id": 2340, "entities": [["company", 0, 3], ["company", 20, 23], ["company", 86, 89]]}
+{"id": 2341, "entities": []}
+{"id": 2342, "entities": [["company", 58, 70]]}
+{"id": 2343, "entities": []}
+{"id": 2343, "entities": []}
+{"id": 2344, "entities": [["company", 65, 67]]}
+{"id": 2344, "entities": []}
+{"id": 2344, "entities": []}
+{"id": 2345, "entities": [["company", 51, 58]]}
+{"id": 2346, "entities": []}
+{"id": 2347, "entities": []}
+{"id": 2348, "entities": [["company", 15, 16]]}
+{"id": 2349, "entities": []}
+{"id": 2350, "entities": []}
+{"id": 2350, "entities": []}
+{"id": 2351, "entities": []}
+{"id": 2352, "entities": []}
+{"id": 2353, "entities": []}
+{"id": 2354, "entities": [["company", 64, 69]]}
+{"id": 2355, "entities": []}
+{"id": 2356, "entities": []}
+{"id": 2357, "entities": []}
+{"id": 2358, "entities": []}
+{"id": 2359, "entities": []}
+{"id": 2360, "entities": []}
+{"id": 2361, "entities": []}
+{"id": 2362, "entities": []}
+{"id": 2363, "entities": []}
+{"id": 2363, "entities": [["company", 18, 19], ["company", 97, 100]]}
+{"id": 2363, "entities": []}
+{"id": 2364, "entities": []}
+{"id": 2365, "entities": []}
+{"id": 2366, "entities": []}
+{"id": 2367, "entities": []}
+{"id": 2368, "entities": []}
+{"id": 2369, "entities": []}
+{"id": 2370, "entities": []}
+{"id": 2371, "entities": []}
+{"id": 2372, "entities": []}
+{"id": 2373, "entities": []}
+{"id": 2374, "entities": [["company", 44, 67]]}
+{"id": 2375, "entities": []}
+{"id": 2376, "entities": []}
+{"id": 2377, "entities": [["company", 28, 31]]}
+{"id": 2378, "entities": []}
+{"id": 2379, "entities": []}
+{"id": 2380, "entities": []}
+{"id": 2381, "entities": [["company", 85, 87]]}
+{"id": 2381, "entities": [["company", 78, 81], ["company", 83, 84]]}
+{"id": 2381, "entities": []}
+{"id": 2382, "entities": []}
+{"id": 2383, "entities": [["company", 58, 70]]}
+{"id": 2384, "entities": [["company", 0, 3], ["company", 54, 66]]}
+{"id": 2385, "entities": []}
+{"id": 2386, "entities": []}
+{"id": 2387, "entities": []}
+{"id": 2388, "entities": []}
+{"id": 2388, "entities": []}
+{"id": 2389, "entities": []}
+{"id": 2390, "entities": []}
+{"id": 2391, "entities": [["company", 81, 89]]}
+{"id": 2392, "entities": []}
+{"id": 2392, "entities": []}
+{"id": 2393, "entities": []}
+{"id": 2394, "entities": []}
+{"id": 2395, "entities": [["company", 40, 54]]}
+{"id": 2396, "entities": []}
+{"id": 2397, "entities": [["company", 70, 73]]}
+{"id": 2398, "entities": []}
+{"id": 2399, "entities": [["company", 0, 3], ["company", 8, 11], ["company", 21, 24]]}
+{"id": 2400, "entities": [["company", 95, 104]]}
+{"id": 2401, "entities": []}
+{"id": 2402, "entities": [["company", 60, 73]]}
+{"id": 2403, "entities": []}
+{"id": 2404, "entities": [["company", 20, 26]]}
+{"id": 2405, "entities": []}
+{"id": 2406, "entities": []}
+{"id": 2407, "entities": [["company", 62, 64]]}
+{"id": 2408, "entities": [["company", 0, 1]]}
+{"id": 2409, "entities": []}
+{"id": 2409, "entities": []}
+{"id": 2410, "entities": []}
+{"id": 2411, "entities": [["company", 22, 23], ["company", 50, 53]]}
+{"id": 2411, "entities": []}
+{"id": 2412, "entities": [["company", 60, 65]]}
+{"id": 2413, "entities": [["company", 83, 98]]}
+{"id": 2414, "entities": [["company", 5, 12]]}
+{"id": 2414, "entities": []}
+{"id": 2414, "entities": []}
+{"id": 2415, "entities": []}
+{"id": 2415, "entities": []}
+{"id": 2415, "entities": [["company", 14, 17]]}
+{"id": 2416, "entities": [["company", 1, 6]]}
+{"id": 2416, "entities": []}
+{"id": 2416, "entities": [["company", 42, 44]]}
+{"id": 2417, "entities": []}
+{"id": 2418, "entities": []}
+{"id": 2419, "entities": []}
+{"id": 2420, "entities": []}
+{"id": 2421, "entities": [["company", 1, 2], ["company", 29, 30], ["company", 61, 70]]}
+{"id": 2422, "entities": []}
+{"id": 2422, "entities": []}
+{"id": 2422, "entities": []}
+{"id": 2422, "entities": [["company", 43, 44]]}
+{"id": 2423, "entities": []}
+{"id": 2424, "entities": []}
+{"id": 2424, "entities": [["company", 30, 31]]}
+{"id": 2424, "entities": []}
+{"id": 2424, "entities": []}
+{"id": 2425, "entities": []}
+{"id": 2426, "entities": []}
+{"id": 2427, "entities": [["company", 31, 34], ["company", 36, 38]]}
+{"id": 2427, "entities": []}
+{"id": 2428, "entities": []}
+{"id": 2428, "entities": []}
+{"id": 2429, "entities": []}
+{"id": 2430, "entities": [["company", 10, 13], ["company", 17, 20]]}
+{"id": 2431, "entities": []}
+{"id": 2432, "entities": []}
+{"id": 2433, "entities": []}
+{"id": 2434, "entities": [["company", 54, 57]]}
+{"id": 2435, "entities": [["company", 0, 3], ["company", 10, 11]]}
+{"id": 2436, "entities": []}
+{"id": 2436, "entities": []}
+{"id": 2437, "entities": []}
+{"id": 2438, "entities": [["company", 58, 61], ["company", 70, 72], ["company", 74, 77]]}
+{"id": 2438, "entities": [["company", 64, 67], ["company", 75, 76], ["company", 77, 78]]}
+{"id": 2438, "entities": []}
+{"id": 2438, "entities": [["company", 63, 72], ["company", 90, 91]]}
+{"id": 2439, "entities": []}
+{"id": 2440, "entities": []}
+{"id": 2441, "entities": []}
+{"id": 2441, "entities": [["company", 15, 18]]}
+{"id": 2442, "entities": []}
+{"id": 2443, "entities": []}
+{"id": 2444, "entities": []}
+{"id": 2445, "entities": []}
+{"id": 2446, "entities": [["company", 0, 7], ["company", 32, 36], ["company", 66, 71]]}
+{"id": 2447, "entities": [["company", 10, 18]]}
+{"id": 2448, "entities": []}
+{"id": 2449, "entities": []}
+{"id": 2450, "entities": [["company", 65, 68]]}
+{"id": 2451, "entities": []}
+{"id": 2451, "entities": []}
+{"id": 2451, "entities": [["company", 36, 37], ["company", 69, 72]]}
+{"id": 2451, "entities": []}
+{"id": 2452, "entities": []}
+{"id": 2453, "entities": [["company", 13, 14]]}
+{"id": 2454, "entities": [["company", 0, 2]]}
+{"id": 2454, "entities": []}
+{"id": 2454, "entities": [["company", 11, 12]]}
+{"id": 2455, "entities": []}
+{"id": 2456, "entities": []}
+{"id": 2456, "entities": [["company", 66, 67]]}
+{"id": 2456, "entities": [["company", 0, 1]]}
+{"id": 2456, "entities": []}
+{"id": 2456, "entities": [["company", 67, 70]]}
+{"id": 2457, "entities": []}
+{"id": 2458, "entities": []}
+{"id": 2459, "entities": [["company", 48, 53], ["company", 55, 58]]}
+{"id": 2459, "entities": []}
+{"id": 2460, "entities": []}
+{"id": 2460, "entities": []}
+{"id": 2461, "entities": []}
+{"id": 2461, "entities": [["company", 7, 10], ["company", 21, 22], ["company", 33, 35]]}
+{"id": 2462, "entities": [["company", 12, 23]]}
+{"id": 2463, "entities": []}
+{"id": 2464, "entities": [["company", 52, 55]]}
+{"id": 2465, "entities": [["company", 69, 75]]}
+{"id": 2466, "entities": [["company", 61, 76]]}
+{"id": 2467, "entities": []}
+{"id": 2468, "entities": []}
+{"id": 2469, "entities": []}
+{"id": 2470, "entities": []}
+{"id": 2471, "entities": []}
+{"id": 2472, "entities": []}
+{"id": 2473, "entities": []}
+{"id": 2473, "entities": []}
+{"id": 2473, "entities": [["company", 15, 18]]}
+{"id": 2474, "entities": []}
+{"id": 2475, "entities": [["company", 3, 11]]}
+{"id": 2476, "entities": []}
+{"id": 2477, "entities": [["company", 21, 22]]}
+{"id": 2478, "entities": []}
+{"id": 2479, "entities": []}
+{"id": 2479, "entities": []}
+{"id": 2480, "entities": []}
+{"id": 2481, "entities": []}
+{"id": 2482, "entities": [["company", 0, 11], ["company", 65, 68]]}
+{"id": 2483, "entities": [["company", 69, 70]]}
+{"id": 2484, "entities": []}
+{"id": 2485, "entities": []}
+{"id": 2486, "entities": []}
+{"id": 2487, "entities": []}
+{"id": 2488, "entities": []}
+{"id": 2489, "entities": []}
+{"id": 2490, "entities": [["company", 48, 49]]}
+{"id": 2490, "entities": [["company", 4, 10]]}
+{"id": 2490, "entities": [["company", 43, 46]]}
+{"id": 2490, "entities": [["company", 32, 37]]}
+{"id": 2491, "entities": [["company", 71, 82]]}
+{"id": 2492, "entities": []}
+{"id": 2493, "entities": []}
+{"id": 2493, "entities": []}
+{"id": 2493, "entities": [["company", 63, 68], ["company", 70, 73]]}
+{"id": 2493, "entities": []}
+{"id": 2494, "entities": []}
+{"id": 2495, "entities": [["company", 39, 40]]}
+{"id": 2496, "entities": []}
+{"id": 2497, "entities": []}
+{"id": 2498, "entities": []}
+{"id": 2498, "entities": []}
+{"id": 2499, "entities": []}
+{"id": 2500, "entities": [["company", 89, 92]]}
+{"id": 2500, "entities": []}
+{"id": 2501, "entities": []}
+{"id": 2502, "entities": [["company", 22, 31]]}
+{"id": 2503, "entities": []}
+{"id": 2504, "entities": [["company", 66, 78]]}
+{"id": 2505, "entities": []}
+{"id": 2506, "entities": [["company", 95, 105]]}
+{"id": 2507, "entities": []}
+{"id": 2507, "entities": []}
+{"id": 2508, "entities": [["company", 0, 3], ["company", 5, 8]]}
+{"id": 2508, "entities": []}
+{"id": 2509, "entities": []}
+{"id": 2510, "entities": []}
+{"id": 2511, "entities": []}
+{"id": 2511, "entities": [["company", 14, 17]]}
+{"id": 2512, "entities": []}
+{"id": 2512, "entities": []}
+{"id": 2512, "entities": [["company", 0, 5]]}
+{"id": 2512, "entities": []}
+{"id": 2512, "entities": [["company", 31, 34]]}
+{"id": 2512, "entities": []}
+{"id": 2513, "entities": []}
+{"id": 2514, "entities": []}
+{"id": 2515, "entities": [["company", 61, 72]]}
+{"id": 2516, "entities": []}
+{"id": 2516, "entities": [["company", 24, 27], ["company", 29, 32]]}
+{"id": 2517, "entities": []}
+{"id": 2518, "entities": []}
+{"id": 2519, "entities": []}
+{"id": 2520, "entities": [["company", 59, 69]]}
+{"id": 2521, "entities": []}
+{"id": 2522, "entities": []}
+{"id": 2523, "entities": [["company", 87, 90]]}
+{"id": 2523, "entities": []}
+{"id": 2523, "entities": []}
+{"id": 2523, "entities": [["company", 30, 37]]}
+{"id": 2523, "entities": [["company", 11, 14]]}
+{"id": 2524, "entities": [["company", 68, 80]]}
+{"id": 2525, "entities": [["company", 0, 4], ["company", 22, 24]]}
+{"id": 2526, "entities": []}
+{"id": 2526, "entities": []}
+{"id": 2527, "entities": []}
+{"id": 2528, "entities": []}
+{"id": 2529, "entities": [["company", 91, 93]]}
+{"id": 2529, "entities": [["company", 0, 2], ["company", 33, 48], ["company", 52, 56], ["company", 94, 95]]}
+{"id": 2529, "entities": []}
+{"id": 2530, "entities": [["company", 0, 3]]}
+{"id": 2531, "entities": []}
+{"id": 2532, "entities": [["company", 30, 34], ["company", 82, 96]]}
+{"id": 2533, "entities": [["company", 0, 8], ["company", 28, 29], ["company", 40, 43], ["company", 72, 80]]}
+{"id": 2534, "entities": []}
+{"id": 2535, "entities": []}
+{"id": 2536, "entities": [["company", 74, 76], ["company", 80, 82]]}
+{"id": 2536, "entities": []}
+{"id": 2537, "entities": []}
+{"id": 2538, "entities": []}
+{"id": 2539, "entities": [["company", 39, 41]]}
+{"id": 2539, "entities": []}
+{"id": 2540, "entities": [["company", 0, 1]]}
+{"id": 2541, "entities": [["company", 0, 4]]}
+{"id": 2542, "entities": [["company", 40, 44], ["company", 41, 44]]}
+{"id": 2543, "entities": []}
+{"id": 2544, "entities": []}
+{"id": 2545, "entities": [["company", 0, 3], ["company", 76, 79]]}
+{"id": 2546, "entities": []}
+{"id": 2547, "entities": [["company", 4, 14]]}
+{"id": 2548, "entities": [["company", 71, 76]]}
+{"id": 2549, "entities": []}
+{"id": 2550, "entities": []}
+{"id": 2551, "entities": []}
+{"id": 2552, "entities": []}
+{"id": 2552, "entities": []}
+{"id": 2552, "entities": []}
+{"id": 2553, "entities": []}
+{"id": 2554, "entities": []}
+{"id": 2555, "entities": []}
+{"id": 2555, "entities": [["company", 47, 51]]}
+{"id": 2555, "entities": []}
+{"id": 2556, "entities": [["company", 25, 27]]}
+{"id": 2557, "entities": []}
+{"id": 2558, "entities": []}
+{"id": 2558, "entities": []}
+{"id": 2559, "entities": []}
+{"id": 2560, "entities": []}
+{"id": 2561, "entities": []}
+{"id": 2562, "entities": [["company", 0, 13], ["company", 16, 29]]}
+{"id": 2563, "entities": []}
+{"id": 2564, "entities": [["company", 33, 36], ["company", 38, 41], ["company", 59, 67]]}
+{"id": 2565, "entities": [["company", 5, 13]]}
+{"id": 2566, "entities": []}
+{"id": 2567, "entities": []}
+{"id": 2568, "entities": [["company", 49, 50]]}
+{"id": 2568, "entities": [["company", 11, 13]]}
+{"id": 2568, "entities": [["company", 45, 47], ["company", 57, 58], ["company", 84, 89]]}
+{"id": 2568, "entities": [["company", 47, 50]]}
+{"id": 2568, "entities": []}
+{"id": 2569, "entities": []}
+{"id": 2570, "entities": []}
+{"id": 2571, "entities": []}
+{"id": 2572, "entities": []}
+{"id": 2573, "entities": [["company", 56, 60]]}
+{"id": 2574, "entities": []}
+{"id": 2575, "entities": [["company", 0, 3], ["company", 8, 14], ["company", 16, 19], ["company", 29, 32], ["company", 34, 37], ["company", 69, 75], ["company", 80, 85]]}
+{"id": 2576, "entities": []}
+{"id": 2577, "entities": [["company", 6, 8]]}
+{"id": 2578, "entities": []}
+{"id": 2579, "entities": []}
+{"id": 2579, "entities": []}
+{"id": 2580, "entities": [["company", 2, 4]]}
+{"id": 2580, "entities": [["company", 0, 7]]}
+{"id": 2581, "entities": [["company", 70, 74]]}
+{"id": 2582, "entities": []}
+{"id": 2583, "entities": []}
+{"id": 2584, "entities": [["company", 23, 26]]}
+{"id": 2584, "entities": []}
+{"id": 2585, "entities": []}
+{"id": 2586, "entities": []}
+{"id": 2587, "entities": [["company", 72, 79]]}
+{"id": 2588, "entities": []}
+{"id": 2588, "entities": [["company", 27, 30]]}
+{"id": 2589, "entities": [["company", 66, 79]]}
+{"id": 2590, "entities": []}
+{"id": 2591, "entities": [["company", 66, 76]]}
+{"id": 2592, "entities": []}
+{"id": 2593, "entities": []}
+{"id": 2594, "entities": [["company", 50, 53]]}
+{"id": 2595, "entities": [["company", 72, 74]]}
+{"id": 2596, "entities": [["company", 77, 88]]}
+{"id": 2597, "entities": []}
+{"id": 2598, "entities": []}
+{"id": 2599, "entities": []}
+{"id": 2600, "entities": []}
+{"id": 2600, "entities": []}
+{"id": 2601, "entities": [["company", 23, 24]]}
+{"id": 2602, "entities": [["company", 0, 1]]}
+{"id": 2603, "entities": []}
+{"id": 2604, "entities": [["company", 38, 41]]}
+{"id": 2605, "entities": [["company", 41, 65]]}
+{"id": 2606, "entities": []}
+{"id": 2607, "entities": [["company", 73, 84]]}
+{"id": 2608, "entities": []}
+{"id": 2609, "entities": []}
+{"id": 2610, "entities": []}
+{"id": 2611, "entities": []}
+{"id": 2612, "entities": []}
+{"id": 2613, "entities": []}
+{"id": 2614, "entities": []}
+{"id": 2615, "entities": []}
+{"id": 2616, "entities": []}
+{"id": 2617, "entities": []}
+{"id": 2617, "entities": []}
+{"id": 2618, "entities": []}
+{"id": 2618, "entities": []}
+{"id": 2619, "entities": []}
+{"id": 2620, "entities": [["company", 14, 15]]}
+{"id": 2621, "entities": [["company", 44, 57]]}
+{"id": 2622, "entities": [["company", 0, 6], ["company", 62, 68]]}
+{"id": 2623, "entities": []}
+{"id": 2624, "entities": []}
+{"id": 2625, "entities": []}
+{"id": 2626, "entities": []}
+{"id": 2627, "entities": []}
+{"id": 2628, "entities": []}
+{"id": 2629, "entities": []}
+{"id": 2630, "entities": []}
+{"id": 2631, "entities": []}
+{"id": 2632, "entities": [["company", 62, 71]]}
+{"id": 2633, "entities": []}
+{"id": 2634, "entities": []}
+{"id": 2635, "entities": [["company", 70, 73]]}
+{"id": 2636, "entities": []}
+{"id": 2637, "entities": []}
+{"id": 2638, "entities": [["company", 9, 13], ["company", 91, 97]]}
+{"id": 2639, "entities": [["company", 74, 80]]}
+{"id": 2640, "entities": []}
+{"id": 2641, "entities": [["company", 0, 2], ["company", 6, 9]]}
+{"id": 2641, "entities": []}
+{"id": 2642, "entities": [["company", 51, 64], ["company", 73, 75]]}
+{"id": 2643, "entities": []}
+{"id": 2644, "entities": []}
+{"id": 2645, "entities": []}
+{"id": 2645, "entities": []}
+{"id": 2645, "entities": []}
+{"id": 2646, "entities": []}
+{"id": 2647, "entities": [["company", 51, 65]]}
+{"id": 2648, "entities": []}
+{"id": 2649, "entities": [["company", 59, 64]]}
+{"id": 2650, "entities": [["company", 87, 93]]}
+{"id": 2651, "entities": []}
+{"id": 2651, "entities": []}
+{"id": 2651, "entities": []}
+{"id": 2652, "entities": []}
+{"id": 2653, "entities": []}
+{"id": 2654, "entities": [["company", 38, 49], ["company", 67, 80]]}
+{"id": 2655, "entities": []}
+{"id": 2656, "entities": [["company", 35, 45], ["company", 69, 78]]}
+{"id": 2657, "entities": []}
+{"id": 2658, "entities": []}
+{"id": 2659, "entities": [["company", 30, 31]]}
+{"id": 2659, "entities": []}
+{"id": 2660, "entities": []}
+{"id": 2661, "entities": []}
+{"id": 2662, "entities": []}
+{"id": 2662, "entities": []}
+{"id": 2662, "entities": [["company", 13, 16]]}
+{"id": 2663, "entities": [["company", 11, 17]]}
+{"id": 2664, "entities": [["company", 0, 5], ["company", 70, 79]]}
+{"id": 2665, "entities": []}
+{"id": 2666, "entities": []}
+{"id": 2667, "entities": [["company", 66, 76]]}
+{"id": 2668, "entities": []}
+{"id": 2669, "entities": []}
+{"id": 2670, "entities": [["company", 70, 84]]}
+{"id": 2671, "entities": []}
+{"id": 2672, "entities": []}
+{"id": 2673, "entities": []}
+{"id": 2674, "entities": []}
+{"id": 2675, "entities": []}
+{"id": 2676, "entities": []}
+{"id": 2677, "entities": []}
+{"id": 2678, "entities": []}
+{"id": 2679, "entities": []}
+{"id": 2680, "entities": []}
+{"id": 2680, "entities": []}
+{"id": 2681, "entities": []}
+{"id": 2681, "entities": [["company", 45, 48]]}
+{"id": 2681, "entities": []}
+{"id": 2682, "entities": []}
+{"id": 2683, "entities": []}
+{"id": 2683, "entities": []}
+{"id": 2684, "entities": []}
+{"id": 2685, "entities": [["company", 14, 19]]}
+{"id": 2685, "entities": []}
+{"id": 2686, "entities": []}
+{"id": 2687, "entities": []}
+{"id": 2688, "entities": []}
+{"id": 2689, "entities": [["company", 14, 15], ["company", 29, 32]]}
+{"id": 2690, "entities": []}
+{"id": 2690, "entities": [["company", 18, 26]]}
+{"id": 2691, "entities": []}
+{"id": 2692, "entities": []}
+{"id": 2693, "entities": [["company", 66, 76]]}
+{"id": 2694, "entities": []}
+{"id": 2695, "entities": []}
+{"id": 2696, "entities": []}
+{"id": 2697, "entities": []}
+{"id": 2698, "entities": [["company", 0, 33], ["company", 44, 60]]}
+{"id": 2699, "entities": []}
+{"id": 2700, "entities": []}
+{"id": 2700, "entities": [["company", 83, 84], ["company", 86, 87]]}
+{"id": 2701, "entities": []}
+{"id": 2702, "entities": []}
+{"id": 2703, "entities": [["company", 2, 5]]}
+{"id": 2704, "entities": []}
+{"id": 2705, "entities": []}
+{"id": 2706, "entities": [["company", 56, 59]]}
+{"id": 2706, "entities": [["company", 45, 48]]}
+{"id": 2706, "entities": []}
+{"id": 2706, "entities": []}
+{"id": 2706, "entities": []}
+{"id": 2706, "entities": []}
+{"id": 2706, "entities": []}
+{"id": 2707, "entities": [["company", 0, 8], ["company", 73, 81]]}
+{"id": 2708, "entities": [["company", 18, 46], ["company", 58, 65]]}
+{"id": 2709, "entities": [["company", 10, 16]]}
+{"id": 2710, "entities": []}
+{"id": 2711, "entities": [["company", 70, 79]]}
+{"id": 2712, "entities": []}
+{"id": 2713, "entities": []}
+{"id": 2714, "entities": []}
+{"id": 2715, "entities": [["company", 84, 89]]}
+{"id": 2715, "entities": []}
+{"id": 2716, "entities": [["company", 78, 79]]}
+{"id": 2717, "entities": []}
+{"id": 2718, "entities": []}
+{"id": 2719, "entities": []}
+{"id": 2720, "entities": []}
+{"id": 2721, "entities": [["company", 0, 10], ["company", 60, 70]]}
+{"id": 2722, "entities": [["company", 0, 1], ["company", 26, 27]]}
+{"id": 2722, "entities": []}
+{"id": 2722, "entities": []}
+{"id": 2723, "entities": []}
+{"id": 2723, "entities": [["company", 29, 34], ["company", 80, 85]]}
+{"id": 2723, "entities": []}
+{"id": 2723, "entities": []}
+{"id": 2724, "entities": []}
+{"id": 2724, "entities": [["company", 21, 28]]}
+{"id": 2725, "entities": []}
+{"id": 2726, "entities": [["company", 4, 5]]}
+{"id": 2727, "entities": [["company", 13, 14]]}
+{"id": 2728, "entities": []}
+{"id": 2729, "entities": []}
+{"id": 2729, "entities": []}
+{"id": 2730, "entities": []}
+{"id": 2731, "entities": []}
+{"id": 2732, "entities": []}
+{"id": 2733, "entities": [["company", 79, 82]]}
+{"id": 2734, "entities": [["company", 0, 15], ["company", 78, 93]]}
+{"id": 2735, "entities": []}
+{"id": 2736, "entities": []}
+{"id": 2737, "entities": []}
+{"id": 2738, "entities": [["company", 91, 93]]}
+{"id": 2738, "entities": [["company", 85, 94]]}
+{"id": 2738, "entities": [["company", 17, 22]]}
+{"id": 2739, "entities": []}
+{"id": 2740, "entities": [["company", 0, 2], ["company", 56, 71]]}
+{"id": 2741, "entities": []}
+{"id": 2741, "entities": []}
+{"id": 2742, "entities": []}
+{"id": 2743, "entities": []}
+{"id": 2744, "entities": []}
+{"id": 2745, "entities": []}
+{"id": 2746, "entities": []}
+{"id": 2747, "entities": []}
+{"id": 2748, "entities": []}
+{"id": 2748, "entities": []}
+{"id": 2749, "entities": []}
+{"id": 2750, "entities": []}
+{"id": 2751, "entities": []}
+{"id": 2752, "entities": []}
+{"id": 2753, "entities": []}
+{"id": 2753, "entities": [["company", 75, 76], ["company", 104, 105]]}
+{"id": 2753, "entities": [["company", 0, 1]]}
+{"id": 2754, "entities": []}
+{"id": 2755, "entities": []}
+{"id": 2756, "entities": [["company", 55, 68]]}
+{"id": 2757, "entities": []}
+{"id": 2757, "entities": [["company", 36, 37], ["company", 43, 44], ["company", 50, 51], ["company", 57, 58]]}
+{"id": 2758, "entities": []}
+{"id": 2759, "entities": []}
+{"id": 2760, "entities": [["company", 17, 25]]}
+{"id": 2760, "entities": []}
+{"id": 2760, "entities": []}
+{"id": 2761, "entities": [["company", 41, 44]]}
+{"id": 2762, "entities": []}
+{"id": 2763, "entities": []}
+{"id": 2764, "entities": []}
+{"id": 2765, "entities": [["company", 70, 72]]}
+{"id": 2766, "entities": []}
+{"id": 2766, "entities": []}
+{"id": 2767, "entities": []}
+{"id": 2768, "entities": []}
+{"id": 2769, "entities": []}
+{"id": 2770, "entities": []}
+{"id": 2770, "entities": []}
+{"id": 2770, "entities": []}
+{"id": 2770, "entities": []}
+{"id": 2770, "entities": []}
+{"id": 2771, "entities": []}
+{"id": 2772, "entities": []}
+{"id": 2773, "entities": []}
+{"id": 2774, "entities": []}
+{"id": 2775, "entities": []}
+{"id": 2776, "entities": []}
+{"id": 2776, "entities": []}
+{"id": 2777, "entities": [["company", 58, 67], ["company", 69, 78]]}
+{"id": 2778, "entities": [["company", 55, 71]]}
+{"id": 2779, "entities": []}
+{"id": 2779, "entities": []}
+{"id": 2779, "entities": [["company", 37, 43]]}
+{"id": 2779, "entities": []}
+{"id": 2780, "entities": [["company", 14, 16]]}
+{"id": 2781, "entities": []}
+{"id": 2782, "entities": [["company", 0, 12], ["company", 68, 80]]}
+{"id": 2783, "entities": [["company", 87, 88], ["company", 90, 91]]}
+{"id": 2784, "entities": [["company", 0, 2]]}
+{"id": 2785, "entities": [["company", 34, 37]]}
+{"id": 2786, "entities": []}
+{"id": 2787, "entities": []}
+{"id": 2788, "entities": []}
+{"id": 2789, "entities": []}
+{"id": 2790, "entities": []}
+{"id": 2791, "entities": []}
+{"id": 2792, "entities": []}
+{"id": 2793, "entities": [["company", 1, 2]]}
+{"id": 2794, "entities": []}
+{"id": 2794, "entities": []}
+{"id": 2794, "entities": [["company", 20, 22]]}
+{"id": 2795, "entities": []}
+{"id": 2796, "entities": []}
+{"id": 2797, "entities": []}
+{"id": 2798, "entities": []}
+{"id": 2799, "entities": []}
+{"id": 2800, "entities": [["company", 23, 26]]}
+{"id": 2800, "entities": []}
+{"id": 2801, "entities": []}
+{"id": 2802, "entities": []}
+{"id": 2803, "entities": []}
+{"id": 2803, "entities": []}
+{"id": 2804, "entities": []}
+{"id": 2805, "entities": []}
+{"id": 2805, "entities": [["company", 54, 64]]}
+{"id": 2805, "entities": [["company", 104, 107]]}
+{"id": 2805, "entities": []}
+{"id": 2805, "entities": []}
+{"id": 2805, "entities": [["company", 2, 3]]}
+{"id": 2806, "entities": []}
+{"id": 2807, "entities": [["company", 52, 55]]}
+{"id": 2807, "entities": [["company", 53, 56]]}
+{"id": 2808, "entities": []}
+{"id": 2809, "entities": []}
+{"id": 2809, "entities": [["company", 91, 92]]}
+{"id": 2809, "entities": []}
+{"id": 2809, "entities": []}
+{"id": 2810, "entities": []}
+{"id": 2811, "entities": []}
+{"id": 2811, "entities": []}
+{"id": 2812, "entities": [["company", 14, 17], ["company", 64, 69]]}
+{"id": 2813, "entities": [["company", 19, 30], ["company", 82, 91]]}
+{"id": 2813, "entities": [["company", 0, 13]]}
+{"id": 2814, "entities": [["company", 72, 77]]}
+{"id": 2815, "entities": [["company", 0, 11], ["company", 29, 40], ["company", 53, 64]]}
+{"id": 2816, "entities": [["company", 14, 15]]}
+{"id": 2817, "entities": []}
+{"id": 2818, "entities": []}
+{"id": 2819, "entities": [["company", 11, 14]]}
+{"id": 2820, "entities": []}
+{"id": 2820, "entities": [["company", 82, 84]]}
+{"id": 2820, "entities": []}
+{"id": 2820, "entities": []}
+{"id": 2821, "entities": []}
+{"id": 2822, "entities": []}
+{"id": 2823, "entities": []}
+{"id": 2824, "entities": []}
+{"id": 2824, "entities": []}
+{"id": 2825, "entities": []}
+{"id": 2825, "entities": []}
+{"id": 2825, "entities": []}
+{"id": 2826, "entities": []}
+{"id": 2827, "entities": []}
+{"id": 2828, "entities": []}
+{"id": 2829, "entities": [["company", 46, 49]]}
+{"id": 2829, "entities": [["company", 4, 11], ["company", 15, 16]]}
+{"id": 2830, "entities": []}
+{"id": 2831, "entities": [["company", 9, 20]]}
+{"id": 2832, "entities": []}
+{"id": 2833, "entities": []}
+{"id": 2834, "entities": []}
+{"id": 2834, "entities": [["company", 3, 12], ["company", 21, 24], ["company", 32, 35], ["company", 48, 60]]}
+{"id": 2834, "entities": []}
+{"id": 2835, "entities": []}
+{"id": 2836, "entities": []}
+{"id": 2837, "entities": []}
+{"id": 2838, "entities": []}
+{"id": 2839, "entities": []}
+{"id": 2840, "entities": [["company", 4, 7]]}
+{"id": 2841, "entities": []}
+{"id": 2841, "entities": []}
+{"id": 2842, "entities": []}
+{"id": 2843, "entities": []}
+{"id": 2844, "entities": []}
+{"id": 2845, "entities": []}
+{"id": 2846, "entities": []}
+{"id": 2847, "entities": [["company", 68, 81]]}
+{"id": 2848, "entities": [["company", 4, 7]]}
+{"id": 2848, "entities": [["company", 2, 3]]}
+{"id": 2849, "entities": []}
+{"id": 2850, "entities": []}
+{"id": 2851, "entities": [["company", 56, 70]]}
+{"id": 2851, "entities": []}
+{"id": 2851, "entities": []}
+{"id": 2851, "entities": [["company", 29, 30]]}
+{"id": 2852, "entities": []}
+{"id": 2852, "entities": [["company", 0, 11]]}
+{"id": 2853, "entities": [["company", 2, 3], ["company", 65, 74]]}
+{"id": 2854, "entities": []}
+{"id": 2855, "entities": []}
+{"id": 2856, "entities": []}
+{"id": 2857, "entities": []}
+{"id": 2858, "entities": [["company", 16, 31], ["company", 23, 31]]}
+{"id": 2859, "entities": []}
+{"id": 2860, "entities": []}
+{"id": 2861, "entities": [["company", 65, 68]]}
+{"id": 2862, "entities": []}
+{"id": 2862, "entities": [["company", 11, 14]]}
+{"id": 2863, "entities": [["company", 0, 5]]}
+{"id": 2864, "entities": []}
+{"id": 2865, "entities": []}
+{"id": 2866, "entities": [["company", 69, 80]]}
+{"id": 2867, "entities": []}
+{"id": 2868, "entities": [["company", 40, 41]]}
+{"id": 2869, "entities": []}
+{"id": 2870, "entities": [["company", 7, 13]]}
+{"id": 2871, "entities": []}
+{"id": 2871, "entities": []}
+{"id": 2872, "entities": []}
+{"id": 2873, "entities": []}
+{"id": 2874, "entities": []}
+{"id": 2874, "entities": []}
+{"id": 2875, "entities": []}
+{"id": 2876, "entities": [["company", 61, 74]]}
+{"id": 2877, "entities": []}
+{"id": 2878, "entities": []}
+{"id": 2879, "entities": []}
+{"id": 2880, "entities": []}
+{"id": 2881, "entities": []}
+{"id": 2882, "entities": []}
+{"id": 2883, "entities": []}
+{"id": 2884, "entities": [["company", 49, 54]]}
+{"id": 2885, "entities": []}
+{"id": 2886, "entities": []}
+{"id": 2887, "entities": []}
+{"id": 2888, "entities": []}
+{"id": 2889, "entities": []}
+{"id": 2890, "entities": []}
+{"id": 2891, "entities": [["company", 19, 22]]}
+{"id": 2891, "entities": []}
+{"id": 2892, "entities": [["company", 22, 25]]}
+{"id": 2893, "entities": []}
+{"id": 2894, "entities": [["company", 53, 60]]}
+{"id": 2894, "entities": []}
+{"id": 2895, "entities": []}
+{"id": 2896, "entities": []}
+{"id": 2897, "entities": [["company", 19, 22]]}
+{"id": 2898, "entities": []}
+{"id": 2899, "entities": []}
+{"id": 2900, "entities": []}
+{"id": 2901, "entities": []}
+{"id": 2902, "entities": []}
+{"id": 2903, "entities": []}
+{"id": 2904, "entities": []}
+{"id": 2905, "entities": []}
+{"id": 2906, "entities": []}
+{"id": 2907, "entities": [["company", 85, 88]]}
+{"id": 2907, "entities": []}
+{"id": 2907, "entities": []}
+{"id": 2908, "entities": []}
+{"id": 2909, "entities": []}
+{"id": 2909, "entities": [["company", 66, 68], ["company", 84, 93]]}
+{"id": 2909, "entities": [["company", 21, 24], ["company", 30, 33], ["company", 88, 89]]}
+{"id": 2909, "entities": []}
+{"id": 2909, "entities": [["company", 31, 33], ["company", 35, 37]]}
+{"id": 2910, "entities": []}
+{"id": 2911, "entities": [["company", 0, 4]]}
+{"id": 2911, "entities": []}
+{"id": 2912, "entities": []}
+{"id": 2913, "entities": []}
+{"id": 2914, "entities": []}
+{"id": 2915, "entities": [["company", 41, 44]]}
+{"id": 2915, "entities": [["company", 57, 68]]}
+{"id": 2915, "entities": [["company", 14, 15], ["company", 25, 26], ["company", 43, 44]]}
+{"id": 2915, "entities": []}
+{"id": 2915, "entities": []}
+{"id": 2916, "entities": []}
+{"id": 2917, "entities": [["company", 8, 9]]}
+{"id": 2918, "entities": [["company", 71, 76]]}
+{"id": 2919, "entities": [["company", 1, 8]]}
+{"id": 2920, "entities": []}
+{"id": 2921, "entities": []}
+{"id": 2922, "entities": [["company", 11, 15], ["company", 19, 22], ["company", 24, 27]]}
+{"id": 2923, "entities": []}
+{"id": 2924, "entities": [["company", 50, 56], ["company", 62, 71]]}
+{"id": 2924, "entities": []}
+{"id": 2925, "entities": [["company", 0, 5], ["company", 64, 80]]}
+{"id": 2926, "entities": []}
+{"id": 2927, "entities": []}
+{"id": 2928, "entities": []}
+{"id": 2929, "entities": []}
+{"id": 2930, "entities": [["company", 0, 12], ["company", 88, 93], ["company", 106, 107]]}
+{"id": 2930, "entities": []}
+{"id": 2930, "entities": []}
+{"id": 2931, "entities": []}
+{"id": 2931, "entities": [["company", 4, 14]]}
+{"id": 2932, "entities": [["company", 7, 12]]}
+{"id": 2932, "entities": []}
+{"id": 2933, "entities": [["company", 23, 25], ["company", 76, 97]]}
+{"id": 2934, "entities": []}
+{"id": 2935, "entities": [["company", 83, 104]]}
+{"id": 2936, "entities": [["company", 57, 59]]}
+{"id": 2936, "entities": []}
+{"id": 2937, "entities": [["company", 63, 73]]}
+{"id": 2937, "entities": []}
+{"id": 2937, "entities": [["company", 53, 56]]}
+{"id": 2938, "entities": [["company", 20, 21]]}
+{"id": 2939, "entities": [["company", 95, 106]]}
+{"id": 2940, "entities": []}
+{"id": 2941, "entities": []}
+{"id": 2942, "entities": []}
+{"id": 2942, "entities": []}
+{"id": 2943, "entities": []}
+{"id": 2944, "entities": []}
+{"id": 2944, "entities": []}
+{"id": 2945, "entities": [["company", 83, 94]]}
+{"id": 2946, "entities": []}
+{"id": 2947, "entities": [["company", 4, 6]]}
+{"id": 2948, "entities": [["company", 26, 32]]}
+{"id": 2949, "entities": [["company", 59, 67]]}
+{"id": 2950, "entities": []}
+{"id": 2951, "entities": []}
+{"id": 2952, "entities": [["company", 66, 73]]}
+{"id": 2953, "entities": []}
+{"id": 2954, "entities": []}
+{"id": 2955, "entities": []}
+{"id": 2956, "entities": [["company", 41, 50]]}
+{"id": 2957, "entities": []}
+{"id": 2957, "entities": []}
+{"id": 2958, "entities": []}
+{"id": 2959, "entities": [["company", 50, 61]]}
+{"id": 2960, "entities": []}
+{"id": 2961, "entities": []}
+{"id": 2962, "entities": []}
+{"id": 2963, "entities": [["company", 59, 62]]}
+{"id": 2964, "entities": []}
+{"id": 2964, "entities": []}
+{"id": 2964, "entities": [["company", 6, 14], ["company", 24, 25]]}
+{"id": 2964, "entities": []}
+{"id": 2965, "entities": [["company", 48, 51]]}
+{"id": 2965, "entities": []}
+{"id": 2965, "entities": [["company", 39, 46]]}
+{"id": 2965, "entities": []}
+{"id": 2966, "entities": []}
+{"id": 2967, "entities": [["company", 0, 1], ["company", 44, 47], ["company", 69, 70]]}
+{"id": 2967, "entities": []}
+{"id": 2968, "entities": [["company", 55, 64], ["company", 67, 79]]}
+{"id": 2969, "entities": []}
+{"id": 2969, "entities": [["company", 15, 19]]}
+{"id": 2970, "entities": [["company", 98, 101]]}
+{"id": 2970, "entities": []}
+{"id": 2971, "entities": []}
+{"id": 2972, "entities": [["company", 55, 58]]}
+{"id": 2973, "entities": []}
+{"id": 2973, "entities": [["company", 26, 29]]}
+{"id": 2974, "entities": []}
+{"id": 2975, "entities": []}
+{"id": 2976, "entities": []}
+{"id": 2977, "entities": [["company", 37, 40]]}
+{"id": 2977, "entities": []}
+{"id": 2978, "entities": []}
+{"id": 2979, "entities": [["company", 52, 66]]}
+{"id": 2980, "entities": []}
+{"id": 2981, "entities": []}
+{"id": 2982, "entities": []}
+{"id": 2983, "entities": [["company", 51, 54]]}
+{"id": 2984, "entities": []}
+{"id": 2985, "entities": []}
+{"id": 2986, "entities": [["company", 45, 54], ["company", 60, 71]]}
+{"id": 2987, "entities": []}
+{"id": 2988, "entities": []}
+{"id": 2989, "entities": []}
+{"id": 2990, "entities": []}
+{"id": 2991, "entities": []}
+{"id": 2992, "entities": [["company", 24, 26]]}
+{"id": 2993, "entities": [["company", 29, 32], ["company", 34, 37]]}
+{"id": 2993, "entities": [["company", 0, 1]]}
+{"id": 2994, "entities": []}
+{"id": 2995, "entities": []}
+{"id": 2996, "entities": []}
+{"id": 2997, "entities": [["company", 61, 66], ["company", 67, 74]]}
+{"id": 2998, "entities": []}
+{"id": 2998, "entities": [["company", 0, 2]]}
+{"id": 2998, "entities": [["company", 12, 23], ["company", 36, 39]]}
+{"id": 2998, "entities": []}
+{"id": 2999, "entities": []}
+{"id": 3000, "entities": []}
+{"id": 3000, "entities": [["company", 50, 51], ["company", 87, 88]]}
+{"id": 3000, "entities": [["company", 59, 60]]}
+{"id": 3000, "entities": []}
+{"id": 3001, "entities": []}
+{"id": 3002, "entities": []}
+{"id": 3003, "entities": []}
+{"id": 3004, "entities": []}
+{"id": 3005, "entities": []}
+{"id": 3006, "entities": [["company", 64, 74]]}
+{"id": 3007, "entities": []}
+{"id": 3008, "entities": []}
+{"id": 3009, "entities": []}
+{"id": 3010, "entities": []}
+{"id": 3010, "entities": [["company", 27, 28], ["company", 73, 83], ["company", 85, 87]]}
+{"id": 3011, "entities": []}
+{"id": 3012, "entities": []}
+{"id": 3013, "entities": []}
+{"id": 3014, "entities": []}
+{"id": 3015, "entities": []}
+{"id": 3016, "entities": []}
+{"id": 3017, "entities": []}
+{"id": 3018, "entities": []}
+{"id": 3019, "entities": []}
+{"id": 3020, "entities": []}
+{"id": 3021, "entities": []}
+{"id": 3022, "entities": []}
+{"id": 3023, "entities": []}
+{"id": 3024, "entities": [["company", 8, 11]]}
+{"id": 3025, "entities": [["company", 69, 77], ["company", 90, 98]]}
+{"id": 3026, "entities": []}
+{"id": 3026, "entities": []}
+{"id": 3027, "entities": []}
+{"id": 3028, "entities": [["company", 0, 19], ["company", 26, 41], ["company", 64, 83]]}
+{"id": 3029, "entities": []}
+{"id": 3029, "entities": []}
+{"id": 3030, "entities": []}
+{"id": 3031, "entities": []}
+{"id": 3032, "entities": []}
+{"id": 3033, "entities": [["company", 41, 43]]}
+{"id": 3034, "entities": [["company", 34, 45], ["company", 51, 62]]}
+{"id": 3035, "entities": []}
+{"id": 3036, "entities": []}
+{"id": 3037, "entities": [["company", 69, 81]]}
+{"id": 3038, "entities": []}
+{"id": 3039, "entities": []}
+{"id": 3040, "entities": []}
+{"id": 3040, "entities": []}
+{"id": 3041, "entities": []}
+{"id": 3041, "entities": []}
+{"id": 3041, "entities": []}
+{"id": 3041, "entities": []}
+{"id": 3042, "entities": []}
+{"id": 3043, "entities": [["company", 54, 59]]}
+{"id": 3044, "entities": [["company", 48, 51]]}
+{"id": 3045, "entities": []}
+{"id": 3046, "entities": []}
+{"id": 3047, "entities": []}
+{"id": 3048, "entities": []}
+{"id": 3049, "entities": []}
+{"id": 3050, "entities": []}
+{"id": 3051, "entities": []}
+{"id": 3051, "entities": [["company", 36, 41]]}
+{"id": 3052, "entities": []}
+{"id": 3053, "entities": [["company", 63, 66]]}
+{"id": 3053, "entities": []}
+{"id": 3053, "entities": [["company", 18, 21], ["company", 58, 59], ["company", 63, 67]]}
+{"id": 3053, "entities": []}
+{"id": 3053, "entities": []}
+{"id": 3054, "entities": []}
+{"id": 3054, "entities": []}
+{"id": 3054, "entities": [["company", 26, 34]]}
+{"id": 3054, "entities": [["company", 76, 82]]}
+{"id": 3054, "entities": [["company", 89, 90]]}
+{"id": 3054, "entities": []}
+{"id": 3055, "entities": []}
+{"id": 3056, "entities": []}
+{"id": 3057, "entities": []}
+{"id": 3058, "entities": []}
+{"id": 3059, "entities": []}
+{"id": 3060, "entities": [["company", 72, 79]]}
+{"id": 3061, "entities": []}
+{"id": 3062, "entities": []}
+{"id": 3063, "entities": []}
+{"id": 3063, "entities": [["company", 70, 72]]}
+{"id": 3064, "entities": [["company", 0, 4]]}
+{"id": 3065, "entities": []}
+{"id": 3066, "entities": []}
+{"id": 3067, "entities": []}
+{"id": 3068, "entities": []}
+{"id": 3069, "entities": [["company", 55, 58]]}
+{"id": 3070, "entities": []}
+{"id": 3071, "entities": []}
+{"id": 3072, "entities": []}
+{"id": 3073, "entities": []}
+{"id": 3074, "entities": []}
+{"id": 3075, "entities": []}
+{"id": 3076, "entities": []}
+{"id": 3077, "entities": []}
+{"id": 3078, "entities": [["company", 40, 43]]}
+{"id": 3078, "entities": []}
+{"id": 3079, "entities": []}
+{"id": 3080, "entities": [["company", 0, 10], ["company", 58, 70]]}
+{"id": 3081, "entities": [["company", 3, 8], ["company", 87, 92]]}
+{"id": 3082, "entities": []}
+{"id": 3083, "entities": []}
+{"id": 3084, "entities": []}
+{"id": 3084, "entities": []}
+{"id": 3085, "entities": [["company", 43, 45]]}
+{"id": 3086, "entities": []}
+{"id": 3087, "entities": [["company", 19, 22], ["company", 61, 71]]}
+{"id": 3088, "entities": [["company", 61, 75]]}
+{"id": 3089, "entities": []}
+{"id": 3090, "entities": [["company", 32, 41], ["company", 73, 82]]}
+{"id": 3091, "entities": []}
+{"id": 3092, "entities": [["company", 34, 44], ["company", 61, 78]]}
+{"id": 3093, "entities": []}
+{"id": 3094, "entities": [["company", 56, 63]]}
+{"id": 3095, "entities": [["company", 56, 71]]}
+{"id": 3096, "entities": []}
+{"id": 3097, "entities": [["company", 41, 42]]}
+{"id": 3097, "entities": []}
+{"id": 3097, "entities": [["company", 0, 1], ["company", 66, 69]]}
+{"id": 3097, "entities": [["company", 39, 41]]}
+{"id": 3097, "entities": []}
+{"id": 3098, "entities": [["company", 68, 84]]}
+{"id": 3099, "entities": [["company", 77, 86]]}
+{"id": 3100, "entities": []}
+{"id": 3101, "entities": [["company", 18, 27]]}
+{"id": 3101, "entities": []}
+{"id": 3101, "entities": [["company", 0, 3]]}
+{"id": 3101, "entities": []}
+{"id": 3102, "entities": [["company", 0, 11], ["company", 4, 11], ["company", 67, 80]]}
+{"id": 3103, "entities": [["company", 2, 5], ["company", 19, 22]]}
+{"id": 3104, "entities": []}
+{"id": 3104, "entities": [["company", 55, 58]]}
+{"id": 3104, "entities": [["company", 24, 25], ["company", 83, 86]]}
+{"id": 3104, "entities": [["company", 13, 14]]}
+{"id": 3105, "entities": []}
+{"id": 3106, "entities": [["company", 0, 6]]}
+{"id": 3107, "entities": []}
+{"id": 3108, "entities": [["company", 12, 15], ["company", 19, 25], ["company", 71, 76]]}
+{"id": 3109, "entities": []}
+{"id": 3110, "entities": [["company", 6, 7]]}
+{"id": 3110, "entities": []}
+{"id": 3111, "entities": []}
+{"id": 3112, "entities": [["company", 17, 21], ["company", 95, 98]]}
+{"id": 3112, "entities": []}
+{"id": 3112, "entities": [["company", 37, 40]]}
+{"id": 3112, "entities": []}
+{"id": 3113, "entities": []}
+{"id": 3114, "entities": [["company", 69, 72]]}
+{"id": 3115, "entities": []}
+{"id": 3116, "entities": [["company", 5, 8]]}
+{"id": 3117, "entities": []}
+{"id": 3118, "entities": [["company", 46, 51]]}
+{"id": 3118, "entities": [["company", 18, 21]]}
+{"id": 3118, "entities": []}
+{"id": 3119, "entities": []}
+{"id": 3119, "entities": []}
+{"id": 3120, "entities": []}
+{"id": 3121, "entities": [["company", 0, 2], ["company", 54, 62]]}
+{"id": 3122, "entities": []}
+{"id": 3123, "entities": [["company", 61, 74]]}
+{"id": 3124, "entities": []}
+{"id": 3124, "entities": []}
+{"id": 3125, "entities": []}
+{"id": 3126, "entities": [["company", 41, 53], ["company", 59, 66]]}
+{"id": 3127, "entities": []}
+{"id": 3128, "entities": []}
+{"id": 3129, "entities": []}
+{"id": 3130, "entities": []}
+{"id": 3131, "entities": [["company", 48, 51]]}
+{"id": 3131, "entities": []}
+{"id": 3132, "entities": []}
+{"id": 3133, "entities": []}
+{"id": 3134, "entities": [["company", 4, 5], ["company", 43, 44]]}
+{"id": 3134, "entities": []}
+{"id": 3134, "entities": [["company", 0, 7]]}
+{"id": 3135, "entities": []}
+{"id": 3136, "entities": []}
+{"id": 3137, "entities": []}
+{"id": 3137, "entities": []}
+{"id": 3137, "entities": [["company", 45, 49]]}
+{"id": 3137, "entities": []}
+{"id": 3138, "entities": []}
+{"id": 3139, "entities": []}
+{"id": 3139, "entities": [["company", 36, 40]]}
+{"id": 3140, "entities": []}
+{"id": 3141, "entities": []}
+{"id": 3142, "entities": []}
+{"id": 3143, "entities": [["company", 65, 74]]}
+{"id": 3144, "entities": [["company", 0, 1], ["company", 19, 20], ["company", 22, 23]]}
+{"id": 3145, "entities": [["company", 0, 3]]}
+{"id": 3146, "entities": [["company", 0, 2]]}
+{"id": 3147, "entities": []}
+{"id": 3147, "entities": [["company", 46, 54]]}
+{"id": 3147, "entities": []}
+{"id": 3147, "entities": []}
+{"id": 3148, "entities": []}
+{"id": 3149, "entities": []}
+{"id": 3150, "entities": []}
+{"id": 3151, "entities": [["company", 41, 42], ["company", 54, 61]]}
+{"id": 3152, "entities": [["company", 51, 53], ["company", 68, 75]]}
+{"id": 3153, "entities": []}
+{"id": 3153, "entities": []}
+{"id": 3154, "entities": []}
+{"id": 3155, "entities": [["company", 0, 4]]}
+{"id": 3156, "entities": []}
+{"id": 3157, "entities": []}
+{"id": 3158, "entities": []}
+{"id": 3159, "entities": [["company", 53, 66]]}
+{"id": 3160, "entities": []}
+{"id": 3161, "entities": []}
+{"id": 3161, "entities": []}
+{"id": 3162, "entities": []}
+{"id": 3163, "entities": [["company", 1, 4], ["company", 14, 17]]}
+{"id": 3164, "entities": [["company", 10, 11]]}
+{"id": 3165, "entities": []}
+{"id": 3166, "entities": []}
+{"id": 3167, "entities": []}
+{"id": 3167, "entities": [["company", 22, 30]]}
+{"id": 3168, "entities": []}
+{"id": 3169, "entities": [["company", 5, 14]]}
+{"id": 3170, "entities": [["company", 36, 45]]}
+{"id": 3171, "entities": [["company", 26, 32]]}
+{"id": 3172, "entities": []}
+{"id": 3173, "entities": []}
+{"id": 3174, "entities": []}
+{"id": 3175, "entities": [["company", 0, 2], ["company", 81, 87]]}
+{"id": 3176, "entities": [["company", 7, 12], ["company", 63, 74]]}
+{"id": 3177, "entities": []}
+{"id": 3178, "entities": []}
+{"id": 3179, "entities": []}
+{"id": 3180, "entities": [["company", 16, 17]]}
+{"id": 3181, "entities": []}
+{"id": 3182, "entities": []}
+{"id": 3183, "entities": [["company", 1, 2], ["company", 34, 35]]}
+{"id": 3184, "entities": []}
+{"id": 3185, "entities": [["company", 67, 77]]}
+{"id": 3186, "entities": [["company", 28, 35]]}
+{"id": 3186, "entities": []}
+{"id": 3187, "entities": []}
+{"id": 3188, "entities": [["company", 0, 8]]}
+{"id": 3189, "entities": [["company", 71, 76]]}
+{"id": 3190, "entities": [["company", 33, 46]]}
+{"id": 3191, "entities": [["company", 54, 55]]}
+{"id": 3192, "entities": [["company", 52, 55]]}
+{"id": 3192, "entities": []}
+{"id": 3193, "entities": []}
+{"id": 3194, "entities": [["company", 71, 78]]}
+{"id": 3195, "entities": []}
+{"id": 3196, "entities": []}
+{"id": 3196, "entities": []}
+{"id": 3197, "entities": []}
+{"id": 3198, "entities": [["company", 4, 5]]}
+{"id": 3198, "entities": [["company", 49, 50], ["company", 58, 66]]}
+{"id": 3198, "entities": []}
+{"id": 3199, "entities": []}
+{"id": 3200, "entities": []}
+{"id": 3201, "entities": []}
+{"id": 3202, "entities": [["company", 0, 3]]}
+{"id": 3203, "entities": []}
+{"id": 3204, "entities": []}
+{"id": 3205, "entities": []}
+{"id": 3206, "entities": []}
+{"id": 3207, "entities": []}
+{"id": 3208, "entities": []}
+{"id": 3209, "entities": [["company", 0, 1], ["company", 16, 19]]}
+{"id": 3209, "entities": [["company", 16, 23]]}
+{"id": 3209, "entities": [["company", 0, 3], ["company", 28, 31], ["company", 40, 45], ["company", 47, 48]]}
+{"id": 3210, "entities": [["company", 18, 21]]}
+{"id": 3210, "entities": []}
+{"id": 3210, "entities": [["company", 0, 5]]}
+{"id": 3211, "entities": []}
+{"id": 3212, "entities": []}
+{"id": 3213, "entities": [["company", 49, 52], ["company", 60, 63]]}
+{"id": 3214, "entities": []}
+{"id": 3215, "entities": [["company", 78, 89]]}
+{"id": 3216, "entities": []}
+{"id": 3217, "entities": []}
+{"id": 3217, "entities": []}
+{"id": 3218, "entities": []}
+{"id": 3219, "entities": []}
+{"id": 3220, "entities": []}
+{"id": 3221, "entities": []}
+{"id": 3222, "entities": []}
+{"id": 3223, "entities": [["company", 63, 75]]}
+{"id": 3224, "entities": []}
+{"id": 3225, "entities": []}
+{"id": 3226, "entities": [["company", 3, 4]]}
+{"id": 3227, "entities": []}
+{"id": 3228, "entities": []}
+{"id": 3229, "entities": []}
+{"id": 3230, "entities": []}
+{"id": 3231, "entities": [["company", 73, 76]]}
+{"id": 3232, "entities": []}
+{"id": 3233, "entities": []}
+{"id": 3234, "entities": []}
+{"id": 3234, "entities": []}
+{"id": 3235, "entities": []}
+{"id": 3236, "entities": []}
+{"id": 3237, "entities": []}
+{"id": 3238, "entities": []}
+{"id": 3238, "entities": [["company", 0, 13]]}
+{"id": 3239, "entities": []}
+{"id": 3240, "entities": [["company", 49, 52], ["company", 58, 70]]}
+{"id": 3241, "entities": []}
+{"id": 3242, "entities": []}
+{"id": 3243, "entities": []}
+{"id": 3244, "entities": [["company", 65, 73]]}
+{"id": 3245, "entities": []}
+{"id": 3246, "entities": []}
+{"id": 3247, "entities": []}
+{"id": 3248, "entities": [["company", 0, 5]]}
+{"id": 3249, "entities": []}
+{"id": 3250, "entities": [["company", 0, 12]]}
+{"id": 3251, "entities": [["company", 74, 82]]}
+{"id": 3252, "entities": []}
+{"id": 3253, "entities": []}
+{"id": 3254, "entities": [["company", 48, 51]]}
+{"id": 3255, "entities": []}
+{"id": 3255, "entities": [["company", 70, 76]]}
+{"id": 3256, "entities": [["company", 7, 11], ["company", 29, 33], ["company", 51, 55], ["company", 66, 70]]}
+{"id": 3257, "entities": [["company", 0, 9], ["company", 11, 22], ["company", 53, 60]]}
+{"id": 3258, "entities": []}
+{"id": 3258, "entities": [["company", 46, 47]]}
+{"id": 3258, "entities": []}
+{"id": 3259, "entities": []}
+{"id": 3260, "entities": []}
+{"id": 3261, "entities": []}
+{"id": 3262, "entities": [["company", 63, 68]]}
+{"id": 3263, "entities": []}
+{"id": 3264, "entities": []}
+{"id": 3265, "entities": [["company", 60, 66]]}
+{"id": 3266, "entities": []}
+{"id": 3267, "entities": []}
+{"id": 3268, "entities": []}
+{"id": 3269, "entities": [["company", 0, 6], ["company", 28, 29], ["company", 78, 84]]}
+{"id": 3270, "entities": [["company", 0, 8]]}
+{"id": 3271, "entities": []}
+{"id": 3272, "entities": [["company", 54, 55]]}
+{"id": 3272, "entities": [["company", 43, 44]]}
+{"id": 3272, "entities": []}
+{"id": 3273, "entities": []}
+{"id": 3273, "entities": []}
+{"id": 3274, "entities": [["company", 55, 60]]}
+{"id": 3275, "entities": []}
+{"id": 3275, "entities": []}
+{"id": 3276, "entities": []}
+{"id": 3276, "entities": []}
+{"id": 3276, "entities": []}
+{"id": 3276, "entities": []}
+{"id": 3277, "entities": [["company", 44, 46], ["company", 84, 85]]}
+{"id": 3277, "entities": []}
+{"id": 3278, "entities": []}
+{"id": 3278, "entities": []}
+{"id": 3279, "entities": [["company", 69, 78]]}
+{"id": 3280, "entities": []}
+{"id": 3280, "entities": []}
+{"id": 3281, "entities": [["company", 57, 68]]}
+{"id": 3282, "entities": [["company", 68, 81]]}
+{"id": 3283, "entities": []}
+{"id": 3284, "entities": []}
+{"id": 3285, "entities": []}
+{"id": 3286, "entities": [["company", 1, 2]]}
+{"id": 3286, "entities": [["company", 44, 48]]}
+{"id": 3287, "entities": []}
+{"id": 3288, "entities": []}
+{"id": 3288, "entities": [["company", 23, 26], ["company", 47, 50], ["company", 52, 56]]}
+{"id": 3289, "entities": [["company", 70, 77]]}
+{"id": 3290, "entities": []}
+{"id": 3291, "entities": []}
+{"id": 3292, "entities": []}
+{"id": 3293, "entities": [["company", 12, 19], ["company", 66, 77]]}
+{"id": 3294, "entities": []}
+{"id": 3294, "entities": [["company", 66, 73]]}
+{"id": 3294, "entities": []}
+{"id": 3295, "entities": [["company", 71, 81]]}
+{"id": 3296, "entities": []}
+{"id": 3297, "entities": []}
+{"id": 3297, "entities": []}
+{"id": 3298, "entities": []}
+{"id": 3299, "entities": []}
+{"id": 3300, "entities": []}
+{"id": 3301, "entities": []}
+{"id": 3302, "entities": []}
+{"id": 3303, "entities": []}
+{"id": 3304, "entities": []}
+{"id": 3305, "entities": [["company", 2, 3]]}
+{"id": 3306, "entities": [["company", 55, 58]]}
+{"id": 3306, "entities": []}
+{"id": 3307, "entities": []}
+{"id": 3308, "entities": []}
+{"id": 3309, "entities": [["company", 6, 14]]}
+{"id": 3310, "entities": []}
+{"id": 3311, "entities": [["company", 0, 7]]}
+{"id": 3312, "entities": []}
+{"id": 3313, "entities": [["company", 33, 35], ["company", 52, 54]]}
+{"id": 3314, "entities": [["company", 74, 84]]}
+{"id": 3315, "entities": [["company", 24, 27]]}
+{"id": 3316, "entities": []}
+{"id": 3317, "entities": [["company", 81, 83]]}
+{"id": 3318, "entities": []}
+{"id": 3318, "entities": []}
+{"id": 3319, "entities": [["company", 45, 50]]}
+{"id": 3319, "entities": []}
+{"id": 3319, "entities": []}
+{"id": 3320, "entities": []}
+{"id": 3321, "entities": [["company", 71, 85]]}
+{"id": 3322, "entities": [["company", 0, 7], ["company", 34, 45], ["company", 61, 68], ["company", 71, 76]]}
+{"id": 3323, "entities": []}
+{"id": 3324, "entities": []}
+{"id": 3324, "entities": []}
+{"id": 3325, "entities": [["company", 65, 66], ["company", 78, 79]]}
+{"id": 3325, "entities": []}
+{"id": 3325, "entities": [["company", 4, 7]]}
+{"id": 3326, "entities": [["company", 45, 48], ["company", 73, 76]]}
+{"id": 3326, "entities": [["company", 13, 16]]}
+{"id": 3327, "entities": [["company", 47, 57]]}
+{"id": 3328, "entities": []}
+{"id": 3329, "entities": []}
+{"id": 3330, "entities": [["company", 82, 87]]}
+{"id": 3330, "entities": []}
+{"id": 3331, "entities": [["company", 45, 52], ["company", 58, 65]]}
+{"id": 3332, "entities": []}
+{"id": 3333, "entities": []}
+{"id": 3334, "entities": []}
+{"id": 3335, "entities": []}
+{"id": 3336, "entities": []}
+{"id": 3337, "entities": []}
+{"id": 3338, "entities": [["company", 13, 24], ["company", 95, 96]]}
+{"id": 3338, "entities": [["company", 10, 11]]}
+{"id": 3339, "entities": [["company", 0, 3], ["company", 28, 29]]}
+{"id": 3339, "entities": []}
+{"id": 3340, "entities": []}
+{"id": 3341, "entities": []}
+{"id": 3341, "entities": []}
+{"id": 3342, "entities": []}
+{"id": 3343, "entities": []}
+{"id": 3344, "entities": [["company", 62, 71]]}
+{"id": 3345, "entities": []}
+{"id": 3346, "entities": []}
+{"id": 3347, "entities": []}
+{"id": 3348, "entities": []}
+{"id": 3349, "entities": [["company", 65, 83]]}
+{"id": 3350, "entities": [["company", 34, 36], ["company", 38, 40]]}
+{"id": 3350, "entities": []}
+{"id": 3350, "entities": []}
+{"id": 3350, "entities": []}
+{"id": 3351, "entities": []}
+{"id": 3352, "entities": []}
+{"id": 3353, "entities": []}
+{"id": 3354, "entities": []}
+{"id": 3355, "entities": []}
+{"id": 3356, "entities": []}
+{"id": 3357, "entities": [["company", 49, 65]]}
+{"id": 3358, "entities": []}
+{"id": 3359, "entities": []}
+{"id": 3360, "entities": [["company", 86, 101]]}
+{"id": 3360, "entities": []}
+{"id": 3361, "entities": []}
+{"id": 3362, "entities": []}
+{"id": 3363, "entities": []}
+{"id": 3364, "entities": []}
+{"id": 3365, "entities": []}
+{"id": 3366, "entities": []}
+{"id": 3367, "entities": []}
+{"id": 3368, "entities": [["company", 28, 29]]}
+{"id": 3369, "entities": []}
+{"id": 3369, "entities": [["company", 10, 13], ["company", 26, 27], ["company", 29, 30]]}
+{"id": 3369, "entities": [["company", 50, 53]]}
+{"id": 3369, "entities": []}
+{"id": 3369, "entities": []}
+{"id": 3370, "entities": []}
+{"id": 3371, "entities": [["company", 88, 93]]}
+{"id": 3372, "entities": []}
+{"id": 3373, "entities": [["company", 57, 73]]}
+{"id": 3374, "entities": []}
+{"id": 3375, "entities": []}
+{"id": 3375, "entities": [["company", 38, 41]]}
+{"id": 3375, "entities": []}
+{"id": 3376, "entities": [["company", 64, 74]]}
+{"id": 3377, "entities": [["company", 66, 69], ["company", 80, 84]]}
+{"id": 3377, "entities": []}
+{"id": 3377, "entities": [["company", 91, 92]]}
+{"id": 3377, "entities": [["company", 53, 56]]}
+{"id": 3377, "entities": [["company", 31, 34]]}
+{"id": 3377, "entities": [["company", 109, 112]]}
+{"id": 3378, "entities": []}
+{"id": 3378, "entities": []}
+{"id": 3379, "entities": []}
+{"id": 3380, "entities": []}
+{"id": 3381, "entities": [["company", 69, 88]]}
+{"id": 3382, "entities": [["company", 32, 35], ["company", 46, 53]]}
+{"id": 3382, "entities": [["company", 18, 40], ["company", 54, 56], ["company", 78, 81]]}
+{"id": 3383, "entities": [["company", 60, 67]]}
+{"id": 3384, "entities": []}
+{"id": 3385, "entities": []}
+{"id": 3386, "entities": [["company", 83, 86], ["company", 91, 100]]}
+{"id": 3387, "entities": []}
+{"id": 3388, "entities": []}
+{"id": 3388, "entities": []}
+{"id": 3389, "entities": [["company", 52, 63]]}
+{"id": 3390, "entities": []}
+{"id": 3391, "entities": [["company", 70, 75]]}
+{"id": 3391, "entities": []}
+{"id": 3392, "entities": []}
+{"id": 3393, "entities": []}
+{"id": 3394, "entities": []}
+{"id": 3395, "entities": []}
+{"id": 3396, "entities": []}
+{"id": 3397, "entities": []}
+{"id": 3398, "entities": []}
+{"id": 3399, "entities": []}
+{"id": 3400, "entities": []}
+{"id": 3401, "entities": []}
+{"id": 3402, "entities": []}
+{"id": 3403, "entities": [["company", 2, 5], ["company", 26, 29]]}
+{"id": 3404, "entities": []}
+{"id": 3405, "entities": []}
+{"id": 3406, "entities": [["company", 19, 21]]}
+{"id": 3407, "entities": [["company", 38, 39], ["company", 58, 65], ["company", 106, 113]]}
+{"id": 3407, "entities": []}
+{"id": 3408, "entities": [["company", 78, 84]]}
+{"id": 3409, "entities": []}
+{"id": 3409, "entities": []}
+{"id": 3410, "entities": []}
+{"id": 3411, "entities": []}
+{"id": 3412, "entities": []}
+{"id": 3413, "entities": []}
+{"id": 3413, "entities": []}
+{"id": 3414, "entities": []}
+{"id": 3415, "entities": [["company", 19, 20], ["company", 24, 25], ["company", 37, 38]]}
+{"id": 3415, "entities": []}
+{"id": 3416, "entities": []}
+{"id": 3417, "entities": []}
+{"id": 3418, "entities": [["company", 0, 13], ["company", 67, 82]]}
+{"id": 3419, "entities": []}
+{"id": 3420, "entities": []}
+{"id": 3421, "entities": []}
+{"id": 3422, "entities": []}
+{"id": 3422, "entities": []}
+{"id": 3423, "entities": []}
+{"id": 3424, "entities": [["company", 42, 44]]}
+{"id": 3424, "entities": [["company", 33, 36]]}
+{"id": 3424, "entities": []}
+{"id": 3425, "entities": []}
+{"id": 3426, "entities": [["company", 62, 74]]}
+{"id": 3427, "entities": [["company", 16, 21]]}
+{"id": 3428, "entities": [["company", 89, 91]]}
+{"id": 3429, "entities": []}
+{"id": 3430, "entities": [["company", 62, 74]]}
+{"id": 3431, "entities": []}
+{"id": 3431, "entities": []}
+{"id": 3432, "entities": [["company", 47, 61], ["company", 65, 76]]}
+{"id": 3433, "entities": [["company", 0, 10]]}
+{"id": 3434, "entities": []}
+{"id": 3435, "entities": []}
+{"id": 3436, "entities": []}
+{"id": 3437, "entities": [["company", 41, 45]]}
+{"id": 3438, "entities": []}
+{"id": 3439, "entities": []}
+{"id": 3440, "entities": [["company", 51, 56]]}
+{"id": 3441, "entities": []}
+{"id": 3442, "entities": []}
+{"id": 3443, "entities": []}
+{"id": 3443, "entities": [["company", 39, 46], ["company", 57, 60]]}
+{"id": 3444, "entities": []}
+{"id": 3445, "entities": [["company", 73, 80]]}
+{"id": 3446, "entities": []}
+{"id": 3447, "entities": [["company", 57, 71]]}
+{"id": 3448, "entities": []}
+{"id": 3449, "entities": []}
+{"id": 3450, "entities": [["company", 50, 67]]}
+{"id": 3451, "entities": [["company", 26, 29], ["company", 38, 41], ["company", 78, 79]]}
+{"id": 3452, "entities": [["company", 38, 39]]}
+{"id": 3453, "entities": []}
+{"id": 3454, "entities": [["company", 15, 24]]}
+{"id": 3455, "entities": []}
+{"id": 3456, "entities": [["company", 0, 9], ["company", 70, 77]]}
+{"id": 3457, "entities": []}
+{"id": 3458, "entities": []}
+{"id": 3459, "entities": [["company", 13, 28], ["company", 58, 74]]}
+{"id": 3460, "entities": []}
+{"id": 3461, "entities": [["company", 19, 20], ["company", 22, 24]]}
+{"id": 3462, "entities": [["company", 8, 9]]}
+{"id": 3463, "entities": [["company", 70, 74]]}
+{"id": 3464, "entities": []}
+{"id": 3465, "entities": [["company", 41, 48]]}
+{"id": 3466, "entities": [["company", 0, 8]]}
+{"id": 3467, "entities": [["company", 61, 68]]}
+{"id": 3468, "entities": [["company", 5, 8]]}
+{"id": 3469, "entities": []}
+{"id": 3470, "entities": []}
+{"id": 3471, "entities": []}
+{"id": 3472, "entities": [["company", 16, 23]]}
+{"id": 3472, "entities": [["company", 38, 39], ["company", 69, 70]]}
+{"id": 3472, "entities": [["company", 20, 23]]}
+{"id": 3472, "entities": [["company", 65, 66]]}
+{"id": 3473, "entities": []}
+{"id": 3474, "entities": []}
+{"id": 3475, "entities": []}
+{"id": 3476, "entities": []}
+{"id": 3477, "entities": []}
+{"id": 3478, "entities": []}
+{"id": 3479, "entities": [["company", 48, 49]]}
+{"id": 3480, "entities": []}
+{"id": 3480, "entities": []}
+{"id": 3481, "entities": []}
+{"id": 3482, "entities": []}
+{"id": 3482, "entities": []}
+{"id": 3482, "entities": [["company", 65, 68]]}
+{"id": 3483, "entities": []}
+{"id": 3484, "entities": []}
+{"id": 3485, "entities": []}
+{"id": 3485, "entities": []}
+{"id": 3486, "entities": [["company", 92, 93], ["company", 95, 96]]}
+{"id": 3486, "entities": []}
+{"id": 3486, "entities": []}
+{"id": 3487, "entities": [["company", 1, 2]]}
+{"id": 3488, "entities": []}
+{"id": 3489, "entities": []}
+{"id": 3490, "entities": [["company", 78, 82]]}
+{"id": 3490, "entities": []}
+{"id": 3490, "entities": []}
+{"id": 3490, "entities": [["company", 17, 19]]}
+{"id": 3491, "entities": []}
+{"id": 3492, "entities": []}
+{"id": 3493, "entities": [["company", 0, 12]]}
+{"id": 3494, "entities": []}
+{"id": 3495, "entities": []}
+{"id": 3496, "entities": []}
+{"id": 3497, "entities": []}
+{"id": 3497, "entities": []}
+{"id": 3497, "entities": []}
+{"id": 3497, "entities": [["company", 65, 70], ["company", 93, 100]]}
+{"id": 3497, "entities": [["company", 1, 4]]}
+{"id": 3498, "entities": []}
+{"id": 3499, "entities": []}
+{"id": 3500, "entities": []}
+{"id": 3500, "entities": [["company", 0, 3], ["company", 85, 87]]}
+{"id": 3500, "entities": [["company", 69, 72]]}
+{"id": 3500, "entities": [["company", 26, 27]]}
+{"id": 3500, "entities": []}
+{"id": 3500, "entities": [["company", 31, 36], ["company", 52, 55]]}
+{"id": 3500, "entities": []}
+{"id": 3501, "entities": []}
+{"id": 3501, "entities": [["company", 2, 5]]}
+{"id": 3501, "entities": []}
+{"id": 3502, "entities": []}
+{"id": 3503, "entities": []}
+{"id": 3504, "entities": [["company", 63, 74]]}
+{"id": 3505, "entities": [["company", 77, 86]]}
+{"id": 3506, "entities": [["company", 0, 4]]}
+{"id": 3507, "entities": []}
+{"id": 3508, "entities": []}
+{"id": 3509, "entities": []}
+{"id": 3509, "entities": []}
+{"id": 3510, "entities": []}
+{"id": 3511, "entities": []}
+{"id": 3512, "entities": []}
+{"id": 3513, "entities": []}
+{"id": 3513, "entities": [["company", 40, 41], ["company", 42, 43]]}
+{"id": 3513, "entities": [["company", 53, 58]]}
+{"id": 3514, "entities": []}
+{"id": 3515, "entities": []}
+{"id": 3516, "entities": []}
+{"id": 3517, "entities": [["company", 48, 51], ["company", 53, 56], ["company", 61, 64], ["company", 66, 69]]}
+{"id": 3518, "entities": [["company", 74, 77]]}
+{"id": 3519, "entities": []}
+{"id": 3520, "entities": []}
+{"id": 3521, "entities": []}
+{"id": 3522, "entities": []}
+{"id": 3523, "entities": []}
+{"id": 3524, "entities": []}
+{"id": 3525, "entities": []}
+{"id": 3526, "entities": [["company", 45, 47]]}
+{"id": 3527, "entities": []}
+{"id": 3527, "entities": [["company", 2, 3]]}
+{"id": 3528, "entities": []}
+{"id": 3529, "entities": []}
+{"id": 3530, "entities": []}
+{"id": 3530, "entities": [["company", 72, 76]]}
+{"id": 3530, "entities": [["company", 82, 85]]}
+{"id": 3530, "entities": []}
+{"id": 3531, "entities": []}
+{"id": 3532, "entities": [["company", 69, 83]]}
+{"id": 3533, "entities": []}
+{"id": 3534, "entities": [["company", 23, 28]]}
+{"id": 3535, "entities": [["company", 12, 14], ["company", 22, 23], ["company", 34, 35], ["company", 50, 53], ["company", 55, 62]]}
+{"id": 3535, "entities": [["company", 5, 11]]}
+{"id": 3535, "entities": []}
+{"id": 3536, "entities": []}
+{"id": 3537, "entities": []}
+{"id": 3538, "entities": [["company", 66, 73]]}
+{"id": 3539, "entities": []}
+{"id": 3540, "entities": []}
+{"id": 3541, "entities": []}
+{"id": 3541, "entities": []}
+{"id": 3542, "entities": []}
+{"id": 3543, "entities": []}
+{"id": 3543, "entities": [["company", 7, 8]]}
+{"id": 3544, "entities": []}
+{"id": 3545, "entities": []}
+{"id": 3546, "entities": [["company", 26, 29], ["company", 31, 34], ["company", 36, 52], ["company", 45, 52], ["company", 71, 83]]}
+{"id": 3547, "entities": []}
+{"id": 3548, "entities": [["company", 36, 41], ["company", 46, 55]]}
+{"id": 3549, "entities": []}
+{"id": 3550, "entities": [["company", 14, 19]]}
+{"id": 3550, "entities": [["company", 30, 33], ["company", 54, 62]]}
+{"id": 3550, "entities": []}
+{"id": 3550, "entities": []}
+{"id": 3551, "entities": []}
+{"id": 3552, "entities": []}
+{"id": 3553, "entities": []}
+{"id": 3554, "entities": []}
+{"id": 3555, "entities": []}
+{"id": 3556, "entities": []}
+{"id": 3557, "entities": []}
+{"id": 3558, "entities": []}
+{"id": 3559, "entities": []}
+{"id": 3560, "entities": []}
+{"id": 3561, "entities": [["company", 60, 61], ["company", 63, 74]]}
+{"id": 3562, "entities": [["company", 0, 3]]}
+{"id": 3563, "entities": []}
+{"id": 3564, "entities": []}
+{"id": 3565, "entities": []}
+{"id": 3566, "entities": []}
+{"id": 3567, "entities": []}
+{"id": 3568, "entities": [["company", 28, 33], ["company", 40, 41]]}
+{"id": 3568, "entities": []}
+{"id": 3568, "entities": [["company", 61, 64]]}
+{"id": 3568, "entities": []}
+{"id": 3569, "entities": [["company", 1, 2], ["company", 69, 80]]}
+{"id": 3570, "entities": [["company", 27, 30], ["company", 71, 84]]}
+{"id": 3571, "entities": [["company", 6, 10]]}
+{"id": 3571, "entities": []}
+{"id": 3572, "entities": []}
+{"id": 3572, "entities": []}
+{"id": 3573, "entities": [["company", 35, 36]]}
+{"id": 3574, "entities": []}
+{"id": 3575, "entities": []}
+{"id": 3576, "entities": []}
+{"id": 3577, "entities": [["company", 12, 16]]}
+{"id": 3578, "entities": []}
+{"id": 3579, "entities": []}
+{"id": 3579, "entities": []}
+{"id": 3580, "entities": []}
+{"id": 3580, "entities": []}
+{"id": 3580, "entities": [["company", 1, 4]]}
+{"id": 3581, "entities": [["company", 78, 87]]}
+{"id": 3582, "entities": [["company", 59, 68]]}
+{"id": 3583, "entities": []}
+{"id": 3583, "entities": []}
+{"id": 3584, "entities": []}
+{"id": 3585, "entities": []}
+{"id": 3586, "entities": []}
+{"id": 3586, "entities": []}
+{"id": 3587, "entities": []}
+{"id": 3588, "entities": [["company", 13, 16], ["company", 18, 20]]}
+{"id": 3588, "entities": []}
+{"id": 3588, "entities": []}
+{"id": 3589, "entities": [["company", 76, 92]]}
+{"id": 3590, "entities": []}
+{"id": 3591, "entities": [["company", 13, 16], ["company", 70, 74]]}
+{"id": 3591, "entities": []}
+{"id": 3592, "entities": [["company", 3, 6], ["company", 41, 44]]}
+{"id": 3593, "entities": []}
+{"id": 3594, "entities": [["company", 68, 76]]}
+{"id": 3595, "entities": []}
+{"id": 3596, "entities": []}
+{"id": 3596, "entities": [["company", 0, 1], ["company", 2, 3], ["company", 85, 88]]}
+{"id": 3596, "entities": [["company", 0, 5], ["company", 7, 10]]}
+{"id": 3597, "entities": []}
+{"id": 3598, "entities": []}
+{"id": 3599, "entities": []}
+{"id": 3600, "entities": []}
+{"id": 3601, "entities": [["company", 20, 25]]}
+{"id": 3602, "entities": [["company", 0, 3], ["company", 18, 21]]}
+{"id": 3602, "entities": []}
+{"id": 3603, "entities": [["company", 0, 7], ["company", 4, 7]]}
+{"id": 3604, "entities": []}
+{"id": 3605, "entities": [["company", 69, 72]]}
+{"id": 3606, "entities": []}
+{"id": 3606, "entities": []}
+{"id": 3606, "entities": []}
+{"id": 3607, "entities": []}
+{"id": 3608, "entities": []}
+{"id": 3609, "entities": [["company", 69, 77]]}
+{"id": 3610, "entities": []}
+{"id": 3611, "entities": []}
+{"id": 3612, "entities": [["company", 5, 8]]}
+{"id": 3613, "entities": []}
+{"id": 3614, "entities": []}
+{"id": 3615, "entities": [["company", 55, 68]]}
+{"id": 3616, "entities": []}
+{"id": 3617, "entities": []}
+{"id": 3617, "entities": []}
+{"id": 3617, "entities": []}
+{"id": 3618, "entities": [["company", 28, 29], ["company", 31, 32], ["company", 34, 35], ["company", 37, 38], ["company", 40, 41], ["company", 43, 44], ["company", 46, 47], ["company", 61, 62]]}
+{"id": 3619, "entities": [["company", 0, 1]]}
+{"id": 3620, "entities": []}
+{"id": 3621, "entities": [["company", 27, 36], ["company", 41, 60]]}
+{"id": 3622, "entities": []}
+{"id": 3623, "entities": []}
+{"id": 3624, "entities": [["company", 73, 74]]}
+{"id": 3624, "entities": []}
+{"id": 3625, "entities": []}
+{"id": 3626, "entities": []}
+{"id": 3627, "entities": []}
+{"id": 3628, "entities": []}
+{"id": 3629, "entities": []}
+{"id": 3630, "entities": []}
+{"id": 3631, "entities": []}
+{"id": 3632, "entities": [["company", 3, 7], ["company", 63, 66]]}
+{"id": 3633, "entities": []}
+{"id": 3634, "entities": []}
+{"id": 3634, "entities": []}
+{"id": 3634, "entities": []}
+{"id": 3635, "entities": []}
+{"id": 3636, "entities": []}
+{"id": 3636, "entities": [["company", 43, 56], ["company", 58, 66]]}
+{"id": 3636, "entities": []}
+{"id": 3637, "entities": []}
+{"id": 3638, "entities": []}
+{"id": 3639, "entities": []}
+{"id": 3640, "entities": []}
+{"id": 3641, "entities": [["company", 52, 55]]}
+{"id": 3641, "entities": [["company", 26, 33]]}
+{"id": 3641, "entities": []}
+{"id": 3641, "entities": []}
+{"id": 3641, "entities": []}
+{"id": 3642, "entities": []}
+{"id": 3642, "entities": []}
+{"id": 3643, "entities": [["company", 32, 40]]}
+{"id": 3644, "entities": []}
+{"id": 3645, "entities": []}
+{"id": 3645, "entities": []}
+{"id": 3645, "entities": []}
+{"id": 3646, "entities": [["company", 58, 61]]}
+{"id": 3647, "entities": [["company", 11, 13], ["company", 37, 39]]}
+{"id": 3648, "entities": [["company", 8, 13]]}
+{"id": 3648, "entities": [["company", 38, 39]]}
+{"id": 3648, "entities": []}
+{"id": 3648, "entities": []}
+{"id": 3648, "entities": [["company", 0, 1], ["company", 28, 31]]}
+{"id": 3648, "entities": []}
+{"id": 3649, "entities": [["company", 0, 5], ["company", 60, 63], ["company", 66, 71]]}
+{"id": 3650, "entities": []}
+{"id": 3650, "entities": []}
+{"id": 3651, "entities": []}
+{"id": 3652, "entities": []}
+{"id": 3653, "entities": []}
+{"id": 3654, "entities": []}
+{"id": 3655, "entities": [["company", 58, 69]]}
+{"id": 3656, "entities": []}
+{"id": 3657, "entities": []}
+{"id": 3657, "entities": [["company", 0, 4]]}
+{"id": 3658, "entities": [["company", 17, 18], ["company", 57, 59]]}
+{"id": 3658, "entities": []}
+{"id": 3658, "entities": [["company", 78, 80]]}
+{"id": 3659, "entities": []}
+{"id": 3660, "entities": []}
+{"id": 3661, "entities": []}
+{"id": 3662, "entities": [["company", 64, 71]]}
+{"id": 3663, "entities": []}
+{"id": 3664, "entities": []}
+{"id": 3665, "entities": []}
+{"id": 3666, "entities": [["company", 0, 1], ["company", 40, 43]]}
+{"id": 3667, "entities": []}
+{"id": 3668, "entities": []}
+{"id": 3668, "entities": [["company", 58, 62], ["company", 82, 83]]}
+{"id": 3669, "entities": [["company", 52, 57]]}
+{"id": 3670, "entities": []}
+{"id": 3671, "entities": []}
+{"id": 3671, "entities": [["company", 3, 11], ["company", 68, 69]]}
+{"id": 3672, "entities": []}
+{"id": 3673, "entities": []}
+{"id": 3674, "entities": []}
+{"id": 3674, "entities": []}
+{"id": 3675, "entities": []}
+{"id": 3675, "entities": [["company", 0, 1], ["company", 36, 39]]}
+{"id": 3675, "entities": []}
+{"id": 3676, "entities": []}
+{"id": 3677, "entities": []}
+{"id": 3678, "entities": []}
+{"id": 3679, "entities": []}
+{"id": 3680, "entities": []}
+{"id": 3680, "entities": []}
+{"id": 3681, "entities": []}
+{"id": 3682, "entities": [["company", 8, 9]]}
+{"id": 3683, "entities": []}
+{"id": 3684, "entities": []}
+{"id": 3685, "entities": []}
+{"id": 3686, "entities": []}
+{"id": 3687, "entities": [["company", 25, 31]]}
+{"id": 3688, "entities": [["company", 8, 10], ["company", 68, 71]]}
+{"id": 3689, "entities": [["company", 33, 36]]}
+{"id": 3689, "entities": []}
+{"id": 3689, "entities": []}
+{"id": 3689, "entities": [["company", 51, 52], ["company", 65, 69]]}
+{"id": 3690, "entities": []}
+{"id": 3691, "entities": []}
+{"id": 3692, "entities": []}
+{"id": 3693, "entities": []}
+{"id": 3694, "entities": [["company", 4, 7]]}
+{"id": 3695, "entities": [["company", 39, 40]]}
+{"id": 3696, "entities": [["company", 46, 49], ["company", 65, 72]]}
+{"id": 3697, "entities": []}
+{"id": 3698, "entities": []}
+{"id": 3699, "entities": []}
+{"id": 3699, "entities": []}
+{"id": 3700, "entities": []}
+{"id": 3701, "entities": []}
+{"id": 3702, "entities": [["company", 0, 3]]}
+{"id": 3702, "entities": []}
+{"id": 3703, "entities": []}
+{"id": 3704, "entities": [["company", 42, 47], ["company", 61, 72]]}
+{"id": 3705, "entities": []}
+{"id": 3706, "entities": []}
+{"id": 3707, "entities": [["company", 90, 95]]}
+{"id": 3708, "entities": []}
+{"id": 3709, "entities": []}
+{"id": 3710, "entities": [["company", 0, 3], ["company", 5, 8], ["company", 10, 12]]}
+{"id": 3711, "entities": []}
+{"id": 3712, "entities": []}
+{"id": 3713, "entities": [["company", 8, 9]]}
+{"id": 3714, "entities": []}
+{"id": 3715, "entities": [["company", 12, 13], ["company", 44, 47]]}
+{"id": 3716, "entities": []}
+{"id": 3717, "entities": [["company", 0, 10], ["company", 55, 65]]}
+{"id": 3718, "entities": []}
+{"id": 3719, "entities": []}
+{"id": 3720, "entities": []}
+{"id": 3721, "entities": []}
+{"id": 3722, "entities": [["company", 64, 73]]}
+{"id": 3723, "entities": []}
+{"id": 3724, "entities": [["company", 60, 66]]}
+{"id": 3725, "entities": []}
+{"id": 3726, "entities": []}
+{"id": 3727, "entities": []}
+{"id": 3728, "entities": [["company", 44, 47]]}
+{"id": 3728, "entities": []}
+{"id": 3729, "entities": [["company", 61, 72]]}
+{"id": 3730, "entities": []}
+{"id": 3731, "entities": []}
+{"id": 3732, "entities": []}
+{"id": 3733, "entities": [["company", 35, 50], ["company", 44, 50], ["company", 68, 75]]}
+{"id": 3734, "entities": []}
+{"id": 3735, "entities": []}
+{"id": 3736, "entities": []}
+{"id": 3737, "entities": []}
+{"id": 3738, "entities": [["company", 43, 44]]}
+{"id": 3739, "entities": []}
+{"id": 3740, "entities": [["company", 8, 11]]}
+{"id": 3741, "entities": []}
+{"id": 3741, "entities": [["company", 9, 16]]}
+{"id": 3742, "entities": []}
+{"id": 3743, "entities": []}
+{"id": 3744, "entities": [["company", 42, 53]]}
+{"id": 3745, "entities": []}
+{"id": 3745, "entities": []}
+{"id": 3746, "entities": []}
+{"id": 3747, "entities": [["company", 22, 25]]}
+{"id": 3748, "entities": [["company", 47, 61]]}
+{"id": 3749, "entities": [["company", 59, 68]]}
+{"id": 3750, "entities": []}
+{"id": 3751, "entities": []}
+{"id": 3752, "entities": [["company", 33, 38], ["company", 55, 62]]}
+{"id": 3752, "entities": []}
+{"id": 3753, "entities": []}
+{"id": 3754, "entities": []}
+{"id": 3755, "entities": [["company", 59, 60]]}
+{"id": 3755, "entities": [["company", 48, 51]]}
+{"id": 3755, "entities": []}
+{"id": 3756, "entities": []}
+{"id": 3756, "entities": []}
+{"id": 3757, "entities": []}
+{"id": 3758, "entities": []}
+{"id": 3759, "entities": []}
+{"id": 3760, "entities": []}
+{"id": 3761, "entities": []}
+{"id": 3762, "entities": [["company", 26, 29], ["company", 39, 42], ["company", 76, 87]]}
+{"id": 3763, "entities": []}
+{"id": 3763, "entities": []}
+{"id": 3764, "entities": []}
+{"id": 3765, "entities": []}
+{"id": 3766, "entities": []}
+{"id": 3767, "entities": []}
+{"id": 3768, "entities": []}
+{"id": 3769, "entities": [["company", 0, 1]]}
+{"id": 3770, "entities": []}
+{"id": 3771, "entities": []}
+{"id": 3772, "entities": []}
+{"id": 3773, "entities": []}
+{"id": 3774, "entities": [["company", 56, 57]]}
+{"id": 3774, "entities": []}
+{"id": 3774, "entities": []}
+{"id": 3775, "entities": [["company", 0, 4], ["company", 59, 71]]}
+{"id": 3776, "entities": []}
+{"id": 3777, "entities": []}
+{"id": 3778, "entities": [["company", 50, 53]]}
+{"id": 3778, "entities": []}
+{"id": 3778, "entities": []}
+{"id": 3778, "entities": []}
+{"id": 3778, "entities": [["company", 46, 47], ["company", 93, 94]]}
+{"id": 3778, "entities": [["company", 21, 22], ["company", 43, 47]]}
+{"id": 3778, "entities": []}
+{"id": 3778, "entities": [["company", 71, 74]]}
+{"id": 3778, "entities": []}
+{"id": 3778, "entities": []}
+{"id": 3778, "entities": [["company", 0, 1]]}
+{"id": 3779, "entities": [["company", 23, 34], ["company", 77, 85]]}
+{"id": 3780, "entities": [["company", 27, 36]]}
+{"id": 3781, "entities": [["company", 0, 10]]}
+{"id": 3782, "entities": [["company", 47, 49], ["company", 78, 81]]}
+{"id": 3782, "entities": [["company", 38, 41]]}
+{"id": 3783, "entities": []}
+{"id": 3784, "entities": [["company", 0, 5]]}
+{"id": 3784, "entities": []}
+{"id": 3785, "entities": []}
+{"id": 3786, "entities": []}
+{"id": 3787, "entities": [["company", 64, 75]]}
+{"id": 3788, "entities": []}
+{"id": 3788, "entities": []}
+{"id": 3788, "entities": [["company", 8, 10]]}
+{"id": 3789, "entities": [["company", 0, 3]]}
+{"id": 3790, "entities": []}
+{"id": 3791, "entities": [["company", 7, 12], ["company", 14, 19]]}
+{"id": 3791, "entities": []}
+{"id": 3791, "entities": []}
+{"id": 3792, "entities": [["company", 0, 5], ["company", 53, 58]]}
+{"id": 3793, "entities": [["company", 58, 61], ["company", 63, 76]]}
+{"id": 3794, "entities": []}
+{"id": 3795, "entities": []}
+{"id": 3796, "entities": []}
+{"id": 3797, "entities": []}
+{"id": 3798, "entities": []}
+{"id": 3799, "entities": [["company", 82, 93]]}
+{"id": 3800, "entities": []}
+{"id": 3800, "entities": []}
+{"id": 3801, "entities": []}
+{"id": 3802, "entities": [["company", 89, 94]]}
+{"id": 3802, "entities": [["company", 0, 2]]}
+{"id": 3803, "entities": [["company", 40, 47]]}
+{"id": 3804, "entities": []}
+{"id": 3804, "entities": [["company", 79, 85]]}
+{"id": 3804, "entities": []}
+{"id": 3805, "entities": [["company", 50, 55]]}
+{"id": 3806, "entities": []}
+{"id": 3806, "entities": [["company", 87, 88]]}
+{"id": 3807, "entities": []}
+{"id": 3808, "entities": []}
+{"id": 3809, "entities": []}
+{"id": 3810, "entities": [["company", 51, 68]]}
+{"id": 3811, "entities": []}
+{"id": 3812, "entities": []}
+{"id": 3813, "entities": [["company", 69, 76], ["company", 94, 95]]}
+{"id": 3813, "entities": [["company", 27, 29]]}
+{"id": 3814, "entities": []}
+{"id": 3815, "entities": [["company", 0, 3], ["company", 12, 15]]}
+{"id": 3815, "entities": [["company", 72, 75]]}
+{"id": 3816, "entities": [["company", 81, 89]]}
+{"id": 3817, "entities": []}
+{"id": 3818, "entities": []}
+{"id": 3819, "entities": []}
+{"id": 3819, "entities": []}
+{"id": 3819, "entities": []}
+{"id": 3820, "entities": []}
+{"id": 3821, "entities": []}
+{"id": 3822, "entities": []}
+{"id": 3823, "entities": []}
+{"id": 3824, "entities": []}
+{"id": 3825, "entities": []}
+{"id": 3826, "entities": []}
+{"id": 3827, "entities": [["company", 2, 3], ["company", 19, 20]]}
+{"id": 3827, "entities": []}
+{"id": 3828, "entities": []}
+{"id": 3829, "entities": []}
+{"id": 3829, "entities": [["company", 0, 5]]}
+{"id": 3830, "entities": []}
+{"id": 3831, "entities": []}
+{"id": 3832, "entities": [["company", 76, 86]]}
+{"id": 3833, "entities": []}
+{"id": 3834, "entities": []}
+{"id": 3835, "entities": [["company", 66, 69], ["company", 73, 74]]}
+{"id": 3835, "entities": []}
+{"id": 3836, "entities": []}
+{"id": 3836, "entities": []}
+{"id": 3837, "entities": []}
+{"id": 3838, "entities": []}
+{"id": 3839, "entities": [["company", 0, 3]]}
+{"id": 3840, "entities": []}
+{"id": 3841, "entities": [["company", 0, 2]]}
+{"id": 3842, "entities": []}
+{"id": 3842, "entities": []}
+{"id": 3843, "entities": [["company", 67, 69]]}
+{"id": 3843, "entities": []}
+{"id": 3843, "entities": [["company", 10, 12]]}
+{"id": 3844, "entities": []}
+{"id": 3845, "entities": []}
+{"id": 3846, "entities": []}
+{"id": 3847, "entities": []}
+{"id": 3848, "entities": [["company", 37, 44]]}
+{"id": 3849, "entities": []}
+{"id": 3849, "entities": [["company", 35, 41]]}
+{"id": 3849, "entities": []}
+{"id": 3850, "entities": [["company", 62, 63]]}
+{"id": 3851, "entities": [["company", 71, 77]]}
+{"id": 3852, "entities": []}
+{"id": 3853, "entities": []}
+{"id": 3854, "entities": []}
+{"id": 3855, "entities": [["company", 64, 69]]}
+{"id": 3856, "entities": []}
+{"id": 3857, "entities": [["company", 73, 76]]}
+{"id": 3857, "entities": []}
+{"id": 3858, "entities": []}
+{"id": 3859, "entities": []}
+{"id": 3860, "entities": []}
+{"id": 3861, "entities": []}
+{"id": 3862, "entities": []}
+{"id": 3863, "entities": []}
+{"id": 3864, "entities": []}
+{"id": 3865, "entities": [["company", 42, 45], ["company", 65, 68]]}
+{"id": 3866, "entities": [["company", 4, 9], ["company", 25, 28]]}
+{"id": 3867, "entities": [["company", 0, 3]]}
+{"id": 3867, "entities": []}
+{"id": 3868, "entities": []}
+{"id": 3869, "entities": [["company", 0, 6]]}
+{"id": 3870, "entities": [["company", 71, 77]]}
+{"id": 3870, "entities": [["company", 18, 21], ["company", 55, 56], ["company", 71, 73], ["company", 75, 76]]}
+{"id": 3870, "entities": []}
+{"id": 3871, "entities": [["company", 0, 3]]}
+{"id": 3872, "entities": []}
+{"id": 3873, "entities": [["company", 42, 57]]}
+{"id": 3874, "entities": []}
+{"id": 3875, "entities": []}
+{"id": 3875, "entities": []}
+{"id": 3876, "entities": []}
+{"id": 3877, "entities": [["company", 61, 75]]}
+{"id": 3878, "entities": []}
+{"id": 3879, "entities": []}
+{"id": 3880, "entities": []}
+{"id": 3881, "entities": []}
+{"id": 3882, "entities": [["company", 39, 47]]}
+{"id": 3882, "entities": [["company", 2, 5]]}
+{"id": 3883, "entities": [["company", 34, 45], ["company", 50, 53]]}
+{"id": 3884, "entities": [["company", 0, 10]]}
+{"id": 3884, "entities": []}
+{"id": 3885, "entities": [["company", 38, 41]]}
+{"id": 3886, "entities": []}
+{"id": 3887, "entities": []}
+{"id": 3888, "entities": [["company", 59, 63]]}
+{"id": 3889, "entities": []}
+{"id": 3890, "entities": [["company", 78, 89]]}
+{"id": 3891, "entities": []}
+{"id": 3892, "entities": []}
+{"id": 3892, "entities": []}
+{"id": 3893, "entities": [["company", 46, 55]]}
+{"id": 3894, "entities": []}
+{"id": 3895, "entities": []}
+{"id": 3895, "entities": []}
+{"id": 3895, "entities": []}
+{"id": 3895, "entities": []}
+{"id": 3896, "entities": []}
+{"id": 3897, "entities": []}
+{"id": 3898, "entities": [["company", 0, 1], ["company", 2, 3], ["company", 71, 78]]}
+{"id": 3899, "entities": []}
+{"id": 3900, "entities": []}
+{"id": 3901, "entities": []}
+{"id": 3901, "entities": []}
+{"id": 3902, "entities": []}
+{"id": 3903, "entities": [["company", 33, 34], ["company", 36, 37], ["company", 82, 88]]}
+{"id": 3904, "entities": []}
+{"id": 3905, "entities": [["company", 6, 10]]}
+{"id": 3906, "entities": []}
+{"id": 3907, "entities": []}
+{"id": 3908, "entities": []}
+{"id": 3909, "entities": []}
+{"id": 3910, "entities": [["company", 16, 20]]}
+{"id": 3910, "entities": [["company", 58, 61]]}
+{"id": 3910, "entities": [["company", 20, 23]]}
+{"id": 3910, "entities": [["company", 27, 39]]}
+{"id": 3911, "entities": [["company", 65, 77]]}
+{"id": 3912, "entities": []}
+{"id": 3913, "entities": []}
+{"id": 3914, "entities": []}
+{"id": 3915, "entities": []}
+{"id": 3916, "entities": []}
+{"id": 3917, "entities": [["company", 16, 17], ["company", 19, 22]]}
+{"id": 3918, "entities": []}
+{"id": 3919, "entities": []}
+{"id": 3920, "entities": []}
+{"id": 3921, "entities": []}
+{"id": 3922, "entities": []}
+{"id": 3923, "entities": []}
+{"id": 3924, "entities": []}
+{"id": 3925, "entities": []}
+{"id": 3926, "entities": []}
+{"id": 3927, "entities": []}
+{"id": 3928, "entities": []}
+{"id": 3928, "entities": []}
+{"id": 3929, "entities": [["company", 29, 32]]}
+{"id": 3930, "entities": []}
+{"id": 3931, "entities": []}
+{"id": 3932, "entities": [["company", 74, 87]]}
+{"id": 3933, "entities": [["company", 7, 15], ["company", 29, 44], ["company", 37, 44], ["company", 67, 72]]}
+{"id": 3934, "entities": []}
+{"id": 3935, "entities": []}
+{"id": 3935, "entities": []}
+{"id": 3935, "entities": []}
+{"id": 3935, "entities": [["company", 37, 40]]}
+{"id": 3935, "entities": [["company", 17, 22], ["company", 26, 29], ["company", 46, 49]]}
+{"id": 3935, "entities": []}
+{"id": 3935, "entities": [["company", 22, 25], ["company", 35, 38], ["company", 44, 47]]}
+{"id": 3935, "entities": []}
+{"id": 3935, "entities": [["company", 64, 65]]}
+{"id": 3935, "entities": []}
+{"id": 3935, "entities": []}
+{"id": 3936, "entities": [["company", 83, 86], ["company", 105, 106]]}
+{"id": 3936, "entities": [["company", 80, 81]]}
+{"id": 3937, "entities": []}
+{"id": 3938, "entities": []}
+{"id": 3939, "entities": []}
+{"id": 3940, "entities": []}
+{"id": 3941, "entities": [["company", 51, 56], ["company", 80, 85]]}
+{"id": 3942, "entities": []}
+{"id": 3943, "entities": []}
+{"id": 3944, "entities": []}
+{"id": 3945, "entities": []}
+{"id": 3946, "entities": []}
+{"id": 3947, "entities": [["company", 56, 61]]}
+{"id": 3948, "entities": []}
+{"id": 3949, "entities": []}
+{"id": 3950, "entities": []}
+{"id": 3951, "entities": []}
+{"id": 3952, "entities": []}
+{"id": 3953, "entities": []}
+{"id": 3954, "entities": []}
+{"id": 3955, "entities": [["company", 12, 14]]}
